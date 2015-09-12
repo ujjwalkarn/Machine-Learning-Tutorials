@@ -1,4 +1,4 @@
-library(MASS)
+library(MASS) #loads dataset from the book MASS
 library(ISLR) #dataset by Statistical Learning professors
 
 ##Simple Linear Regression
@@ -44,8 +44,9 @@ predict(fit1,data.frame(lstat=c(5,10,15)),interval="confidence")
 ##Multiple Linear Regression
 fit2<-lm(medv~lstat+age,data=Boston) 
 summary(fit2)
-plot(fit1$residuals)
-hist(fit1$residuals)
+plot(fit2$residuals)
+plot(fitted(fit2),fit2$residuals)
+hist(fit2$residuals)
 
 fit3<-lm(medv~.,data=Boston)
 summary(fit3)
@@ -54,6 +55,10 @@ summary(fit3)
 par(mfrow=c(2,2))
 plot(fit3)
 hist(fit3$residuals)
+
+par(mfrow=c(1,1))
+plot(fitted(fit3),fit3$residuals)
+
 
 fit4<- update(fit3,~.-age-indus)
 summary(fit4)
@@ -93,4 +98,15 @@ fit8<-lm(Sales~.+Income*Advertising+Age:Price,data=Carseats)
 summary(fit8)
 
 #ShelveLoc is a qualitative predictor
+#contrasts shows how factors are treated in the model
+#only 2 dummy variables "Good" AND "Medium" are generated
+#number of dummy variables is 1 less than number of levels in the
+#factor variable (ShelveLoc) to prevent multi collinearity
 contrasts(Carseats$ShelveLoc)
+#        Good Medium
+# Bad       0      0
+# Good      1      0
+# Medium    0      1
+
+
+
