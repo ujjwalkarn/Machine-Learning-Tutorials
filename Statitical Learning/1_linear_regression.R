@@ -59,7 +59,7 @@ hist(fit3$residuals)
 par(mfrow=c(1,1))
 plot(fitted(fit3),fit3$residuals)
 
-
+#update function used below to remove 'age' and 'indus' from the model 
 fit4<- update(fit3,~.-age-indus)
 summary(fit4)
 
