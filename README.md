@@ -5,6 +5,7 @@ General Stuff:
 - [Comparing Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
 - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+- [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 Linear Regression
 - [Assumptions of Linear Regression](http://pareonline.net/getvn.asp?n=2&v=8)
@@ -17,6 +18,8 @@ Linear Regression
 Logistic Regression
 - [Obtaining predicted categories (choosing threshold)](http://stats.stackexchange.com/questions/25389/obtaining-predicted-values-y-1-or-0-from-a-logistic-regression-model-fit)
 
+Bayesian Machine Learning
+- [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
 Applications
 - [Detecting Fraudulent Skype Users via Machine Learning](http://www.dataschool.io/detecting-fraudulent-skype-users-via-machine-learning/),[Original Paper](http://research.microsoft.com/pubs/205472/aisec10-leontjeva.pdf)
 
