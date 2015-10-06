@@ -8,6 +8,18 @@ General Stuff:
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 - [Useful Data Science Resources](http://www.dataschool.io/learning-data-science-fundamentals/)
 - [The Data School Blog](http://www.dataschool.io/)
+- [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
+
+Resources on Quora
+- [Data Science Topic on Quora](https://www.quora.com/Data-Science)
+- [William Chen's Answers](https://www.quora.com/William-Chen-6/answers)
+- [Michael Hochster's Answers](https://www.quora.com/Michael-Hochster/answers)
+- [Ricardo Vladimiro's Answers](https://www.quora.com/Ricardo-Vladimiro-1/answers)
+- [Storytelling with Statistics](https://datastories.quora.com/)
+
+Cheat Sheets:
+- [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf), [Source](http://www.wzchen.com/probability-cheatsheet/)
+
 
 Linear Regression
 - [Assumptions of Linear Regression](http://pareonline.net/getvn.asp?n=2&v=8)
