@@ -12,7 +12,7 @@ Linear Regression
 - [Applying and Interpreting Linear Regression](http://www.dataschool.io/applying-and-interpreting-linear-regression/)
 - [Interpreting plot.lm() in R](http://stats.stackexchange.com/questions/58141/interpreting-plot-lm)
 - [How to interpret a QQ plot?](http://stats.stackexchange.com/questions/101274/how-to-interpret-a-qq-plot?lq=1)
-- [What does having constant variance in a linear regression model? mean](http://stats.stackexchange.com/questions/52089/what-does-having-constant-variance-in-a-linear-regression-model-mean/52107?stw=2#52107)
+- [What does having constant variance in a linear regression model mean?](http://stats.stackexchange.com/questions/52089/what-does-having-constant-variance-in-a-linear-regression-model-mean/52107?stw=2#52107)
 
 Logistic Regression
 - [Obtaining predicted categories (choosing threshold)](http://stats.stackexchange.com/questions/25389/obtaining-predicted-values-y-1-or-0-from-a-logistic-regression-model-fit)
