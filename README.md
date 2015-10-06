@@ -5,7 +5,6 @@ General Stuff:
 - [Comparing Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
 - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
-- [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 - [Useful Data Science Resources](http://www.dataschool.io/learning-data-science-fundamentals/)
 - [The Data School Blog](http://www.dataschool.io/)
 - [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
@@ -19,6 +18,7 @@ Resources on Quora
 
 Cheat Sheets:
 - [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf), [Source](http://www.wzchen.com/probability-cheatsheet/)
+- [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 
 Linear Regression
