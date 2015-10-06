@@ -6,6 +6,8 @@ General Stuff:
 - [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
 - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- [Useful Data Science Resources](http://www.dataschool.io/learning-data-science-fundamentals/)
+- [The Data School Blog](http://www.dataschool.io/)
 
 Linear Regression
 - [Assumptions of Linear Regression](http://pareonline.net/getvn.asp?n=2&v=8)
@@ -14,6 +16,9 @@ Linear Regression
 - [Interpreting plot.lm() in R](http://stats.stackexchange.com/questions/58141/interpreting-plot-lm)
 - [How to interpret a QQ plot?](http://stats.stackexchange.com/questions/101274/how-to-interpret-a-qq-plot?lq=1)
 - [What does having constant variance in a linear regression model mean?](http://stats.stackexchange.com/questions/52089/what-does-having-constant-variance-in-a-linear-regression-model-mean/52107?stw=2#52107)
+- [Difference between linear regression on y with x and x with y](http://stats.stackexchange.com/questions/22718/what-is-the-difference-between-linear-regression-on-y-with-x-and-x-with-y?lq=1)
+- [How should outliers be dealt with?](http://stats.stackexchange.com/questions/175/how-should-outliers-be-dealt-with-in-linear-regression-analysis)
+- [Interpreting Residuals vs Fitted Plot](http://stats.stackexchange.com/questions/76226/interpreting-the-residuals-vs-fitted-values-plot-for-verifying-the-assumptions)
 
 Logistic Regression
 - [Obtaining predicted categories (choosing threshold)](http://stats.stackexchange.com/questions/25389/obtaining-predicted-values-y-1-or-0-from-a-logistic-regression-model-fit)
