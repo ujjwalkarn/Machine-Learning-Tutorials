@@ -51,6 +51,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Logistic Regression
 - [Obtaining predicted categories (choosing threshold)](http://stats.stackexchange.com/questions/25389/obtaining-predicted-values-y-1-or-0-from-a-logistic-regression-model-fit)
+- [Residuals in logistic regression (Awesome!)](http://stats.stackexchange.com/questions/1432/what-do-the-residuals-in-a-logistic-regression-mean)
 
 
 ##Neural Networks
