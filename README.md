@@ -55,6 +55,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Bayesian Machine Learning
 - [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
+- [Tutorial on Bayesian Optimisation for Machine Learning](http://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
 
 ##Applications
 - [Detecting Fraudulent Skype Users via Machine Learning](http://www.dataschool.io/detecting-fraudulent-skype-users-via-machine-learning/),[Original Paper](http://research.microsoft.com/pubs/205472/aisec10-leontjeva.pdf)
