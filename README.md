@@ -41,6 +41,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Applying and Interpreting Linear Regression](http://www.dataschool.io/applying-and-interpreting-linear-regression/)
     - [What does having constant variance in a linear regression model mean?](http://stats.stackexchange.com/questions/52089/what-does-having-constant-variance-in-a-linear-regression-model-mean/52107?stw=2#52107)
     - [Difference between linear regression on y with x and x with y](http://stats.stackexchange.com/questions/22718/what-is-the-difference-between-linear-regression-on-y-with-x-and-x-with-y?lq=1)
+    - [Is linear regression valid when the dependant variable is not normally distributed?](http://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed)
 
 - [Residual Analysis](#residuals-)
     - [Interpreting plot.lm() in R](http://stats.stackexchange.com/questions/58141/interpreting-plot-lm)
