@@ -12,6 +12,10 @@ This repository contains codes and other resources related to Machine Learning.
 ##Statistics
 - [Stat Trek Website](http://stattrek.com/)
 - [Sampling Distributions Explained](http://stattrek.com/sampling/sampling-distribution.aspx)
+- Tutorials
+    - [AP Statistics Tutorial](http://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
+    - [Statistics and Probability Tutorial](http://stattrek.com/tutorials/statistics-tutorial.aspx)
+    - [Matrix Algebra Tutorial](http://stattrek.com/tutorials/matrix-algebra-tutorial.aspx)
 
 ##Resources on Quora
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
