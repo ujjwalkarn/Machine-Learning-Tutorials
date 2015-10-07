@@ -36,7 +36,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Linear Regression
 - [General](#general-)
-    - [Assumptions of Linear Regression](http://pareonline.net/getvn.asp?n=2&v=8)
+    - [Assumptions of Linear Regression](http://pareonline.net/getvn.asp?n=2&v=8), [MUST SEE!](http://stats.stackexchange.com/questions/16381/what-is-a-complete-list-of-the-usual-assumptions-for-linear-regression)
     - [Linear Regression Comprehensive Resource](http://people.duke.edu/~rnau/regintro.htm)
     - [Applying and Interpreting Linear Regression](http://www.dataschool.io/applying-and-interpreting-linear-regression/)
     - [What does having constant variance in a linear regression model mean?](http://stats.stackexchange.com/questions/52089/what-does-having-constant-variance-in-a-linear-regression-model-mean/52107?stw=2#52107)
