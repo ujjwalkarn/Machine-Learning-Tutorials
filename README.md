@@ -9,7 +9,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [The Data School Blog](http://www.dataschool.io/)
 - [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
 
-##Statitics
+##Statistics
 - [Stat Trek Website](http://stattrek.com/)
 - [Sampling Distributions Explained](http://stattrek.com/sampling/sampling-distribution.aspx)
 
