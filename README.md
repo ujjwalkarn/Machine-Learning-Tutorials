@@ -16,6 +16,9 @@ This repository contains codes and other resources related to Machine Learning.
 - [Ricardo Vladimiro's Answers](https://www.quora.com/Ricardo-Vladimiro-1/answers)
 - [Storytelling with Statistics](https://datastories.quora.com/)
 
+Resources on Kaggle
+- [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
+
 ##Cheat Sheets:
 - [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf), [Source](http://www.wzchen.com/probability-cheatsheet/)
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
