@@ -9,6 +9,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [The Data School Blog](http://www.dataschool.io/)
 - [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
 
+##Statitics
+- [Stat Trek Website](http://stattrek.com/)
+- [Sampling Distributions Explained](http://stattrek.com/sampling/sampling-distribution.aspx)
+
 ##Resources on Quora
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
 - [William Chen's Answers](https://www.quora.com/William-Chen-6/answers)
