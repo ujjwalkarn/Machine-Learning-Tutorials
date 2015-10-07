@@ -17,6 +17,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Statistics and Probability Tutorial](http://stattrek.com/tutorials/statistics-tutorial.aspx)
     - [Matrix Algebra Tutorial](http://stattrek.com/tutorials/matrix-algebra-tutorial.aspx)
 - [What is an Unbiased Estimator](https://www.physicsforums.com/threads/what-is-an-unbiased-estimator.547728/), [Unbiased Estimate](http://stattrek.com/statistics/dictionary.aspx?definition=Unbiased_estimator)
+- [Goodness of Fit Explained](https://en.wikipedia.org/wiki/Goodness_of_fit)
 
 ##Resources on Quora
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
