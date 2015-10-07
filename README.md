@@ -16,7 +16,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Ricardo Vladimiro's Answers](https://www.quora.com/Ricardo-Vladimiro-1/answers)
 - [Storytelling with Statistics](https://datastories.quora.com/)
 
-Resources on Kaggle
+##Resources on Kaggle
 - [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
 
 ##Cheat Sheets:
