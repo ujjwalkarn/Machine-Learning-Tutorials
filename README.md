@@ -1,5 +1,7 @@
 This repository contains codes and other resources related to Machine Learning.
 
+##[MIT Machine Learning Lecture Slides (Must Download!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
+
 ##General Stuff
 - [Awesome Machine Learning frameworks, libraries and software](https://github.com/ujjwalkarn/awesome-machine-learning)
 - [Comparing Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
@@ -57,6 +59,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Obtaining predicted categories (choosing threshold)](http://stats.stackexchange.com/questions/25389/obtaining-predicted-values-y-1-or-0-from-a-logistic-regression-model-fit)
 - [Residuals in logistic regression (Awesome!)](http://stats.stackexchange.com/questions/1432/what-do-the-residuals-in-a-logistic-regression-mean)
 - [Difference between logit and probit models](http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#30909), [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression), [Probit Model Wiki](https://en.wikipedia.org/wiki/Probit_model) 
+- [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
 
 
 ##Neural Networks
