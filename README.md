@@ -53,8 +53,10 @@ This repository contains codes and other resources related to Machine Learning.
 
 
 ##Logistic Regression
+- [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression)
 - [Obtaining predicted categories (choosing threshold)](http://stats.stackexchange.com/questions/25389/obtaining-predicted-values-y-1-or-0-from-a-logistic-regression-model-fit)
 - [Residuals in logistic regression (Awesome!)](http://stats.stackexchange.com/questions/1432/what-do-the-residuals-in-a-logistic-regression-mean)
+- [Difference between logit and probit models](http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#30909), [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression), [Probit Model Wiki](https://en.wikipedia.org/wiki/Probit_model) 
 
 
 ##Neural Networks
