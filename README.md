@@ -1,8 +1,7 @@
 This repository contains codes and other resources related to Machine Learning.
 
-##[MIT Machine Learning Lecture Slides (Must Download!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
-
 ##General Stuff
+- [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
 - [Awesome Machine Learning frameworks, libraries and software](https://github.com/ujjwalkarn/awesome-machine-learning)
 - [Comparing Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
