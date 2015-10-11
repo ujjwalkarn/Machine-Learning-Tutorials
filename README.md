@@ -76,6 +76,7 @@ This repository contains codes and other resources related to Machine Learning.
 ##Bayesian Machine Learning
 - [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
 - [Tutorial on Bayesian Optimisation for Machine Learning](http://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
+- [Bayesian Reasoning and Deep Learning](http://blog.shakirm.com/2015/10/bayesian-reasoning-and-deep-learning/), [Slides](http://blog.shakirm.com/wp-content/uploads/2015/10/Bayes_Deep.pdf)
 
 ##Optimization
 - [Mean Variance Portfolio Optimization with R and Quadratic Programming](http://www.wdiam.com/2012/06/10/mean-variance-portfolio-optimization-with-r-and-quadratic-programming/?utm_content=buffer04c12&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
