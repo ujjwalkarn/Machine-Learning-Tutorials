@@ -12,6 +12,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Statistics
 - [Stat Trek Website](http://stattrek.com/)
+- [Online Stat Book](http://onlinestatbook.com/2/index.html)
 - [Sampling Distributions Explained](http://stattrek.com/sampling/sampling-distribution.aspx)
 - Tutorials
     - [AP Statistics Tutorial](http://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
