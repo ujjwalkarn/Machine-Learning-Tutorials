@@ -65,6 +65,13 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Neural Networks
 - [Awesome Neural Networks Blog](http://colah.github.io/)
+- [Projects to contribute to](https://github.com/karpathy)
+- [Awesome Reading List](http://deeplearning.net/reading-list/)
+- [Deep Learning Comprehensive Website](http://deeplearning.net/), [Software](http://deeplearning.net/software_links/)
+- [deeplearning Tutorials](http://deeplearning4j.org/)
+- [Stanford Tutorials](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
+- [Hacker's guide to Neural Nets](http://karpathy.github.io/neuralnets/)
+- [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 - [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
 - [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
 - Feed Forward Networks
@@ -79,16 +86,23 @@ This repository contains codes and other resources related to Machine Learning.
     - [Intro to RNN](http://deeplearning4j.org/recurrentnetwork.html), [LSTM](http://deeplearning4j.org/lstm.html)
     
 - Restricted Boltzmann Machine
-       
+    - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)       
+    
+- Convolution Networks
+    - [Intro](http://deeplearning4j.org/convolutionalnets.html)
+    - [Stanford Notes](http://vision.stanford.edu/teaching/cs231n/), [Codes](http://cs231n.github.io/), [GitHub](https://github.com/cs231n/cs231n.github.io)
+    - JavaScript Library (Browser Based)(http://cs.stanford.edu/people/karpathy/convnetjs/)
 
 - word2vec
-    - [Google word2vec](https://code.google.com/p/word2vec/_
+    - [Google word2vec](https://code.google.com/p/word2vec/)
     - [Word Vectors Kaggle Tutorial Python](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
     - [Making sense of word2vec](http://rare-technologies.com/making-sense-of-word2vec/)
+    - [deeplearning4j](http://deeplearning4j.org/word2vec.html)
     
 
 ##Natural Language Processing
 - [Language learning with NLP and reinforcement learning](http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/)
+- [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
 
 ##Bayesian Machine Learning
 - [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
