@@ -98,6 +98,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Word Vectors Kaggle Tutorial Python](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
     - [Making sense of word2vec](http://rare-technologies.com/making-sense-of-word2vec/)
     - [deeplearning4j](http://deeplearning4j.org/word2vec.html)
+    - [Quora word2vec](https://www.quora.com/How-does-word2vec-work)
     
 
 ##Natural Language Processing
