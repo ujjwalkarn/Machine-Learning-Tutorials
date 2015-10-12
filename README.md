@@ -91,7 +91,7 @@ This repository contains codes and other resources related to Machine Learning.
 - Convolution Networks
     - [Intro](http://deeplearning4j.org/convolutionalnets.html)
     - [Stanford Notes](http://vision.stanford.edu/teaching/cs231n/), [Codes](http://cs231n.github.io/), [GitHub](https://github.com/cs231n/cs231n.github.io)
-    - JavaScript Library (Browser Based)(http://cs.stanford.edu/people/karpathy/convnetjs/)
+    - [JavaScript Library (Browser Based)](http://cs.stanford.edu/people/karpathy/convnetjs/)
 
 - word2vec
     - [Google word2vec](https://code.google.com/p/word2vec/)
