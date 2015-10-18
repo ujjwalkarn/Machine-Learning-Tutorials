@@ -23,8 +23,9 @@ This repository contains codes and other resources related to Machine Learning.
 - [QQ Plots](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
 
 ##Useful Blogs
-- [Daniel Nouri](http://danielnouri.org/notes/)
-- 
+- [ML Daniel Nouri](http://danielnouri.org/notes/)
+- [Awesome Neural Networks Blog](http://colah.github.io/) 
+- [Deep Learning Alex Minnaar](http://alexminnaar.com/)
 
 ##Resources on Quora
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
@@ -35,6 +36,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Resources on Kaggle
 - [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
+- [Facebook Recruiting III Explained](http://alexminnaar.com/tag/kaggle-competitions.html)
 
 ##Cheat Sheets:
 - [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf), [Source](http://www.wzchen.com/probability-cheatsheet/)
@@ -69,26 +71,30 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Neural Networks
 - [Awesome Neural Networks Blog](http://colah.github.io/)
+- [Top arxiv Deep Learning Papers explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html)
 - [Geoff Hinton Youtube Deep Learning](https://www.youtube.com/watch?v=IcOMKXAw5VA)
 - [Projects to contribute to](https://github.com/karpathy)
 - [Awesome Reading List](http://deeplearning.net/reading-list/)
 - [Deep Learning Comprehensive Website](http://deeplearning.net/), [Software](http://deeplearning.net/software_links/)
 - [deeplearning Tutorials](http://deeplearning4j.org/)
+- [Deep Learning Basics](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
 - [Stanford Tutorials](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
 - [Hacker's guide to Neural Nets](http://karpathy.github.io/neuralnets/)
 - [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 - [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
 - [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
+- [DistBelief Framework Implementation -- no GPU needed](http://alexminnaar.com/implementing-distbelief-with-akka.html)
 - Feed Forward Networks
     - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
     - [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
     
 - Recurrent and LSTM Networks
     - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3] (http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
-    - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
     - [NLP RNN Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
     - [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
     - [Intro to RNN](http://deeplearning4j.org/recurrentnetwork.html), [LSTM](http://deeplearning4j.org/lstm.html)
+    - LSTM
+        -(Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
     
 - Restricted Boltzmann Machine
     - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)       
@@ -101,15 +107,23 @@ This repository contains codes and other resources related to Machine Learning.
 
 - word2vec
     - [Google word2vec](https://code.google.com/p/word2vec/)
+    - [Bag of Words Model Wiki](https://en.wikipedia.org/wiki/Bag-of-words_model)
+    - [Skip Gram Model Tutorial](http://alexminnaar.com/word2vec-tutorial-part-i-the-skip-gram-model.html), [CBoW Model](http://alexminnaar.com/word2vec-tutorial-part-ii-the-continuous-bag-of-words-model.html)
     - [Word Vectors Kaggle Tutorial Python](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
     - [Making sense of word2vec](http://rare-technologies.com/making-sense-of-word2vec/)
     - [deeplearning4j](http://deeplearning4j.org/word2vec.html)
     - [Quora word2vec](https://www.quora.com/How-does-word2vec-work)
+    - [Quora 1](https://www.quora.com/What-are-the-continuous-bag-of-words-and-skip-gram-architectures-in-laymans-terms), [2](https://www.quora.com/What-is-the-difference-between-the-Bag-of-Words-model-and-the-Continuous-Bag-of-Words-model), [3](https://www.quora.com/Is-skip-gram-negative-sampling-better-than-CBOW-NS-for-word2vec-If-so-why)
     
 
 ##Natural Language Processing
+- Topic Modeling: LDA
+    - [Online LDA](http://alexminnaar.com/online-latent-dirichlet-allocation-the-best-option-for-topic-modeling-with-large-data-sets.html), [Online LDA with Spark](http://alexminnaar.com/distributed-online-latent-dirichlet-allocation-with-apache-spark.html)
+    - [LDA in Scala](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-i-the-theory.html), [Part 2](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-ii-the-code.html)
+    
 - [Language learning with NLP and reinforcement learning](http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/)
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
+- [What would Shakespeare say](https://gigadom.wordpress.com/2015/10/02/natural-language-processing-what-would-shakespeare-say/)
 
 ##Bayesian Machine Learning
 - [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
@@ -118,6 +132,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Time Series Forecasting
 - [Forecasting Principles, Rob J Hyndman](http://robjhyndman.com/uwafiles/fpp-notes.pdf)
+- [DYNAMIC TIME WARPING + Time Series Classification & Clustering](http://nbviewer.ipython.org/github/alexminnaar/time-series-classification-and-clustering/blob/master/Time%20Series%20Classification%20and%20Clustering.ipynb), [GitHub](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
 ##Optimization
 - [Mean Variance Portfolio Optimization with R and Quadratic Programming](http://www.wdiam.com/2012/06/10/mean-variance-portfolio-optimization-with-r-and-quadratic-programming/?utm_content=buffer04c12&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
