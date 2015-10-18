@@ -9,6 +9,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Useful Data Science Resources](http://www.dataschool.io/learning-data-science-fundamentals/)
 - [The Data School Blog](http://www.dataschool.io/)
 - [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
+- [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
 
 ##Statistics
 - [Stat Trek Website](http://stattrek.com/)
@@ -94,7 +95,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
     - [Intro to RNN](http://deeplearning4j.org/recurrentnetwork.html), [LSTM](http://deeplearning4j.org/lstm.html)
     - LSTM
-        -(Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
+        - (Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
     
 - Restricted Boltzmann Machine
     - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)       
