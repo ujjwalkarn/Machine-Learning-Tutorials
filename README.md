@@ -94,6 +94,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [NLP RNN Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
     - [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
     - [Intro to RNN](http://deeplearning4j.org/recurrentnetwork.html), [LSTM](http://deeplearning4j.org/lstm.html)
+    - [An application of RNN](http://hackaday.com/2015/10/15/73-computer-scientists-created-a-neural-net-and-you-wont-believe-what-happened-next/)
     - LSTM
         - [Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
     
