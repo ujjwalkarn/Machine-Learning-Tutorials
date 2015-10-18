@@ -95,7 +95,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
     - [Intro to RNN](http://deeplearning4j.org/recurrentnetwork.html), [LSTM](http://deeplearning4j.org/lstm.html)
     - LSTM
-        - (Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
+        - [Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
     
 - Restricted Boltzmann Machine
     - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)       
