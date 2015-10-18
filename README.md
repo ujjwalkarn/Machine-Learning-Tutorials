@@ -22,6 +22,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [Goodness of Fit Explained](https://en.wikipedia.org/wiki/Goodness_of_fit)
 - [QQ Plots](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
 
+##Useful Blogs
+- [Daniel Nouri](http://danielnouri.org/notes/)
+- 
+
 ##Resources on Quora
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
 - [William Chen's Answers](https://www.quora.com/William-Chen-6/answers)
@@ -65,6 +69,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Neural Networks
 - [Awesome Neural Networks Blog](http://colah.github.io/)
+- [Geoff Hinton Youtube Deep Learning](https://www.youtube.com/watch?v=IcOMKXAw5VA)
 - [Projects to contribute to](https://github.com/karpathy)
 - [Awesome Reading List](http://deeplearning.net/reading-list/)
 - [Deep Learning Comprehensive Website](http://deeplearning.net/), [Software](http://deeplearning.net/software_links/)
@@ -92,6 +97,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Intro](http://deeplearning4j.org/convolutionalnets.html)
     - [Stanford Notes](http://vision.stanford.edu/teaching/cs231n/), [Codes](http://cs231n.github.io/), [GitHub](https://github.com/cs231n/cs231n.github.io)
     - [JavaScript Library (Browser Based)](http://cs.stanford.edu/people/karpathy/convnetjs/)
+    - [Using CNNs to detect facial keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 
 - word2vec
     - [Google word2vec](https://code.google.com/p/word2vec/)
@@ -109,6 +115,9 @@ This repository contains codes and other resources related to Machine Learning.
 - [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
 - [Tutorial on Bayesian Optimisation for Machine Learning](http://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
 - [Bayesian Reasoning and Deep Learning](http://blog.shakirm.com/2015/10/bayesian-reasoning-and-deep-learning/), [Slides](http://blog.shakirm.com/wp-content/uploads/2015/10/Bayes_Deep.pdf)
+
+##Time Series Forecasting
+- [Forecasting Principles, Rob J Hyndman](http://robjhyndman.com/uwafiles/fpp-notes.pdf)
 
 ##Optimization
 - [Mean Variance Portfolio Optimization with R and Quadratic Programming](http://www.wdiam.com/2012/06/10/mean-variance-portfolio-optimization-with-r-and-quadratic-programming/?utm_content=buffer04c12&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
