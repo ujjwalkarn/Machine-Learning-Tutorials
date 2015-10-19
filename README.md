@@ -119,7 +119,8 @@ This repository contains codes and other resources related to Machine Learning.
     
 
 ##Natural Language Processing
-- Topic Modeling: LDA
+- [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) \
+    - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
     - [Online LDA](http://alexminnaar.com/online-latent-dirichlet-allocation-the-best-option-for-topic-modeling-with-large-data-sets.html), [Online LDA with Spark](http://alexminnaar.com/distributed-online-latent-dirichlet-allocation-with-apache-spark.html)
     - [LDA in Scala](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-i-the-theory.html), [Part 2](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-ii-the-code.html)
     
