@@ -27,6 +27,11 @@ This repository contains codes and other resources related to Machine Learning.
 - [ML Daniel Nouri](http://danielnouri.org/notes/)
 - [Awesome Neural Networks Blog](http://colah.github.io/) 
 - [Deep Learning Alex Minnaar](http://alexminnaar.com/)
+- [Statistically Significant](http://andland.github.io/)
+- [Simply Statistics](http://simplystatistics.org/)
+- [fastML](http://fastml.com/)
+- [no free hunch | kaggle](http://blog.kaggle.com/)
+- [Statistical Modeling etc](http://andrewgelman.com/)
 
 ##Resources on Quora
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
@@ -99,7 +104,9 @@ This repository contains codes and other resources related to Machine Learning.
         - [Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
     
 - Restricted Boltzmann Machine
-    - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)       
+    - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)     
+    - [Awesome! Introduction to RBMs](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
+    - [RBMs in R](https://github.com/zachmayer/rbm)
     
 - Convolution Networks
     - [Intro](http://deeplearning4j.org/convolutionalnets.html)
