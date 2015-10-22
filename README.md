@@ -25,6 +25,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Useful Blogs
 - [ML Daniel Nouri](http://danielnouri.org/notes/)
+- [Deep Learning Awesome!](http://karpathy.github.io/)
 - [Awesome Neural Networks Blog](http://colah.github.io/) 
 - [Deep Learning Alex Minnaar](http://alexminnaar.com/)
 - [Statistically Significant](http://andland.github.io/)
