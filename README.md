@@ -25,7 +25,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Useful Blogs
 - [ML Daniel Nouri](http://danielnouri.org/notes/)
-- [Deep Learning Awesome!](http://karpathy.github.io/)
+- [Deep Learning Awesome | Andrej Karpathy](http://karpathy.github.io/)
 - [Awesome Neural Networks Blog](http://colah.github.io/) 
 - [Deep Learning Alex Minnaar](http://alexminnaar.com/)
 - [Statistically Significant](http://andland.github.io/)
@@ -77,6 +77,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 
 ##Neural Networks
+- [Hacker's guide to Neural Nets](http://karpathy.github.io/neuralnets/)
 - [Awesome Neural Networks Blog](http://colah.github.io/)
 - [Top arxiv Deep Learning Papers explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html)
 - [Geoff Hinton Youtube Deep Learning](https://www.youtube.com/watch?v=IcOMKXAw5VA)
@@ -86,7 +87,6 @@ This repository contains codes and other resources related to Machine Learning.
 - [deeplearning Tutorials](http://deeplearning4j.org/)
 - [Deep Learning Basics](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
 - [Stanford Tutorials](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
-- [Hacker's guide to Neural Nets](http://karpathy.github.io/neuralnets/)
 - [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 - [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
 - [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
