@@ -114,6 +114,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Stanford Notes](http://vision.stanford.edu/teaching/cs231n/), [Codes](http://cs231n.github.io/), [GitHub](https://github.com/cs231n/cs231n.github.io)
     - [JavaScript Library (Browser Based)](http://cs.stanford.edu/people/karpathy/convnetjs/)
     - [Using CNNs to detect facial keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
+    - [Deep learning to classify business photos at Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html)
 
 - word2vec
     - [Google word2vec](https://code.google.com/p/word2vec/)
