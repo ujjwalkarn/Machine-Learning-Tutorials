@@ -119,6 +119,7 @@ This repository contains codes and other resources related to Machine Learning.
 - word2vec
     - [Google word2vec](https://code.google.com/p/word2vec/)
     - [Bag of Words Model Wiki](https://en.wikipedia.org/wiki/Bag-of-words_model)
+    - [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
     - [Skip Gram Model Tutorial](http://alexminnaar.com/word2vec-tutorial-part-i-the-skip-gram-model.html), [CBoW Model](http://alexminnaar.com/word2vec-tutorial-part-ii-the-continuous-bag-of-words-model.html)
     - [Word Vectors Kaggle Tutorial Python](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
     - [Making sense of word2vec](http://rare-technologies.com/making-sense-of-word2vec/)
@@ -136,6 +137,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Language learning with NLP and reinforcement learning](http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/)
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
 - [What would Shakespeare say](https://gigadom.wordpress.com/2015/10/02/natural-language-processing-what-would-shakespeare-say/)
+- [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
 
 ##Bayesian Machine Learning
 - [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
