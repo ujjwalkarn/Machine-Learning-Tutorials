@@ -10,6 +10,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [The Data School Blog](http://www.dataschool.io/)
 - [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
 - [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+- [ML mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
 
 ##Statistics
 - [Stat Trek Website](http://stattrek.com/)
@@ -139,6 +140,9 @@ This repository contains codes and other resources related to Machine Learning.
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
 - [What would Shakespeare say](https://gigadom.wordpress.com/2015/10/02/natural-language-processing-what-would-shakespeare-say/)
 - [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
+
+##GBM
+- [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
 
 ##Bayesian Machine Learning
 - [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
