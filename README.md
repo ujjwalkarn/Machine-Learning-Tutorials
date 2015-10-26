@@ -9,8 +9,11 @@ This repository contains codes and other resources related to Machine Learning.
 - [Useful Data Science Resources](http://www.dataschool.io/learning-data-science-fundamentals/)
 - [The Data School Blog](http://www.dataschool.io/)
 - [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
-- [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
 - [ML mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
+
+##Genetic Algorithms
+- [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+- [Simple Implementation Part 1](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/) 
 
 ##Statistics
 - [Stat Trek Website](http://stattrek.com/)
@@ -34,6 +37,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [fastML](http://fastml.com/)
 - [no free hunch | kaggle](http://blog.kaggle.com/)
 - [Statistical Modeling etc](http://andrewgelman.com/)
+- [A Quantitative Journey | outlace](http://outlace.com/)
 
 ##Resources on Quora
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
@@ -89,7 +93,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [Deep Learning Basics](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
 - [Stanford Tutorials](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
 - [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
-- [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
+- [Theano](https://en.wikipedia.org/wiki/Theano_(software))
+    - [Website](http://deeplearning.net/software/theano/) 
+    - [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
+    - [Theano Tutorial](http://outlace.com/Beginner-Tutorial-Theano/)
 - [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
 - [DistBelief Framework Implementation -- no GPU needed](http://alexminnaar.com/implementing-distbelief-with-akka.html)
 - Feed Forward Networks
@@ -103,6 +110,8 @@ This repository contains codes and other resources related to Machine Learning.
     - [Intro to RNN](http://deeplearning4j.org/recurrentnetwork.html), [LSTM](http://deeplearning4j.org/lstm.html)
     - [An application of RNN](http://hackaday.com/2015/10/15/73-computer-scientists-created-a-neural-net-and-you-wont-believe-what-happened-next/)
     - [Optimizing RNN Performance](http://svail.github.io/)
+    - [Must see](http://outlace.com/page/2/)
+    - [Simple RNN](http://outlace.com/Simple-Recurrent-Neural-Network/)
     - LSTM
         - [Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
     
@@ -140,6 +149,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
 - [What would Shakespeare say](https://gigadom.wordpress.com/2015/10/02/natural-language-processing-what-would-shakespeare-say/)
 - [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
+
+##Reinforcement Learning
+- [Tutorial Part 1](http://outlace.com/Reinforcement-Learning-Part-1/), [Part 2](http://outlace.com/Reinforcement-Learning-Part-2/)
+
 
 ##GBM
 - [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
