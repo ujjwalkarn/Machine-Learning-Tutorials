@@ -106,6 +106,8 @@ This repository contains codes and other resources related to Machine Learning.
     - [Website](http://deeplearning.net/software/theano/) 
     - [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
     - [Theano Tutorial](http://outlace.com/Beginner-Tutorial-Theano/)
+- [Torch](http://torch.ch/)
+    - [Torch Internals Overview](https://apaszke.github.io/torch-internals.html)     
 - [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
 - [DistBelief Framework Implementation -- no GPU needed](http://alexminnaar.com/implementing-distbelief-with-akka.html)
 - Feed Forward Networks
@@ -115,14 +117,19 @@ This repository contains codes and other resources related to Machine Learning.
 - Recurrent and LSTM Networks
     - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3] (http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
     - [NLP RNN Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-    - [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+    - [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [Torch Code](https://github.com/karpathy/char-rnn), [Python Code](https://gist.github.com/karpathy/d4dee566867f8291f086)
     - [Intro to RNN](http://deeplearning4j.org/recurrentnetwork.html), [LSTM](http://deeplearning4j.org/lstm.html)
     - [An application of RNN](http://hackaday.com/2015/10/15/73-computer-scientists-created-a-neural-net-and-you-wont-believe-what-happened-next/)
     - [Optimizing RNN Performance](http://svail.github.io/)
     - [Must see](http://outlace.com/page/2/)
     - [Simple RNN](http://outlace.com/Simple-Recurrent-Neural-Network/)
+    - [Auto-Generating Clickbait with RNN](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
     - LSTM
         - [Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
+        - [LSTM explained](https://apaszke.github.io/lstm-explained.html)
+        - [LSTM](http://deeplearning4j.org/lstm.html)
+        - [Implementing LSTM from scratch](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), [Python/Theano code](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
+        - [Torch Code](https://github.com/karpathy/char-rnn), [Torch](https://github.com/apaszke/kaggle-grasp-and-lift)
     
 - Restricted Boltzmann Machine
     - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)     
