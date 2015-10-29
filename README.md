@@ -38,6 +38,8 @@ This repository contains codes and other resources related to Machine Learning.
 - [no free hunch | kaggle](http://blog.kaggle.com/)
 - [Statistical Modeling etc](http://andrewgelman.com/)
 - [A Quantitative Journey | outlace](http://outlace.com/)
+- [r4stats](http://r4stats.com/)
+- [Adam Paszke's Blog](https://apaszke.github.io/posts.html)
 
 ##Resources on Quora
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
