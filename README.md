@@ -41,6 +41,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [r4stats](http://r4stats.com/)
 - [Adam Paszke's Blog](https://apaszke.github.io/posts.html)
 - [Variance Explained Blog](http://varianceexplained.org/)
+- [Lars Eidnes' blog](http://larseidnes.com/)
 
 ##Resources on Quora
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
