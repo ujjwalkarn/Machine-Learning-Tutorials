@@ -29,6 +29,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [QQ Plots](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
 
 ##Useful Blogs
+- [Edwin Chen's Blog](http://blog.echen.me/)
 - [ML Daniel Nouri](http://danielnouri.org/notes/)
 - [Deep Learning Awesome | Andrej Karpathy](http://karpathy.github.io/)
 - [Awesome Neural Networks Blog](http://colah.github.io/) 
@@ -43,8 +44,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [Adam Paszke's Blog](https://apaszke.github.io/posts.html)
 - [Variance Explained Blog](http://varianceexplained.org/)
 - [Lars Eidnes' blog](http://larseidnes.com/)
+- [tedunderwook](http://tedunderwood.com/)
 
 ##Resources on Quora
+- [**Most Viewed ML writers**](https://www.quora.com/topic/Machine-Learning/writers)
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
 - [William Chen's Answers](https://www.quora.com/William-Chen-6/answers)
 - [Michael Hochster's Answers](https://www.quora.com/Michael-Hochster/answers)
@@ -146,10 +149,14 @@ This repository contains codes and other resources related to Machine Learning.
     
 
 ##Natural Language Processing
+- [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) 
     - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
     - [AWESOME LDA EXPLANATION!](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/). [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
     - [Original LDA Paper](https://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf)
+    - [alpha and beta in LDA](http://datascience.stackexchange.com/questions/199/what-does-the-alpha-and-beta-hyperparameters-contribute-to-in-latent-dirichlet-a)
+    - [Intuitive explanation of the Dirichlet distribution](https://www.quora.com/What-is-an-intuitive-explanation-of-the-Dirichlet-distribution)
+    - [Topic modeling made just simple enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
     - [Online LDA](http://alexminnaar.com/online-latent-dirichlet-allocation-the-best-option-for-topic-modeling-with-large-data-sets.html), [Online LDA with Spark](http://alexminnaar.com/distributed-online-latent-dirichlet-allocation-with-apache-spark.html)
     - [LDA in Scala](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-i-the-theory.html), [Part 2](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-ii-the-code.html)
     - 
