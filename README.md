@@ -10,6 +10,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [The Data School Blog](http://www.dataschool.io/)
 - [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
 - [ML mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
+- [ML University Courses Awesome](https://github.com/prakhar1989/awesome-courses#machine-learning)
 
 ##Genetic Algorithms
 - [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
