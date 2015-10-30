@@ -166,8 +166,6 @@ This repository contains codes and other resources related to Machine Learning.
     - [Topic modeling made just simple enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
     - [Online LDA](http://alexminnaar.com/online-latent-dirichlet-allocation-the-best-option-for-topic-modeling-with-large-data-sets.html), [Online LDA with Spark](http://alexminnaar.com/distributed-online-latent-dirichlet-allocation-with-apache-spark.html)
     - [LDA in Scala](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-i-the-theory.html), [Part 2](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-ii-the-code.html)
-    - 
-    
     
 - [Language learning with NLP and reinforcement learning](http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/)
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
