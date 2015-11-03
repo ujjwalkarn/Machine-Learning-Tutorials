@@ -125,9 +125,11 @@ This repository contains codes and other resources related to Machine Learning.
     - [LSTM for Sentiment Analysis in Theano](http://deeplearning.net/tutorial/lstm.html#lstm)
     - [RBM using Theano](http://deeplearning.net/tutorial/rbm.html#rbm)
     - [DBNs using Theano](http://deeplearning.net/tutorial/DBN.html#dbn)
+    - [All Codes](https://github.com/lisa-lab/DeepLearningTutorials)
     
 - [Torch](http://torch.ch/)
     - [Torch Internals Overview](https://apaszke.github.io/torch-internals.html)     
+    
 - [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
 - [DistBelief Framework Implementation -- no GPU needed](http://alexminnaar.com/implementing-distbelief-with-akka.html)
 - Feed Forward Networks
