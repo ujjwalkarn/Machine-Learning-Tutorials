@@ -179,8 +179,8 @@ This repository contains codes and other resources related to Machine Learning.
     - [Must see](http://outlace.com/page/2/)
     - [Simple RNN](http://outlace.com/Simple-Recurrent-Neural-Network/)
     - [Auto-Generating Clickbait with RNN](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
-    - [MUSIC GENERATION USING RNNs | THEANO & KERAS](https://github.com/MattVitelli/GRUV)
-    - [USING RNN TO CREATE ON-THE-FLY DIALOGUE | KERAS](http://neuralniche.com/post/tutorial/)
+    - [**MUSIC GENERATION USING RNNs | THEANO & KERAS**](https://github.com/MattVitelli/GRUV)
+    - [**USING RNN TO CREATE ON-THE-FLY DIALOGUE | KERAS**](http://neuralniche.com/post/tutorial/)
     - LSTM
         - [Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
         - [LSTM explained](https://apaszke.github.io/lstm-explained.html)
