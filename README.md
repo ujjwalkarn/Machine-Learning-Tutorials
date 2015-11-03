@@ -16,6 +16,8 @@ This repository contains codes and other resources related to Machine Learning.
 - [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
 - [ML mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
 - [ML University Courses Awesome](https://github.com/prakhar1989/awesome-courses#machine-learning)
+- [Statistical Machine Learning Course](http://www.stat.cmu.edu/~larry/=sml/)
+- [Intro to ML](http://alex.smola.org/teaching/10-701-15/index.html)
 
 <a name="ai" />
 ##Artificial Intelligence
@@ -27,9 +29,15 @@ This repository contains codes and other resources related to Machine Learning.
 - [Simple Implementation Part 1](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/) 
 - [GAs vs ANNs](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
 - [Genetic Algorithms in Plain English](http://www.ai-junkie.com/ga/intro/gat1.html)
+- [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
+    - [Genetic Programming in Python | GitHub](https://github.com/trevorstephens/gplearn)
+    - [GA vs GP Quora](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
 
 ##Statistics
 - [Stat Trek Website](http://stattrek.com/)
+- [STATISTICS USING PYTHON! | GITHUB](https://github.com/rouseguy/intro2stats)
+- [THINK STATS BOOK](http://greenteapress.com/thinkstats/), [THINK BAYES BOOK | BAYESIAN STATITICS MADE SIMPLE](http://greenteapress.com/thinkbayes/)
+- [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 - [Online Stat Book](http://onlinestatbook.com/2/index.html)
 - [Sampling Distributions Explained](http://stattrek.com/sampling/sampling-distribution.aspx)
 - Tutorials
@@ -42,13 +50,16 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Useful Blogs
 - [Edwin Chen's Blog](http://blog.echen.me/)
+- [ML Wave AWESOME!](http://mlwave.com/)
 - [ML Daniel Nouri](http://danielnouri.org/notes/)
 - [Deep Learning Awesome | Andrej Karpathy](http://karpathy.github.io/)
 - [Awesome Neural Networks Blog](http://colah.github.io/) 
 - [Deep Learning Alex Minnaar](http://alexminnaar.com/)
 - [Statistically Significant](http://andland.github.io/)
 - [Simply Statistics](http://simplystatistics.org/)
+- [Yanir Seroussi's Blog](http://yanirseroussi.com/)
 - [fastML](http://fastml.com/)
+- [Trevor Stephens Blog](http://trevorstephens.com/)
 - [no free hunch | kaggle](http://blog.kaggle.com/)
 - [Statistical Modeling etc](http://andrewgelman.com/)
 - [A Quantitative Journey | outlace](http://outlace.com/)
@@ -58,6 +69,8 @@ This repository contains codes and other resources related to Machine Learning.
 - [Lars Eidnes' blog](http://larseidnes.com/)
 - [tedunderwook](http://tedunderwood.com/)
 - [AI Junkie](http://www.ai-junkie.com/)
+- [neuralniche](http://neuralniche.com/)
+- [Beating the Benchmark](http://beatingthebenchmark.blogspot.in/)
 
 ##Resources on Quora
 - [**Most Viewed ML writers**](https://www.quora.com/topic/Machine-Learning/writers)
@@ -68,6 +81,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Storytelling with Statistics](https://datastories.quora.com/)
 
 ##Resources on Kaggle
+- [How to almost win Kaggle Competitions](http://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/) 
 - [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
 - [Facebook Recruiting III Explained](http://alexminnaar.com/tag/kaggle-competitions.html)
 
@@ -105,6 +119,9 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Deep Learning
 - [LOTS OF RESOURCES!](http://deeplearning4j.org/documentation.html)
+- [NN FAQs GOOD!](ftp://ftp.sas.com/pub/neural/FAQ3.html#A_hu)
+- [INTRO TO DEEP LEARNING USING PYTHON | GITHUB](https://github.com/rouseguy/intro2deeplearning), [Good Intro Slides](https://speakerdeck.com/bargava/introduction-to-deep-learning)
+- [Video Lectures Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu), [Video Lectures Summer School Montreal](http://videolectures.net/deeplearning2015_montreal/)
 - [Software](http://deeplearning.net/software_links/)
 - [Hacker's guide to Neural Nets](http://karpathy.github.io/neuralnets/)
 - [Awesome Neural Networks Blog](http://colah.github.io/)
@@ -162,6 +179,8 @@ This repository contains codes and other resources related to Machine Learning.
     - [Must see](http://outlace.com/page/2/)
     - [Simple RNN](http://outlace.com/Simple-Recurrent-Neural-Network/)
     - [Auto-Generating Clickbait with RNN](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
+    - [MUSIC GENERATION USING RNNs | THEANO & KERAS](https://github.com/MattVitelli/GRUV)
+    - [USING RNN TO CREATE ON-THE-FLY DIALOGUE | KERAS](http://neuralniche.com/post/tutorial/)
     - LSTM
         - [Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
         - [LSTM explained](https://apaszke.github.io/lstm-explained.html)
@@ -226,10 +245,15 @@ This repository contains codes and other resources related to Machine Learning.
 ##GBM
 - [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
 
+##Ensembles
+- [AWESOME! KAGGLE ENSEMBLING GUIDE](http://mlwave.com/kaggle-ensembling-guide/)
+
 ##Bayesian Machine Learning
 - [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
 - [Tutorial on Bayesian Optimisation for Machine Learning](http://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
 - [Bayesian Reasoning and Deep Learning](http://blog.shakirm.com/2015/10/bayesian-reasoning-and-deep-learning/), [Slides](http://blog.shakirm.com/wp-content/uploads/2015/10/Bayes_Deep.pdf)
+- [BAYESIAN STATISTICS MADE SIMPLE](http://greenteapress.com/thinkbayes/)
+- [Kalman & Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 ##Time Series Forecasting
 - [Forecasting Principles, Rob J Hyndman](http://robjhyndman.com/uwafiles/fpp-notes.pdf)
