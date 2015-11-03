@@ -16,6 +16,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
 - [Simple Implementation Part 1](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/) 
 - [GAs vs ANNs](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
+- [Genetic Algorithms in Plain English](http://www.ai-junkie.com/ga/intro/gat1.html)
 
 ##Statistics
 - [Stat Trek Website](http://stattrek.com/)
@@ -46,6 +47,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Variance Explained Blog](http://varianceexplained.org/)
 - [Lars Eidnes' blog](http://larseidnes.com/)
 - [tedunderwook](http://tedunderwood.com/)
+- [AI Junkie](http://www.ai-junkie.com/)
 
 ##Resources on Quora
 - [**Most Viewed ML writers**](https://www.quora.com/topic/Machine-Learning/writers)
@@ -91,7 +93,8 @@ This repository contains codes and other resources related to Machine Learning.
 - [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
 
 
-##Neural Networks
+##Deep Learning
+- [Software](http://deeplearning.net/software_links/)
 - [Hacker's guide to Neural Nets](http://karpathy.github.io/neuralnets/)
 - [Awesome Neural Networks Blog](http://colah.github.io/)
 - [Top arxiv Deep Learning Papers explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html)
@@ -100,18 +103,29 @@ This repository contains codes and other resources related to Machine Learning.
 - [Awesome Reading List](http://deeplearning.net/reading-list/)
 - [Deep Learning Comprehensive Website](http://deeplearning.net/), [Software](http://deeplearning.net/software_links/)
 - [deeplearning Tutorials](http://deeplearning4j.org/)
+- [AWESOME! Deep Learning Tutorial](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 - [Deep Learning Basics](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
 - [Stanford Tutorials](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
-- [Advantages of ANN over SVM](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
+- [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
 - [Train, Validation & Test in ANNs](http://stackoverflow.com/questions/2976452/whats-is-the-difference-between-train-validation-and-test-set-in-neural-networ)
 - [ANN Tutorials](http://stackoverflow.com/questions/478947/what-are-some-good-resources-for-learning-about-artificial-neural-networks)
 - [FAQs Stack Overflow](http://stackoverflow.com/questions/tagged/neural-network?sort=votes&pageSize=50)
 - [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 - [Torch vs. Theano](http://fastml.com/torch-vs-theano/)
+
 - [Theano](https://en.wikipedia.org/wiki/Theano_(software))
     - [Website](http://deeplearning.net/software/theano/) 
     - [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
     - [Theano Tutorial](http://outlace.com/Beginner-Tutorial-Theano/)
+    - [Good Theano Tutorial](http://deeplearning.net/tutorial/dA.html)
+    - [Logistic Regression using Theano for classifying digits](http://deeplearning.net/tutorial/logreg.html#logreg)
+    - [MLP using Theano](http://deeplearning.net/tutorial/mlp.html#mlp)
+    - [CNN using Theano](http://deeplearning.net/tutorial/lenet.html#lenet)
+    - [RNNs using Theano](http://deeplearning.net/tutorial/rnnslu.html#rnnslu)
+    - [LSTM for Sentiment Analysis in Theano](http://deeplearning.net/tutorial/lstm.html#lstm)
+    - [RBM using Theano](http://deeplearning.net/tutorial/rbm.html#rbm)
+    - [DBNs using Theano](http://deeplearning.net/tutorial/DBN.html#dbn)
+    
 - [Torch](http://torch.ch/)
     - [Torch Internals Overview](https://apaszke.github.io/torch-internals.html)     
 - [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
@@ -119,9 +133,11 @@ This repository contains codes and other resources related to Machine Learning.
 - Feed Forward Networks
     - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
     - [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
+    - [Basic ANN Theory](https://takinginitiative.wordpress.com/2008/04/03/basic-neural-network-tutorial-theory/)
     - [Role of Bias in Neural Networks](http://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks)
     - [Choosing number of hidden layers and nodes](http://stackoverflow.com/questions/3345079/estimating-the-number-of-neurons-and-number-of-layers-of-an-artificial-neural-ne),[2](http://stackoverflow.com/questions/10565868/multi-layer-perceptron-mlp-architecture-criteria-for-choosing-number-of-hidde?lq=1),[3](http://stackoverflow.com/questions/9436209/how-to-choose-number-of-hidden-layers-and-nodes-in-neural-network/2#)
-    - 
+    - [Backpropagation Explained](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
+    - [ANN implemented in C++ | AI Junkie](http://www.ai-junkie.com/ann/evolved/nnt6.html)
     
 - Recurrent and LSTM Networks
     - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3] (http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
@@ -139,11 +155,16 @@ This repository contains codes and other resources related to Machine Learning.
         - [LSTM](http://deeplearning4j.org/lstm.html)
         - [Implementing LSTM from scratch](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), [Python/Theano code](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
         - [Torch Code](https://github.com/karpathy/char-rnn), [Torch](https://github.com/apaszke/kaggle-grasp-and-lift)
+        - [LSTM for Sentiment Analysis in Theano](http://deeplearning.net/tutorial/lstm.html#lstm)
     
 - Restricted Boltzmann Machine
     - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)     
     - [Awesome! Introduction to RBMs](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
     - [RBMs in R](https://github.com/zachmayer/rbm)
+    
+- Autoencoders
+    - [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html), [Theano Code](http://deeplearning.net/tutorial/code/dA.py)
+    - [Stacked Denoising Autoencoders](http://deeplearning.net/tutorial/SdA.html#sda)
     
 - Convolution Networks
     - [Intro](http://deeplearning4j.org/convolutionalnets.html)
@@ -181,6 +202,9 @@ This repository contains codes and other resources related to Machine Learning.
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
 - [What would Shakespeare say](https://gigadom.wordpress.com/2015/10/02/natural-language-processing-what-would-shakespeare-say/)
 - [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
+
+##Support Vector Machine
+- [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
 
 ##Reinforcement Learning
 - [Tutorial Part 1](http://outlace.com/Reinforcement-Learning-Part-1/), [Part 2](http://outlace.com/Reinforcement-Learning-Part-2/)
