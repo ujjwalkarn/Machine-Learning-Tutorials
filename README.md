@@ -1,5 +1,10 @@
 This repository contains codes and other resources related to Machine Learning.
 
+##Contents
+- [General Stuff](#general)
+- [Artificial Intelligence](#ai)
+
+<a name="general" />
 ##General Stuff
 - [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
 - [Awesome Machine Learning frameworks, libraries and software](https://github.com/ujjwalkarn/awesome-machine-learning)
@@ -11,6 +16,11 @@ This repository contains codes and other resources related to Machine Learning.
 - [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
 - [ML mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
 - [ML University Courses Awesome](https://github.com/prakhar1989/awesome-courses#machine-learning)
+
+<a name="ai" />
+##Artificial Intelligence
+- [edX course | Klein & Abbeel](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info)
+- [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
 ##Genetic Algorithms
 - [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
