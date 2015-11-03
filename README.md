@@ -104,6 +104,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 
 ##Deep Learning
+- [LOTS OF RESOURCES!](http://deeplearning4j.org/documentation.html)
 - [Software](http://deeplearning.net/software_links/)
 - [Hacker's guide to Neural Nets](http://karpathy.github.io/neuralnets/)
 - [Awesome Neural Networks Blog](http://colah.github.io/)
