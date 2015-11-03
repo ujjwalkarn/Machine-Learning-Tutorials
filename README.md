@@ -119,7 +119,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Deep Learning
 - [LOTS OF RESOURCES!](http://deeplearning4j.org/documentation.html)
-- [NN FAQs GOOD!](ftp://ftp.sas.com/pub/neural/FAQ3.html#A_hu)
+- [NN FAQs GOOD! (copy paste link)](ftp://ftp.sas.com/pub/neural/FAQ3.html#A_hu)
 - [INTRO TO DEEP LEARNING USING PYTHON | GITHUB](https://github.com/rouseguy/intro2deeplearning), [Good Intro Slides](https://speakerdeck.com/bargava/introduction-to-deep-learning)
 - [Video Lectures Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu), [Video Lectures Summer School Montreal](http://videolectures.net/deeplearning2015_montreal/)
 - [Software](http://deeplearning.net/software_links/)
