@@ -15,6 +15,7 @@ This repository contains codes and other resources related to Machine Learning.
 ##Genetic Algorithms
 - [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
 - [Simple Implementation Part 1](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/) 
+- [GAs vs ANNs](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
 
 ##Statistics
 - [Stat Trek Website](http://stattrek.com/)
@@ -101,6 +102,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [deeplearning Tutorials](http://deeplearning4j.org/)
 - [Deep Learning Basics](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
 - [Stanford Tutorials](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
+- [Advantages of ANN over SVM](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
+- [Train, Validation & Test in ANNs](http://stackoverflow.com/questions/2976452/whats-is-the-difference-between-train-validation-and-test-set-in-neural-networ)
+- [ANN Tutorials](http://stackoverflow.com/questions/478947/what-are-some-good-resources-for-learning-about-artificial-neural-networks)
+- [FAQs Stack Overflow](http://stackoverflow.com/questions/tagged/neural-network?sort=votes&pageSize=50)
 - [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 - [Torch vs. Theano](http://fastml.com/torch-vs-theano/)
 - [Theano](https://en.wikipedia.org/wiki/Theano_(software))
@@ -114,6 +119,9 @@ This repository contains codes and other resources related to Machine Learning.
 - Feed Forward Networks
     - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
     - [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
+    - [Role of Bias in Neural Networks](http://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks)
+    - [Choosing number of hidden layers and nodes](http://stackoverflow.com/questions/3345079/estimating-the-number-of-neurons-and-number-of-layers-of-an-artificial-neural-ne),[2](http://stackoverflow.com/questions/10565868/multi-layer-perceptron-mlp-architecture-criteria-for-choosing-number-of-hidde?lq=1),[3](http://stackoverflow.com/questions/9436209/how-to-choose-number-of-hidden-layers-and-nodes-in-neural-network/2#)
+    - 
     
 - Recurrent and LSTM Networks
     - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3] (http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
