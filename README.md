@@ -172,7 +172,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Website](http://deeplearning.net/software/theano/) 
     - [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
     - [Theano Tutorial](http://outlace.com/Beginner-Tutorial-Theano/)
-    - [Good Theano Tutorial](http://deeplearning.net/tutorial/dA.html)
+    - [Good Theano Tutorial](http://deeplearning.net/software/theano/tutorial/)
     - [Logistic Regression using Theano for classifying digits](http://deeplearning.net/tutorial/logreg.html#logreg)
     - [MLP using Theano](http://deeplearning.net/tutorial/mlp.html#mlp)
     - [CNN using Theano](http://deeplearning.net/tutorial/lenet.html#lenet)
