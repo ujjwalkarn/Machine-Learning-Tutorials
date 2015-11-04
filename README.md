@@ -163,7 +163,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [ANN Tutorials](http://stackoverflow.com/questions/478947/what-are-some-good-resources-for-learning-about-artificial-neural-networks)
 - [FAQs Stack Overflow](http://stackoverflow.com/questions/tagged/neural-network?sort=votes&pageSize=50)
 - [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
-- [Torch vs. Theano](http://fastml.com/torch-vs-theano/)
+
+- [Deep Learning Frameworks]
+    - [Torch vs. Theano](http://fastml.com/torch-vs-theano/)
+    - [dl4j vs. torch7 vs. theano](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
 
 - [Theano](https://en.wikipedia.org/wiki/Theano_(software))
     - [Website](http://deeplearning.net/software/theano/) 
