@@ -273,9 +273,11 @@ This repository contains codes and other resources related to Machine Learning.
 ##Gradient Boosting Machine
 - [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
 
+<a name="ensem" />
 ##Ensembles
 - [AWESOME! KAGGLE ENSEMBLING GUIDE](http://mlwave.com/kaggle-ensembling-guide/)
 
+<a name="bayes" />
 ##Bayesian Machine Learning
 - [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
 - [Tutorial on Bayesian Optimisation for Machine Learning](http://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
