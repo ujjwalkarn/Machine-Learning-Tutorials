@@ -285,13 +285,16 @@ This repository contains codes and other resources related to Machine Learning.
 - [BAYESIAN STATISTICS MADE SIMPLE](http://greenteapress.com/thinkbayes/)
 - [Kalman & Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
+<a name="ts" />
 ##Time Series Forecasting
 - [Forecasting Principles, Rob J Hyndman](http://robjhyndman.com/uwafiles/fpp-notes.pdf)
 - [DYNAMIC TIME WARPING + Time Series Classification & Clustering](http://nbviewer.ipython.org/github/alexminnaar/time-series-classification-and-clustering/blob/master/Time%20Series%20Classification%20and%20Clustering.ipynb), [GitHub](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
+<a name="opt" />
 ##Optimization
 - [Mean Variance Portfolio Optimization with R and Quadratic Programming](http://www.wdiam.com/2012/06/10/mean-variance-portfolio-optimization-with-r-and-quadratic-programming/?utm_content=buffer04c12&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
+<a name="apps" />
 ##Applications
 - [Detecting Fraudulent Skype Users via Machine Learning](http://www.dataschool.io/detecting-fraudulent-skype-users-via-machine-learning/),[Original Paper](http://research.microsoft.com/pubs/205472/aisec10-leontjeva.pdf)
 
