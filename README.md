@@ -3,6 +3,24 @@ This repository contains codes and other resources related to Machine Learning.
 ##Contents
 - [General Stuff](#general)
 - [Artificial Intelligence](#ai)
+- [Genetic Algorithms](#ga)
+- [Statistics](#stat)
+- [Useful Blogs](#blogs)
+- [Resources on Quora](#quora)
+- [Resources on Kaggle](#kaggle)
+- [Cheat Sheets](#cs)
+- [Linear Regression](#linear)
+- [Logistic Regression](#logistic)
+- [Deep Learning](#deep)
+- [Natural Language Processing](#nlp)
+- [Support Vector Machine](#svm)
+- [Reinforcement Learning](#rl)
+- [Gradient Boosting Machine](#gbm)
+- [Ensembles](#ensem)
+- [Bayesian Machine Learning](#bayes)
+- [Time Series Forecasting](#ts)
+- [Optimizations](#opt)
+- [Applications](#apps)
 
 <a name="general" />
 ##General Stuff
@@ -24,6 +42,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [edX course | Klein & Abbeel](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info)
 - [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
+<a name="ga" />
 ##Genetic Algorithms
 - [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
 - [Simple Implementation Part 1](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/) 
@@ -33,6 +52,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Genetic Programming in Python | GitHub](https://github.com/trevorstephens/gplearn)
     - [GA vs GP Quora](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
 
+<a name="stat" />
 ##Statistics
 - [Stat Trek Website](http://stattrek.com/)
 - [STATISTICS USING PYTHON! | GITHUB](https://github.com/rouseguy/intro2stats)
@@ -48,6 +68,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Goodness of Fit Explained](https://en.wikipedia.org/wiki/Goodness_of_fit)
 - [QQ Plots](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
 
+<a name="blogs" />
 ##Useful Blogs
 - [Edwin Chen's Blog](http://blog.echen.me/)
 - [ML Wave AWESOME!](http://mlwave.com/)
@@ -72,6 +93,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [neuralniche](http://neuralniche.com/)
 - [Beating the Benchmark](http://beatingthebenchmark.blogspot.in/)
 
+<a name="quora" />
 ##Resources on Quora
 - [**Most Viewed ML writers**](https://www.quora.com/topic/Machine-Learning/writers)
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
@@ -80,16 +102,18 @@ This repository contains codes and other resources related to Machine Learning.
 - [Ricardo Vladimiro's Answers](https://www.quora.com/Ricardo-Vladimiro-1/answers)
 - [Storytelling with Statistics](https://datastories.quora.com/)
 
+<a name="kaggle" />
 ##Resources on Kaggle
 - [How to almost win Kaggle Competitions](http://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/) 
 - [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
 - [Facebook Recruiting III Explained](http://alexminnaar.com/tag/kaggle-competitions.html)
 
-##Cheat Sheets:
+<a name="cs" />
+##Cheat Sheets
 - [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf), [Source](http://www.wzchen.com/probability-cheatsheet/)
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
-
+<a name="linear" />
 ##Linear Regression
 - [General](#general-)
     - [Assumptions of Linear Regression](http://pareonline.net/getvn.asp?n=2&v=8), [MUST SEE!](http://stats.stackexchange.com/questions/16381/what-is-a-complete-list-of-the-usual-assumptions-for-linear-regression)
@@ -107,7 +131,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Outliers](#outliers-)
     - [How should outliers be dealt with?](http://stats.stackexchange.com/questions/175/how-should-outliers-be-dealt-with-in-linear-regression-analysis)
 
-
+<a name="logistic" />
 ##Logistic Regression
 - [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression)
 - [Geometric Intuition of Logistic Regression](http://florianhartl.com/logistic-regression-geometric-intuition.html)
@@ -116,7 +140,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Difference between logit and probit models](http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#30909), [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression), [Probit Model Wiki](https://en.wikipedia.org/wiki/Probit_model) 
 - [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
 
-
+<a name="deep" />
 ##Deep Learning
 - [LOTS OF RESOURCES!](http://deeplearning4j.org/documentation.html)
 - [NN FAQs GOOD! (copy paste link)](ftp://ftp.sas.com/pub/neural/FAQ3.html#A_hu)
@@ -193,8 +217,10 @@ This repository contains codes and other resources related to Machine Learning.
     - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)     
     - [Awesome! Introduction to RBMs](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
     - [RBMs in R](https://github.com/zachmayer/rbm)
+    - [Deep Belief Networks](http://deeplearning4j.org/deepbeliefnetwork.html)
     
 - Autoencoders
+    - [Deep Autoencoders](http://deeplearning4j.org/deepautoencoder.html)
     - [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html), [Theano Code](http://deeplearning.net/tutorial/code/dA.py)
     - [Stacked Denoising Autoencoders](http://deeplearning.net/tutorial/SdA.html#sda)
     
@@ -216,7 +242,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Quora word2vec](https://www.quora.com/How-does-word2vec-work)
     - [Quora 1](https://www.quora.com/What-are-the-continuous-bag-of-words-and-skip-gram-architectures-in-laymans-terms), [2](https://www.quora.com/What-is-the-difference-between-the-Bag-of-Words-model-and-the-Continuous-Bag-of-Words-model), [3](https://www.quora.com/Is-skip-gram-negative-sampling-better-than-CBOW-NS-for-word2vec-If-so-why)
     
-
+<a name="nlp" />
 ##Natural Language Processing
 - [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) 
@@ -235,14 +261,16 @@ This repository contains codes and other resources related to Machine Learning.
 - [What would Shakespeare say](https://gigadom.wordpress.com/2015/10/02/natural-language-processing-what-would-shakespeare-say/)
 - [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
 
+<a name="svm" />
 ##Support Vector Machine
 - [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
 
+<a name="rl" />
 ##Reinforcement Learning
 - [Tutorial Part 1](http://outlace.com/Reinforcement-Learning-Part-1/), [Part 2](http://outlace.com/Reinforcement-Learning-Part-2/)
 
-
-##GBM
+<a name="gbm" />
+##Gradient Boosting Machine
 - [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
 
 ##Ensembles
