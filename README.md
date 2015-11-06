@@ -36,6 +36,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [ML University Courses Awesome](https://github.com/prakhar1989/awesome-courses#machine-learning)
 - [Statistical Machine Learning Course](http://www.stat.cmu.edu/~larry/=sml/)
 - [Intro to ML](http://alex.smola.org/teaching/10-701-15/index.html)
+- [TheAnalyticsEdge edX Notes and Codes](https://github.com/pedrosan/TheAnalyticsEdge)
 
 <a name="ai" />
 ##Artificial Intelligence
