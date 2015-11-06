@@ -92,6 +92,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [AI Junkie](http://www.ai-junkie.com/)
 - [neuralniche](http://neuralniche.com/)
 - [Beating the Benchmark](http://beatingthebenchmark.blogspot.in/)
+- [DnI Institute](http://dni-institute.in/blogs/)
 
 <a name="quora" />
 ##Resources on Quora
