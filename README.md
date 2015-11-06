@@ -94,6 +94,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [neuralniche](http://neuralniche.com/)
 - [Beating the Benchmark](http://beatingthebenchmark.blogspot.in/)
 - [DnI Institute](http://dni-institute.in/blogs/)
+- [Galvanize](http://www.galvanize.com/blog/)
 
 <a name="quora" />
 ##Resources on Quora
