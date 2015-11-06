@@ -256,8 +256,10 @@ This repository contains codes and other resources related to Machine Learning.
 <a name="nlp" />
 ##Natural Language Processing
 - [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
+- [A Good Post](https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists)
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) 
     - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
+    - [A Good Post](https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists)
     - [AWESOME LDA EXPLANATION!](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/). [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
     - [The LDA Buffet- Intuitive Explanation](http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)
     - [Original LDA Paper](https://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf)
