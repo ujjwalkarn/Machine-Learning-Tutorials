@@ -238,6 +238,7 @@ This repository contains codes and other resources related to Machine Learning.
     
 - Convolution Networks
     - [Intro](http://deeplearning4j.org/convolutionalnets.html)
+    - [Understanding CNN for NLP AWESOME!](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
     - [Stanford Notes](http://vision.stanford.edu/teaching/cs231n/), [Codes](http://cs231n.github.io/), [GitHub](https://github.com/cs231n/cs231n.github.io)
     - [JavaScript Library (Browser Based)](http://cs.stanford.edu/people/karpathy/convnetjs/)
     - [Using CNNs to detect facial keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
