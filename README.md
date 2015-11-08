@@ -174,7 +174,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Awesome Reading List](http://deeplearning.net/reading-list/)
 - [Deep Learning Comprehensive Website](http://deeplearning.net/), [Software](http://deeplearning.net/software_links/)
 - [deeplearning Tutorials](http://deeplearning4j.org/)
-- [AWESOME! Deep Learning Tutorial](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
+- [**AWESOME! Deep Learning Tutorial**](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 - [Deep Learning Basics](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
 - [Stanford Tutorials](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)
 - [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
@@ -226,6 +226,8 @@ This repository contains codes and other resources related to Machine Learning.
     - [ANN implemented in C++ | AI Junkie](http://www.ai-junkie.com/ann/evolved/nnt6.html)
     - [Simple Implementation](http://stackoverflow.com/questions/15395835/simple-multi-layer-neural-network-implementation)
     - [NN for Beginners](http://www.codeproject.com/Articles/16419/AI-Neural-Network-for-beginners-Part-of)
+    - [Regression and Classification with NNs (Slides)](http://www.autonlab.org/tutorials/neural13.pdf)
+    - [Another Intro](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)
 
 <a name="rnn" />
 - Recurrent and LSTM Networks
@@ -263,17 +265,21 @@ This repository contains codes and other resources related to Machine Learning.
 
 <a name="rbm" />
 - Restricted Boltzmann Machine
-    - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)     
+    - [**Good Beginner's Guide**](http://deeplearning4j.org/restrictedboltzmannmachine.html)     
+    - [Another Good Tutorial](http://deeplearning.net/tutorial/rbm.html)
     - [Awesome! Introduction to RBMs](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
+    - [*Hinton's Guide to Training RBMs*](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
     - [RBMs in R](https://github.com/zachmayer/rbm)
-    - [Deep Belief Networks](http://deeplearning4j.org/deepbeliefnetwork.html)
+    - [**Deep Belief Networks**](http://deeplearning4j.org/deepbeliefnetwork.html)
     - [word2vec, DBN, RNTN for Sentiment Analysis ](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
 
 <a name="auto" />
-- Autoencoders
+- Autoencoders: Unsupervised (applies BackProp after setting target = input)
+    - [**Andrew Ng Sparse Autoencoders pdf**](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf)
     - [Deep Autoencoders](http://deeplearning4j.org/deepautoencoder.html)
     - [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html), [Theano Code](http://deeplearning.net/tutorial/code/dA.py)
     - [Stacked Denoising Autoencoders](http://deeplearning.net/tutorial/SdA.html#sda)
+    
 
 <a name="cnn" />
 - Convolution Networks
@@ -285,6 +291,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Using CNNs to detect facial keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
     - [Deep learning to classify business photos at Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html)
     - [Interview with Yann LeCun | Kaggle](http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/)
+    - [Visualising and Understanding CNNs](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 
 <a name="nlp" />
