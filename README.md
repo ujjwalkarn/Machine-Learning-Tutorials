@@ -11,6 +11,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Cheat Sheets](#cs)
 - [Classification](#classification)
 - [k Nearest Neighbors](#knn)
+- [Linear Discriminant Analysis](#linda)
 - [Linear Regression](#linear)
 - [Logistic Regression](#logistic)
 - [Model Validation using Resampling](#validation)
@@ -157,6 +158,12 @@ This repository contains codes and other resources related to Machine Learning.
 <a name="knn" />
 ##k Nearest Neighbors
 - [Saving and incrementally updating nearest-neighbor model in R](http://stackoverflow.com/questions/12202263/saving-and-incrementally-updating-nearest-neighbor-model-in-r)
+- [Intro](http://www.scholarpedia.org/article/K-nearest_neighbor), [2](http://www.statsoft.com/textbook/k-nearest-neighbors)
+- [Classification](http://www.saedsayad.com/k_nearest_neighbors.htm), [Regression](http://www.saedsayad.com/k_nearest_neighbors_reg.htm)
+
+<a name="linda" />
+##Linear Discriminant Analysis
+- [Wiki](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
 
 <a name="linear" />
 ##Linear Regression
@@ -168,6 +175,9 @@ This repository contains codes and other resources related to Machine Learning.
     - [Difference between linear regression on y with x and x with y](http://stats.stackexchange.com/questions/22718/what-is-the-difference-between-linear-regression-on-y-with-x-and-x-with-y?lq=1)
     - [Is linear regression valid when the dependant variable is not normally distributed?](http://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed)
     - [Dummy Variable Trap | Multicollinearity](https://en.wikipedia.org/wiki/Multicollinearity)
+
+- [Significance Tests]
+    - [**t-test vs z-test**](http://stats.stackexchange.com/questions/56066/wald-test-in-regression-ols-and-glms-t-vs-z-distribution), [2](http://stats.stackexchange.com/questions/61284/t-tests-vs-z-tests) 
 
 - [Residual Analysis](#residuals-)
     - [Interpreting plot.lm() in R](http://stats.stackexchange.com/questions/58141/interpreting-plot-lm)
