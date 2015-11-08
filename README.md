@@ -38,6 +38,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Ensembles](#ensem)
 - [Stacking Models](#stack)
 - [VC Dimension](#vc)
+- [Clustering](#clust)
 - [Bayesian Machine Learning](#bayes)
 - [Time Series Forecasting](#ts)
 - [Semi Supervised Learning](#semi)
@@ -51,6 +52,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [**ML FAQs Cross Validated**](http://stats.stackexchange.com/questions/tagged/machine-learning)
 - [**ML University Courses**](https://github.com/prakhar1989/awesome-courses#machine-learning)
 - [**Machine Learning algorithms that you should always have a strong understanding of**](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
+- [*List of ML Concepts*](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts)
 - [Slides on Several Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
 - [Predictive Analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
 - [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
@@ -580,6 +582,11 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [Intro](http://www.svms.org/vc-dimension/)
 - [FAQs CV](http://stats.stackexchange.com/questions/tagged/vc-dimension)
 - [Do ensemble techniques increase VC-dimension?](http://stats.stackexchange.com/questions/78076/do-ensemble-techniques-increase-vc-dimension)
+
+<a name="clust" />
+##Clustering
+- [Cluster Analysis Wiki](https://en.wikipedia.org/wiki/Cluster_analysis)
+- [OPTICS Algo](https://en.wikipedia.org/wiki/OPTICS_algorithm)
 
 <a name="bayes" />
 ##Bayesian Machine Learning
