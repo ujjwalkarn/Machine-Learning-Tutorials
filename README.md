@@ -244,7 +244,7 @@ This repository contains codes and other resources related to Machine Learning.
         - [Implementing LSTM from scratch](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), [Python/Theano code](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
         - [Torch Code](https://github.com/karpathy/char-rnn), [Torch](https://github.com/apaszke/kaggle-grasp-and-lift)
         - [LSTM for Sentiment Analysis in Theano](http://deeplearning.net/tutorial/lstm.html#lstm)
-    -Gated Recurrent Units (GRU)
+    - Gated Recurrent Units (GRU)
         - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
 
 <a name="rbm" />
