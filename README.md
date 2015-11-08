@@ -46,7 +46,9 @@ This repository contains codes and other resources related to Machine Learning.
 <a name="general" />
 ##General Stuff
 - [**A curated list of awesome Machine Learning frameworks, libraries and software**](https://github.com/josephmisiti/awesome-machine-learning)
+- [**An awesome Data Science repository to learn and apply for real world problems**](https://github.com/okulbilisim/awesome-datascience)
 - [**ML FAQs Cross Validated**](http://stats.stackexchange.com/questions/tagged/machine-learning)
+- [**ML University Courses**](https://github.com/prakhar1989/awesome-courses#machine-learning)
 - [Slides on Several Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
 - [Predictive Analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
 - [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
@@ -176,7 +178,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Is linear regression valid when the dependant variable is not normally distributed?](http://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed)
     - [Dummy Variable Trap | Multicollinearity](https://en.wikipedia.org/wiki/Multicollinearity)
 
-- [Significance Tests]
+- [Significance Tests](#significance-)
     - [**t-test vs z-test**](http://stats.stackexchange.com/questions/56066/wald-test-in-regression-ols-and-glms-t-vs-z-distribution), [2](http://stats.stackexchange.com/questions/61284/t-tests-vs-z-tests) 
 
 - [Residual Analysis](#residuals-)
@@ -247,6 +249,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 
 <a name="deep" />
 ##Deep Learning
+- [**A curated list of awesome Deep Learning tutorials, projects and communities**](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [LOTS OF RESOURCES!](http://deeplearning4j.org/documentation.html)
 - [**Interesting Deep Learning NLP Projects Stanford**](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
 - [Google+ Page](https://plus.google.com/communities/112866381580457264725)
@@ -386,6 +389,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 
 <a name="nlp" />
 ##Natural Language Processing
+- [**A curated list of speech and natural language processing resources**](https://github.com/edobashira/speech-language-processing)
 - [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
 - [A Good Post](https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists)
 - [**Interesting Deep Learning NLP Projects Stanford**](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
@@ -557,6 +561,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 
 <a name="bayes" />
 ##Bayesian Machine Learning
+- [**Bayesian Methods for Hackers (using pyMC)**](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
 - [Tutorial on Bayesian Optimisation for Machine Learning](http://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
 - [Bayesian Reasoning and Deep Learning](http://blog.shakirm.com/2015/10/bayesian-reasoning-and-deep-learning/), [Slides](http://blog.shakirm.com/wp-content/uploads/2015/10/Bayes_Deep.pdf)
