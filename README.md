@@ -11,6 +11,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [Cheat Sheets](#cs)
 - [Linear Regression](#linear)
 - [Logistic Regression](#logistic)
+- [Model Validation](#validation)
+    - [Cross Validation](#cross) 
+    - [Bootstraping](#boot)
+- [Bias Variance Tradeoff](#bias)
 - [Deep Learning](#deep)
     - [Feed Forward Networks](#feed)
     - [Recurrent Neural Nets, LSTM, GRU](#rnn)
@@ -116,10 +120,11 @@ This repository contains codes and other resources related to Machine Learning.
 - [Storytelling with Statistics](https://datastories.quora.com/)
 
 <a name="kaggle" />
-##Resources on Kaggle
+##Kaggle Competitions WriteUp
 - [How to almost win Kaggle Competitions](http://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/) 
 - [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
 - [Facebook Recruiting III Explained](http://alexminnaar.com/tag/kaggle-competitions.html)
+- [Predicting CTR with Online ML](http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/)
 
 <a name="cs" />
 ##Cheat Sheets
@@ -145,6 +150,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [Outliers](#outliers-)
     - [How should outliers be dealt with?](http://stats.stackexchange.com/questions/175/how-should-outliers-be-dealt-with-in-linear-regression-analysis)
 
+- [Elastic Net](https://en.wikipedia.org/wiki/Elastic_net_regularization)
+    - [Regularization and Variable Selection via the
+Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
+
 <a name="logistic" />
 ##Logistic Regression
 - [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression)
@@ -154,9 +163,32 @@ This repository contains codes and other resources related to Machine Learning.
 - [Difference between logit and probit models](http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#30909), [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression), [Probit Model Wiki](https://en.wikipedia.org/wiki/Probit_model) 
 - [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
 
+ <a name="validation" />
+ ##Model Validation
+    <a name="cross" />
+-[Cross Validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
+    - [Training with Full dataset after CV?](http://stats.stackexchange.com/questions/11602/training-with-the-full-dataset-after-cross-validation)
+    - [Which CV method is best?](http://stats.stackexchange.com/questions/103459/how-do-i-know-which-method-of-cross-validation-is-best)
+    
+    
+    <a name="boot" />
+-[Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
+    - [**Why Bootsrapping Works!**](http://stats.stackexchange.com/questions/26088/explaining-to-laypeople-why-bootstrapping-works)
+    - [Good Animation](https://www.stat.auckland.ac.nz/~wild/BootAnim/)
+    - [Paper](http://www.stat.rutgers.edu/home/mxie/rcpapers/bootstrap.pdf)
+    - [Example of Bootstapping](http://statistics.about.com/od/Applications/a/Example-Of-Bootstrapping.htm)
+    - [Understanding Bootstapping for Validation and Model Selection](http://stats.stackexchange.com/questions/14516/understanding-bootstrapping-for-validation-and-model-selection?rq=1)
+    - [Cross Validation vs Bootstrap to estimate prediction error](http://stats.stackexchange.com/questions/18348/differences-between-cross-validation-and-bootstrapping-to-estimate-the-predictio), [Cross-validation vs .632 bootstrapping to evaluate classification performance](http://stats.stackexchange.com/questions/71184/cross-validation-or-bootstrapping-to-evaluate-classification-performance)
+
+
+<a name="bias" />
+##[Bias Variance Tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+- [Good Explanation](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+
 <a name="deep" />
 ##Deep Learning
 - [LOTS OF RESOURCES!](http://deeplearning4j.org/documentation.html)
+- [**Interesting Deep Learning NLP Projects Stanford**](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
 - [Google+ Page](https://plus.google.com/communities/112866381580457264725)
 - [Recent Reddit AMAs](http://deeplearning.net/2014/11/22/recent-reddit-amas-about-deep-learning/), [2](https://www.reddit.com/r/IAmA/comments/3mdk9v/we_are_google_researchers_working_on_deep/)
 - [Where to Learn Deep Learning](http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html)
@@ -182,7 +214,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [ANN Tutorials](http://stackoverflow.com/questions/478947/what-are-some-good-resources-for-learning-about-artificial-neural-networks)
 - [FAQs Stack Overflow](http://stackoverflow.com/questions/tagged/neural-network?sort=votes&pageSize=50)
 - [Deep Learning Tutorials deeplearning.net](http://deeplearning.net/tutorial/index.html)
-
+- [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
 
 - Deep Learning Frameworks
     - [Torch vs. Theano](http://fastml.com/torch-vs-theano/)
@@ -212,8 +244,6 @@ This repository contains codes and other resources related to Machine Learning.
     
     - [DistBelief Framework Implementation -- no GPU needed](http://alexminnaar.com/implementing-distbelief-with-akka.html)
         
-- [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
-
 
 <a name="feed" />
 - Feed Forward Networks
@@ -285,7 +315,7 @@ This repository contains codes and other resources related to Machine Learning.
 - Convolution Networks
     - [**awesome deep vision: list of resources**](https://github.com/kjw0612/awesome-deep-vision) 
     - [Intro](http://deeplearning4j.org/convolutionalnets.html)
-    - [Understanding CNN for NLP AWESOME!](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+    - [**Understanding CNN for NLP**](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
     - [Stanford Notes](http://vision.stanford.edu/teaching/cs231n/), [Codes](http://cs231n.github.io/), [GitHub](https://github.com/cs231n/cs231n.github.io)
     - [JavaScript Library (Browser Based)](http://cs.stanford.edu/people/karpathy/convnetjs/)
     - [Using CNNs to detect facial keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
@@ -298,6 +328,7 @@ This repository contains codes and other resources related to Machine Learning.
 ##Natural Language Processing
 - [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
 - [A Good Post](https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists)
+- [**Interesting Deep Learning NLP Projects Stanford**](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
 - [**NLP from Scratch | Google Paper**](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35671.pdf)
 - [Graph Based Semi Supervised Learning for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
 <a name="topic" />
