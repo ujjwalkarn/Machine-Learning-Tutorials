@@ -297,7 +297,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 <a name="rf" />
 ##Random Forest
--[**awesome rf ~ github](https://github.com/kjw0612/awesome-random-forest)
+-[**awesome rf ~ github**](https://github.com/kjw0612/awesome-random-forest)
 
 <a name="gbm" />
 ##Gradient Boosting Machine
