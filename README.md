@@ -28,10 +28,12 @@ This repository contains codes and other resources related to Machine Learning.
 - [Computer Vision](#vision)
 - [Support Vector Machine](#svm)
 - [Reinforcement Learning](#rl)
-- [Random Forest](#rf)
-- [Gradient Boosting Machine](#gbm)
+- [Decision Trees](#dt)
+- [Random Forest / Bagging](#rf)
+- [Boosting](#gbm)
 - [Ensembles](#ensem)
 - [Stacking Models](#stack)
+- [VC Dimension](#vc)
 - [Bayesian Machine Learning](#bayes)
 - [Time Series Forecasting](#ts)
 - [Semi Supervised Learning](#semi)
@@ -41,6 +43,8 @@ This repository contains codes and other resources related to Machine Learning.
 <a name="general" />
 ##General Stuff
 - [**A curated list of awesome Machine Learning frameworks, libraries and software**](https://github.com/josephmisiti/awesome-machine-learning)
+- [**ML FAQs Cross Validated**](http://stats.stackexchange.com/questions/tagged/machine-learning)
+- [Predictive Analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
 - [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
 - [Awesome Machine Learning frameworks, libraries and software](https://github.com/ujjwalkarn/awesome-machine-learning)
 - [Comparing Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
@@ -407,22 +411,67 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [**awesome rl ~ github**](https://github.com/aikorea/awesome-rl)
 - [Tutorial Part 1](http://outlace.com/Reinforcement-Learning-Part-1/), [Part 2](http://outlace.com/Reinforcement-Learning-Part-2/)
 
+<a name="dt" />
+##Decision Trees
+- [**Wikipedia**](https://en.wikipedia.org/wiki/Decision_tree_learning)
+- [**FAQs CV**](http://stats.stackexchange.com/questions/tagged/cart)
+- [Brief Tour](http://statistical-research.com/a-brief-tour-of-the-trees-and-forests/)
+- [Tree Based Models in R](http://www.statmethods.net/advstats/cart.html)
+- [How they work](http://www.aihorizon.com/essays/generalai/decision_trees.htm)
+- [Weak side of Decision Trees](http://stats.stackexchange.com/questions/1292/what-is-the-weak-side-of-decision-trees)
+- CART vs CHAID vs CTREE vs Others
+    -[CART vs CTREE](http://stats.stackexchange.com/questions/12140/conditional-inference-trees-vs-traditional-decision-trees)
+- CART
+    - [Recursive Partitioning](https://en.wikipedia.org/wiki/Recursive_partitioning)
+    - [Explained](http://documents.software.dell.com/Statistics/Textbook/Classification-and-Regression-Trees)
+- CTREE
+    - [party package](https://cran.r-project.org/web/packages/party/party.pdf) 
+- CHAID
+    - []() 
+
 <a name="rf" />
 ##Random Forest / Bagging
 - [**awesome rf ~ github**](https://github.com/kjw0612/awesome-random-forest)
 - [How to tune RF parameters in practice](https://www.kaggle.com/forums/f/15/kaggle-forum/t/4092/how-to-tune-rf-parameters-in-practice)
+- [Measures of variable importance in random forests](http://stats.stackexchange.com/questions/12605/measures-of-variable-importance-in-random-forests)
+- [Compare R-squared from two different Random Forest models](http://stats.stackexchange.com/questions/13869/compare-r-squared-from-two-different-random-forest-models)
+- [OOB Estimate Explained | RF vs LDA](https://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2.pdf)
+- [Evaluating Random Forests for Survival Analysis Using Prediction Error Curve](http://www.jstatsoft.org/article/view/v050i11)
+- [*Why doesn't Random Forest handle missing values in predictors?*](http://stats.stackexchange.com/questions/98953/why-doesnt-random-forest-handle-missing-values-in-predictors)
+- [How to build random forests in R with missing (NA) values?](http://stackoverflow.com/questions/8370455/how-to-build-random-forests-in-r-with-missing-na-values)
+- [**FAQs CV**](http://stats.stackexchange.com/questions/tagged/random-forest), [FAQs SO](http://stackoverflow.com/questions/tagged/random-forest)
+- [Some Questions for R implementation](http://stackoverflow.com/questions/20537186/getting-predictions-after-rfimpute), [2](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore), [3](http://stackoverflow.com/questions/17059432/random-forest-package-in-r-shows-error-during-prediction-if-there-are-new-fact)
 
 <a name="gbm" />
 ##Boosting 
-- [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
+- [Boosting for Better Predictions](http://www.datasciencecentral.com/profiles/blogs/boosting-algorithms-for-better-predictions)
+- [Boosting Wiki](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
+- [Introduction to Boosted Trees | Tianqi Chen](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
+- Gradient Boosting Machine
+    - [Gradiet Boosting Wiki](https://en.wikipedia.org/wiki/Gradient_boosting)
+    - [Guidelines for GBM parameters in R](http://stats.stackexchange.com/questions/25748/what-are-some-useful-guidelines-for-gbm-parameters), [Strategy to set parameters](http://stats.stackexchange.com/questions/35984/strategy-to-set-the-gbm-parameters)
+    - [Meaning of Interaction Depth](http://stats.stackexchange.com/questions/16501/what-does-interaction-depth-mean-in-gbm), [2](http://stats.stackexchange.com/questions/16501/what-does-interaction-depth-mean-in-gbm)
+    - [Role of n.minobsinnode parameter of GBM in R](http://stats.stackexchange.com/questions/30645/role-of-n-minobsinnode-parameter-of-gbm-in-r)
+    - [GBM in R](http://www.slideshare.net/mark_landry/gbm-package-in-r)
+    - [FAQs GBM](http://stats.stackexchange.com/tags/gbm/hot)
+    - [GBM vs xgboost](https://www.kaggle.com/c/higgs-boson/forums/t/9497/r-s-gbm-vs-python-s-xgboost)
+
+- xgboost
+    - [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
+- AdaBoost
+    - [AdaBoost Wiki](https://en.wikipedia.org/wiki/AdaBoost), [Python Code](https://gist.github.com/tristanwietsma/5486024)
+    - [AdaBoost Sparse Input Support](http://hamzehal.blogspot.com/2014/06/adaboost-sparse-input-support.html)
+    - [adaBag R package](https://cran.r-project.org/web/packages/adabag/adabag.pdf)
+    - [Tutorial](http://math.mit.edu/~rothvoss/18.304.3PM/Presentations/1-Eric-Boosting304FinalRpdf.pdf)
 
 <a name="ensem" />
-##[Ensembles](https://en.wikipedia.org/wiki/Ensemble_learning)
+##Ensembles
+- [Wiki](https://en.wikipedia.org/wiki/Ensemble_learning)
 - [*KAGGLE ENSEMBLING GUIDE*](http://mlwave.com/kaggle-ensembling-guide/)
 - [*Power of Simple Ensembles*](http://www.overkillanalytics.net/more-is-always-better-the-power-of-simple-ensembles/)
 - [Ensemble Learning](http://machine-learning.martinsewell.com/ensembles/)
 - [Ensemble Learning Paper](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/springerEBR09.pdf)
-- [Ensembling models with R](http://amunategui.github.io/blending-models/), [Ensembling Regression Models in R](http://stats.stackexchange.com/questions/26790/ensembling-regression-models), [Intro to Ensembles in R](http://www.vikparuchuri.com/blog/intro-to-ensemble-learning-in-r/)
+- [Ensembling models with R](http://amunategui.github.io/blending-models/), [Ensembling Regression Models in R](http://stats.stackexchange.com/questions/26790/ensembling-regression-models), [**Intro to Ensembles in R**](http://www.vikparuchuri.com/blog/intro-to-ensemble-learning-in-r/)
 - [Ensembling Models with caret](http://stats.stackexchange.com/questions/27361/stacking-ensembling-models-with-caret)
 - [Bagging vs Boosting vs Stacking](http://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning)
 - [*Good Resources | Kaggle Africa*](https://www.kaggle.com/c/afsis-soil-properties/forums/t/10391/best-ensemble-references)
@@ -437,7 +486,9 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [*Stacked Generalization: when does it work?*](http://www.ijcai.org/Past%20Proceedings/IJCAI-97-VOL2/PDF/011.pdf)
 - [Stacked Generalization Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1533&rep=rep1&type=pdf)
 
-##[VC Dimension](https://en.wikipedia.org/wiki/VC_dimension)
+<a name="vc" />
+##VC Dimension
+- [Wiki](https://en.wikipedia.org/wiki/VC_dimension)
 - [*Intuitive Explanantion*](https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way)
 - [Video](https://www.youtube.com/watch?v=puDzy2XmR5c)
 - [Intro](http://www.svms.org/vc-dimension/)
@@ -451,6 +502,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [Bayesian Reasoning and Deep Learning](http://blog.shakirm.com/2015/10/bayesian-reasoning-and-deep-learning/), [Slides](http://blog.shakirm.com/wp-content/uploads/2015/10/Bayes_Deep.pdf)
 - [BAYESIAN STATISTICS MADE SIMPLE](http://greenteapress.com/thinkbayes/)
 - [Kalman & Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+- [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain)
 
 <a name="ts" />
 ##Time Series Forecasting
