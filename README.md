@@ -323,7 +323,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 <a name="rf" />
 ##Random Forest
--[**awesome rf ~ github**](https://github.com/kjw0612/awesome-random-forest)
+- [**awesome rf ~ github**](https://github.com/kjw0612/awesome-random-forest)
 
 <a name="gbm" />
 ##Gradient Boosting Machine
@@ -355,7 +355,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Taxonomy](http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/taxo_[0].pdf)
 - [Video Tutorial Weka](https://www.youtube.com/watch?v=sWxcIjZFGNM)
 - [unsupervised-supervised-and-semi-supervised](http://stats.stackexchange.com/questions/517/unsupervised-supervised-and-semi-supervised-learning)
-- [Papers 1]http://mlg.eng.cam.ac.uk/zoubin/papers/zglactive.pdf, [2](http://mlg.eng.cam.ac.uk/zoubin/papers/zgl.pdf), [3](http://icml.cc/2012/papers/616.pdf)
+- [Papers 1](http://mlg.eng.cam.ac.uk/zoubin/papers/zglactive.pdf), [2](http://mlg.eng.cam.ac.uk/zoubin/papers/zgl.pdf), [3](http://icml.cc/2012/papers/616.pdf)
  
 
 
