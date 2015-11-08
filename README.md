@@ -157,6 +157,7 @@ This repository contains codes and other resources related to Machine Learning.
 ##Deep Learning
 - [LOTS OF RESOURCES!](http://deeplearning4j.org/documentation.html)
 - [Google+ Page](https://plus.google.com/communities/112866381580457264725)
+- [Recent Reddit AMAs](http://deeplearning.net/2014/11/22/recent-reddit-amas-about-deep-learning/), [2](https://www.reddit.com/r/IAmA/comments/3mdk9v/we_are_google_researchers_working_on_deep/)
 - [Where to Learn Deep Learning](http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html)
 - [Where are the Deep Learning 2](http://www.datacommunitydc.org/blog/2014/05/deep-learning-courses/)
 - [Deep Learning nvidia concepts](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
