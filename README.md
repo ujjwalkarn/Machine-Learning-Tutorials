@@ -9,9 +9,11 @@ This repository contains codes and other resources related to Machine Learning.
 - [Resources on Quora](#quora)
 - [Resources on Kaggle](#kaggle)
 - [Cheat Sheets](#cs)
+- [Classification](#classification)
+- [k Nearest Neighbors](#knn)
 - [Linear Regression](#linear)
 - [Logistic Regression](#logistic)
-- [Model Validation using Resamplingh](#validation)
+- [Model Validation using Resampling](#validation)
     - [Cross Validation](#cross) 
     - [Bootstraping](#boot)
 - [Hyperparameter Optimization](#hyper)
@@ -44,6 +46,7 @@ This repository contains codes and other resources related to Machine Learning.
 ##General Stuff
 - [**A curated list of awesome Machine Learning frameworks, libraries and software**](https://github.com/josephmisiti/awesome-machine-learning)
 - [**ML FAQs Cross Validated**](http://stats.stackexchange.com/questions/tagged/machine-learning)
+- [Slides on Several Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
 - [Predictive Analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
 - [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
 - [Awesome Machine Learning frameworks, libraries and software](https://github.com/ujjwalkarn/awesome-machine-learning)
@@ -89,6 +92,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [What is an Unbiased Estimator](https://www.physicsforums.com/threads/what-is-an-unbiased-estimator.547728/), [Unbiased Estimate](http://stattrek.com/statistics/dictionary.aspx?definition=Unbiased_estimator)
 - [Goodness of Fit Explained](https://en.wikipedia.org/wiki/Goodness_of_fit)
 - [QQ Plots](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
+- [*Nonparametric statistics*](https://en.wikipedia.org/wiki/Nonparametric_statistics)
 
 <a name="blogs" />
 ##Useful Blogs
@@ -119,6 +123,8 @@ This repository contains codes and other resources related to Machine Learning.
 - [Galvanize](http://www.galvanize.com/blog/)
 - [Manuel's Blog](http://amunategui.github.io/)
 - [Philippe Adjiman](http://www.philippeadjiman.com/blog/)
+- [Win Vector Blog](http://www.win-vector.com/blog/popular-articles/)
+- [BzST](http://www.bzst.com/)
 
 <a name="quora" />
 ##Resources on Quora
@@ -140,6 +146,17 @@ This repository contains codes and other resources related to Machine Learning.
 ##Cheat Sheets
 - [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf), [Source](http://www.wzchen.com/probability-cheatsheet/)
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+
+<a name="classification" />
+##Classification
+- [Does Balancing Classes Improve Classifier Performance?](http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/)
+- [**What is Deviance?**](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
+- [**When to choose which machine learning classifier?**](http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier)
+- [**What are the advantages of different classification algorithms?**](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms)
+
+<a name="knn" />
+##k Nearest Neighbors
+- [Saving and incrementally updating nearest-neighbor model in R](http://stackoverflow.com/questions/12202263/saving-and-incrementally-updating-nearest-neighbor-model-in-r)
 
 <a name="linear" />
 ##Linear Regression
@@ -167,6 +184,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="logistic" />
 ##Logistic Regression
 - [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression)
+- [**What is Deviance?**](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
 - [Geometric Intuition of Logistic Regression](http://florianhartl.com/logistic-regression-geometric-intuition.html)
 - [Obtaining predicted categories (choosing threshold)](http://stats.stackexchange.com/questions/25389/obtaining-predicted-values-y-1-or-0-from-a-logistic-regression-model-fit)
 - [Residuals in logistic regression (Awesome!)](http://stats.stackexchange.com/questions/1432/what-do-the-residuals-in-a-logistic-regression-mean)
@@ -213,7 +231,8 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [Wiki](https://en.wikipedia.org/wiki/Hyperparameter_optimization)
 
 <a name="bias" />
-##[Bias Variance Tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+##Bias Variance Tradeoff
+- [Wiki](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
 - [Good Explanation](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
 <a name="deep" />
@@ -404,7 +423,10 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 
 <a name="svm" />
 ##Support Vector Machine
+- [**Highest Voted Questions**](http://stats.stackexchange.com/questions/tagged/svm)
+- [**Understanding SVMs**](http://stats.stackexchange.com/questions/3947/help-me-understand-support-vector-machines)
 - [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
+- [Trees > SVMs](http://stats.stackexchange.com/questions/57438/why-is-svm-not-so-good-as-decision-tree-on-the-same-data)
 
 <a name="rl" />
 ##Reinforcement Learning
@@ -419,16 +441,43 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [Tree Based Models in R](http://www.statmethods.net/advstats/cart.html)
 - [How they work](http://www.aihorizon.com/essays/generalai/decision_trees.htm)
 - [Weak side of Decision Trees](http://stats.stackexchange.com/questions/1292/what-is-the-weak-side-of-decision-trees)
-- CART vs CHAID vs CTREE vs Others
-    -[CART vs CTREE](http://stats.stackexchange.com/questions/12140/conditional-inference-trees-vs-traditional-decision-trees)
+- [Thorough Explanation and different algorithms](http://www.ise.bgu.ac.il/faculty/liorr/hbchap9.pdf)
+- [**What is entropy and information gain in the context of building decision trees**](http://stackoverflow.com/questions/1859554/what-is-entropy-and-information-gain)
+- [**Slides**](http://www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-11-decision-trees)
+- [How do decision tree learning algorithms deal with missing values](http://stats.stackexchange.com/questions/96025/how-do-decision-tree-learning-algorithms-deal-with-missing-values-under-the-hoo)
+- [Using Surrogates to Improve Datasets with Missing Values](http://www.salford-systems.com/videos/tutorials/tips-and-tricks/using-surrogates-to-improve-datasets-with-missing-values)
+- [Good Article](https://www.mindtools.com/dectree.html)
+- [Are decision trees almost always binary trees?](http://stats.stackexchange.com/questions/12187/are-decision-trees-almost-always-binary-trees)
+- [*Pruning*](https://en.wikipedia.org/wiki/Pruning_(decision_trees)), [*Grafting*](https://en.wikipedia.org/wiki/Grafting_(decision_trees))
+- [**What is Deviance?**](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
+- Comparison of Different Algorithms
+    - [CART vs CTREE](http://stats.stackexchange.com/questions/12140/conditional-inference-trees-vs-traditional-decision-trees)
+    - [*Comparison of complexity or performance*](https://stackoverflow.com/questions/9979461/different-decision-tree-algorithms-with-comparison-of-complexity-or-performance)
+    - [CHAID vs CART](http://stats.stackexchange.com/questions/61230/chaid-vs-crt-or-cart) , [CART vs CHAID](http://www.bzst.com/2006/10/classification-trees-cart-vs-chaid.html)
+    - [Good Article](http://www.ftpress.com/articles/article.aspx?p=2248639&seqNum=11)
 - CART
     - [Recursive Partitioning](https://en.wikipedia.org/wiki/Recursive_partitioning)
     - [Explained](http://documents.software.dell.com/Statistics/Textbook/Classification-and-Regression-Trees)
+    - [How to measure/rank “variable importance” when using CART?](http://stats.stackexchange.com/questions/6478/how-to-measure-rank-variable-importance-when-using-cart-specifically-using)
+    - [Pruning a Tree in R](http://stackoverflow.com/questions/15318409/how-to-prune-a-tree-in-r)
+    - [Does rpart use multivariate splits by default?](http://stats.stackexchange.com/questions/4356/does-rpart-use-multivariate-splits-by-default)
+    - [FAQs](http://stats.stackexchange.com/questions/tagged/rpart)
 - CTREE
     - [party package](https://cran.r-project.org/web/packages/party/party.pdf) 
+    - [R Question](http://stackoverflow.com/questions/13772715/show-volume-in-each-node-using-ctree-plot-in-r)
+    - [How to extract tree structure from ctree function?](http://stackoverflow.com/questions/8675664/how-to-extract-tree-structure-from-ctree-function)
 - CHAID
-    - []() 
-
+    - [Wiki](https://en.wikipedia.org/wiki/CHAID) 
+    - [Basic Intro](https://smartdrill.com/Introduction-to-CHAID.html)
+    - [Step by step process](http://dni-institute.in/blogs/wp-content/uploads/2015/09/Decision-Tree-An-Illustration-of-Decision-Tree-Building-Process.pdf)
+    - [CHAID and Exhaustive CHAID (copy paste link)](ftp://ftp.software.ibm.com/software/analytics/spss/support/Stats/Docs/Statistics/Algorithms/13.0/TREE-CHAID.pdf)
+    - [Good Tutorial](http://www.statsoft.com/Textbook/CHAID-Analysis)
+- MARS
+    - [Wiki](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) 
+- Probabilistic Decision Trees
+    - [Bayesian Learning in Probabilistic Decision Trees](http://www.stats.org.uk/bayesian/Jordan.pdf) 
+    - [Probabilistic Trees](http://people.stern.nyu.edu/adamodar/pdfiles/papers/probabilistic.pdf)
+    
 <a name="rf" />
 ##Random Forest / Bagging
 - [**awesome rf ~ github**](https://github.com/kjw0612/awesome-random-forest)
@@ -440,6 +489,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [*Why doesn't Random Forest handle missing values in predictors?*](http://stats.stackexchange.com/questions/98953/why-doesnt-random-forest-handle-missing-values-in-predictors)
 - [How to build random forests in R with missing (NA) values?](http://stackoverflow.com/questions/8370455/how-to-build-random-forests-in-r-with-missing-na-values)
 - [**FAQs CV**](http://stats.stackexchange.com/questions/tagged/random-forest), [FAQs SO](http://stackoverflow.com/questions/tagged/random-forest)
+- [*Obtaining knowledge from a random forest*](http://stats.stackexchange.com/questions/21152/obtaining-knowledge-from-a-random-forest)
 - [Some Questions for R implementation](http://stackoverflow.com/questions/20537186/getting-predictions-after-rfimpute), [2](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore), [3](http://stackoverflow.com/questions/17059432/random-forest-package-in-r-shows-error-during-prediction-if-there-are-new-fact)
 
 <a name="gbm" />
