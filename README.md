@@ -13,8 +13,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [Logistic Regression](#logistic)
 - [Deep Learning](#deep)
 - [Natural Language Processing](#nlp)
+- [Computer Vision](#vision)
 - [Support Vector Machine](#svm)
 - [Reinforcement Learning](#rl)
+- [Random Forest](#rf)
 - [Gradient Boosting Machine](#gbm)
 - [Ensembles](#ensem)
 - [Bayesian Machine Learning](#bayes)
@@ -206,7 +208,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [ANN implemented in C++ | AI Junkie](http://www.ai-junkie.com/ann/evolved/nnt6.html)
     
 - Recurrent and LSTM Networks
-    - [*awesome-rnn: list of resources*](https://github.com/kjw0612/awesome-rnn)
+    - [**awesome-rnn: list of resources**](https://github.com/kjw0612/awesome-rnn)
     - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3] (http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
     - [NLP RNN Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
     - [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [Torch Code](https://github.com/karpathy/char-rnn), [Python Code](https://gist.github.com/karpathy/d4dee566867f8291f086)
@@ -238,6 +240,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Stacked Denoising Autoencoders](http://deeplearning.net/tutorial/SdA.html#sda)
     
 - Convolution Networks
+    - [**awesome deep vision: list of resources**](https://github.com/kjw0612/awesome-deep-vision) 
     - [Intro](http://deeplearning4j.org/convolutionalnets.html)
     - [Understanding CNN for NLP AWESOME!](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
     - [Stanford Notes](http://vision.stanford.edu/teaching/cs231n/), [Codes](http://cs231n.github.io/), [GitHub](https://github.com/cs231n/cs231n.github.io)
@@ -277,13 +280,24 @@ This repository contains codes and other resources related to Machine Learning.
 - [What would Shakespeare say](https://gigadom.wordpress.com/2015/10/02/natural-language-processing-what-would-shakespeare-say/)
 - [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
 
+<a name="vision" />
+##Computer Vision
+- [awesome computer vision ~ github](https://github.com/jbhuang0604/awesome-computer-vision)
+- [awesome deep vision ~ github](https://github.com/kjw0612/awesome-deep-vision)
+
+
 <a name="svm" />
 ##Support Vector Machine
 - [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
 
 <a name="rl" />
 ##Reinforcement Learning
+- [**awesome rl ~ github**](https://github.com/aikorea/awesome-rl)
 - [Tutorial Part 1](http://outlace.com/Reinforcement-Learning-Part-1/), [Part 2](http://outlace.com/Reinforcement-Learning-Part-2/)
+
+<a name="rf" />
+##Random Forest
+-[**awesome rf ~ github](https://github.com/kjw0612/awesome-random-forest)
 
 <a name="gbm" />
 ##Gradient Boosting Machine
