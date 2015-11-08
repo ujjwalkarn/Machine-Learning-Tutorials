@@ -206,6 +206,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [ANN implemented in C++ | AI Junkie](http://www.ai-junkie.com/ann/evolved/nnt6.html)
     
 - Recurrent and LSTM Networks
+    - [*awesome-rnn: list of resources*](https://github.com/kjw0612/awesome-rnn)
     - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3] (http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
     - [NLP RNN Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
     - [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [Torch Code](https://github.com/karpathy/char-rnn), [Python Code](https://gist.github.com/karpathy/d4dee566867f8291f086)
