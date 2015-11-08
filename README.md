@@ -12,7 +12,14 @@ This repository contains codes and other resources related to Machine Learning.
 - [Linear Regression](#linear)
 - [Logistic Regression](#logistic)
 - [Deep Learning](#deep)
+    - [Feed Forward Networks](#feed)
+    - [Recurrent Neural Nets, LSTM, GRU](#rnn)
+    - [Restricted Boltzmann Machine, DBNs](#rbm)
+    - [Autoencoders](#auto)
+    - [Convolution Neural Nets](#cnn)
 - [Natural Language Processing](#nlp)
+    - [Topic Modeling, LDA](#topic)
+    - [Word2Vec](#word2vec)
 - [Computer Vision](#vision)
 - [Support Vector Machine](#svm)
 - [Reinforcement Learning](#rl)
@@ -195,9 +202,13 @@ This repository contains codes and other resources related to Machine Learning.
         - [ML using Torch Oxford Univ](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/), [Code](https://github.com/oxford-cs-ml-2015)
         - [Torch Internals Overview](https://apaszke.github.io/torch-internals.html)     
         - [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet)
+    
+    - [DistBelief Framework Implementation -- no GPU needed](http://alexminnaar.com/implementing-distbelief-with-akka.html)
         
 - [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
-- [DistBelief Framework Implementation -- no GPU needed](http://alexminnaar.com/implementing-distbelief-with-akka.html)
+
+
+<a name="feed" />
 - Feed Forward Networks
     - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
     - [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
@@ -206,7 +217,8 @@ This repository contains codes and other resources related to Machine Learning.
     - [Choosing number of hidden layers and nodes](http://stackoverflow.com/questions/3345079/estimating-the-number-of-neurons-and-number-of-layers-of-an-artificial-neural-ne),[2](http://stackoverflow.com/questions/10565868/multi-layer-perceptron-mlp-architecture-criteria-for-choosing-number-of-hidde?lq=1),[3](http://stackoverflow.com/questions/9436209/how-to-choose-number-of-hidden-layers-and-nodes-in-neural-network/2#)
     - [Backpropagation Explained](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
     - [ANN implemented in C++ | AI Junkie](http://www.ai-junkie.com/ann/evolved/nnt6.html)
-    
+
+<a name="rnn" />
 - Recurrent and LSTM Networks
     - [**awesome-rnn: list of resources**](https://github.com/kjw0612/awesome-rnn)
     - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3] (http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
@@ -218,27 +230,34 @@ This repository contains codes and other resources related to Machine Learning.
     - [Must see](http://outlace.com/page/2/)
     - [Simple RNN](http://outlace.com/Simple-Recurrent-Neural-Network/)
     - [Auto-Generating Clickbait with RNN](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
+    - [Sequence Learning using RNN (Slides)](http://www.slideshare.net/indicods/general-sequence-learning-with-recurrent-neural-networks-for-next-ml)
+    - [Machine Translation using RNN (Paper)](http://emnlp2014.org/papers/pdf/EMNLP2014179.pdf)
     - [**MUSIC GENERATION USING RNNs | THEANO & KERAS**](https://github.com/MattVitelli/GRUV)
     - [**USING RNN TO CREATE ON-THE-FLY DIALOGUE | KERAS**](http://neuralniche.com/post/tutorial/)
-    - LSTM
+    - Long Short Term Memory (LSTM)
         - [Understanding LSTM Networks AWESOME](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
         - [LSTM explained](https://apaszke.github.io/lstm-explained.html)
         - [LSTM](http://deeplearning4j.org/lstm.html)
         - [Implementing LSTM from scratch](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), [Python/Theano code](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
         - [Torch Code](https://github.com/karpathy/char-rnn), [Torch](https://github.com/apaszke/kaggle-grasp-and-lift)
         - [LSTM for Sentiment Analysis in Theano](http://deeplearning.net/tutorial/lstm.html#lstm)
-    
+    -Gated Recurrent Units (GRU)
+        - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
+
+<a name="rbm" />
 - Restricted Boltzmann Machine
     - [Beginner's Guide](http://deeplearning4j.org/restrictedboltzmannmachine.html)     
     - [Awesome! Introduction to RBMs](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
     - [RBMs in R](https://github.com/zachmayer/rbm)
     - [Deep Belief Networks](http://deeplearning4j.org/deepbeliefnetwork.html)
-    
+
+<a name="auto" />
 - Autoencoders
     - [Deep Autoencoders](http://deeplearning4j.org/deepautoencoder.html)
     - [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html), [Theano Code](http://deeplearning.net/tutorial/code/dA.py)
     - [Stacked Denoising Autoencoders](http://deeplearning.net/tutorial/SdA.html#sda)
-    
+
+<a name="cnn" />
 - Convolution Networks
     - [**awesome deep vision: list of resources**](https://github.com/kjw0612/awesome-deep-vision) 
     - [Intro](http://deeplearning4j.org/convolutionalnets.html)
@@ -248,21 +267,12 @@ This repository contains codes and other resources related to Machine Learning.
     - [Using CNNs to detect facial keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
     - [Deep learning to classify business photos at Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html)
 
-- word2vec
-    - [Google word2vec](https://code.google.com/p/word2vec/)
-    - [Bag of Words Model Wiki](https://en.wikipedia.org/wiki/Bag-of-words_model)
-    - [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
-    - [Skip Gram Model Tutorial](http://alexminnaar.com/word2vec-tutorial-part-i-the-skip-gram-model.html), [CBoW Model](http://alexminnaar.com/word2vec-tutorial-part-ii-the-continuous-bag-of-words-model.html)
-    - [Word Vectors Kaggle Tutorial Python](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
-    - [Making sense of word2vec](http://rare-technologies.com/making-sense-of-word2vec/)
-    - [deeplearning4j](http://deeplearning4j.org/word2vec.html)
-    - [Quora word2vec](https://www.quora.com/How-does-word2vec-work)
-    - [Quora 1](https://www.quora.com/What-are-the-continuous-bag-of-words-and-skip-gram-architectures-in-laymans-terms), [2](https://www.quora.com/What-is-the-difference-between-the-Bag-of-Words-model-and-the-Continuous-Bag-of-Words-model), [3](https://www.quora.com/Is-skip-gram-negative-sampling-better-than-CBOW-NS-for-word2vec-If-so-why)
-    
+
 <a name="nlp" />
 ##Natural Language Processing
 - [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
 - [A Good Post](https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists)
+<a name="topic" />
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) 
     - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
     - [A Good Post](https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists)
@@ -274,6 +284,18 @@ This repository contains codes and other resources related to Machine Learning.
     - [Topic modeling made just simple enough](http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
     - [Online LDA](http://alexminnaar.com/online-latent-dirichlet-allocation-the-best-option-for-topic-modeling-with-large-data-sets.html), [Online LDA with Spark](http://alexminnaar.com/distributed-online-latent-dirichlet-allocation-with-apache-spark.html)
     - [LDA in Scala](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-i-the-theory.html), [Part 2](http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-ii-the-code.html)
+
+<a name="word2vec" />
+- word2vec
+    - [Google word2vec](https://code.google.com/p/word2vec/)
+    - [Bag of Words Model Wiki](https://en.wikipedia.org/wiki/Bag-of-words_model)
+    - [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
+    - [Skip Gram Model Tutorial](http://alexminnaar.com/word2vec-tutorial-part-i-the-skip-gram-model.html), [CBoW Model](http://alexminnaar.com/word2vec-tutorial-part-ii-the-continuous-bag-of-words-model.html)
+    - [Word Vectors Kaggle Tutorial Python](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
+    - [Making sense of word2vec](http://rare-technologies.com/making-sense-of-word2vec/)
+    - [deeplearning4j](http://deeplearning4j.org/word2vec.html)
+    - [Quora word2vec](https://www.quora.com/How-does-word2vec-work)
+    - [Quora 1](https://www.quora.com/What-are-the-continuous-bag-of-words-and-skip-gram-architectures-in-laymans-terms), [2](https://www.quora.com/What-is-the-difference-between-the-Bag-of-Words-model-and-the-Continuous-Bag-of-Words-model), [3](https://www.quora.com/Is-skip-gram-negative-sampling-better-than-CBOW-NS-for-word2vec-If-so-why)
     
 - [Language learning with NLP and reinforcement learning](http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/)
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
