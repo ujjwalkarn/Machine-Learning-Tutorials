@@ -135,6 +135,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [What does having constant variance in a linear regression model mean?](http://stats.stackexchange.com/questions/52089/what-does-having-constant-variance-in-a-linear-regression-model-mean/52107?stw=2#52107)
     - [Difference between linear regression on y with x and x with y](http://stats.stackexchange.com/questions/22718/what-is-the-difference-between-linear-regression-on-y-with-x-and-x-with-y?lq=1)
     - [Is linear regression valid when the dependant variable is not normally distributed?](http://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed)
+    - [Dummy Variable Trap | Multicollinearity](https://en.wikipedia.org/wiki/Multicollinearity)
 
 - [Residual Analysis](#residuals-)
     - [Interpreting plot.lm() in R](http://stats.stackexchange.com/questions/58141/interpreting-plot-lm)
@@ -255,6 +256,10 @@ This repository contains codes and other resources related to Machine Learning.
     - Gated Recurrent Units (GRU)
         - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
       
+<a name="rnn2" />
+- [Recursive Neural Network (not Recurrent)](https://en.wikipedia.org/wiki/Recursive_neural_network)
+    - [**Recursive Neural Tensor Network (RNTN)**](http://deeplearning4j.org/recursiveneuraltensornetwork.html)
+    - [word2vec, DBN, RNTN for Sentiment Analysis ](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
 
 <a name="rbm" />
 - Restricted Boltzmann Machine
@@ -262,6 +267,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Awesome! Introduction to RBMs](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
     - [RBMs in R](https://github.com/zachmayer/rbm)
     - [Deep Belief Networks](http://deeplearning4j.org/deepbeliefnetwork.html)
+    - [word2vec, DBN, RNTN for Sentiment Analysis ](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
 
 <a name="auto" />
 - Autoencoders
@@ -285,6 +291,7 @@ This repository contains codes and other resources related to Machine Learning.
 ##Natural Language Processing
 - [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
 - [A Good Post](https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists)
+- [**NLP from Scratch | Google Paper**](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35671.pdf)
 - [Graph Based Semi Supervised Learning for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
 <a name="topic" />
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) 
@@ -312,6 +319,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [deeplearning4j](http://deeplearning4j.org/word2vec.html)
     - [Quora word2vec](https://www.quora.com/How-does-word2vec-work)
     - [Quora 1](https://www.quora.com/What-are-the-continuous-bag-of-words-and-skip-gram-architectures-in-laymans-terms), [2](https://www.quora.com/What-is-the-difference-between-the-Bag-of-Words-model-and-the-Continuous-Bag-of-Words-model), [3](https://www.quora.com/Is-skip-gram-negative-sampling-better-than-CBOW-NS-for-word2vec-If-so-why)
+    - [word2vec, DBN, RNTN for Sentiment Analysis ](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
     
 - [Language learning with NLP and reinforcement learning](http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/)
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
