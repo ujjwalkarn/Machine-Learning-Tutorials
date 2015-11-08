@@ -2,6 +2,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 ##Contents
 - [General Stuff](#general)
+- [Interview Resources](#interview)
 - [Artificial Intelligence](#ai)
 - [Genetic Algorithms](#ga)
 - [Statistics](#stat)
@@ -49,6 +50,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [**An awesome Data Science repository to learn and apply for real world problems**](https://github.com/okulbilisim/awesome-datascience)
 - [**ML FAQs Cross Validated**](http://stats.stackexchange.com/questions/tagged/machine-learning)
 - [**ML University Courses**](https://github.com/prakhar1989/awesome-courses#machine-learning)
+- [**Machine Learning algorithms that you should always have a strong understanding of**](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
 - [Slides on Several Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
 - [Predictive Analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
 - [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
@@ -62,6 +64,15 @@ This repository contains codes and other resources related to Machine Learning.
 - [Statistical Machine Learning Course](http://www.stat.cmu.edu/~larry/=sml/)
 - [Intro to ML](http://alex.smola.org/teaching/10-701-15/index.html)
 - [TheAnalyticsEdge edX Notes and Codes](https://github.com/pedrosan/TheAnalyticsEdge)
+
+<a name="interview" />
+##Interview Resources
+- [How can a computer science graduate student prepare himself for data scientist/machine learning interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
+- [Data Science Interviews](https://www.quora.com/topic/Data-Science-Interviews/faq)
+- [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
+- [Data Science FAQ](https://www.quora.com/topic/Data-Science/faq)
+- [How do I learn ML](https://www.quora.com/How-do-I-learn-machine-learning-1)
+- [ML FAQ](https://www.quora.com/topic/Machine-Learning/faq), [Deep Learning FAQ](https://www.quora.com/topic/Deep-Learning/faq)
 
 <a name="ai" />
 ##Artificial Intelligence
@@ -155,6 +166,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [**When to choose which machine learning classifier?**](http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier)
 - [**What are the advantages of different classification algorithms?**](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms)
 - [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
+- [**An introduction to ROC analysis**](https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf)
 - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 
 <a name="knn" />
@@ -176,7 +188,9 @@ This repository contains codes and other resources related to Machine Learning.
     - [What does having constant variance in a linear regression model mean?](http://stats.stackexchange.com/questions/52089/what-does-having-constant-variance-in-a-linear-regression-model-mean/52107?stw=2#52107)
     - [Difference between linear regression on y with x and x with y](http://stats.stackexchange.com/questions/22718/what-is-the-difference-between-linear-regression-on-y-with-x-and-x-with-y?lq=1)
     - [Is linear regression valid when the dependant variable is not normally distributed?](http://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed)
+- Multicollinearity and VIF
     - [Dummy Variable Trap | Multicollinearity](https://en.wikipedia.org/wiki/Multicollinearity)
+    - [Dealing with multicollinearity using VIFs](http://jonlefcheck.net/2012/12/28/dealing-with-multicollinearity-using-variance-inflation-factors/)
 
 - [Significance Tests](#significance-)
     - [**t-test vs z-test**](http://stats.stackexchange.com/questions/56066/wald-test-in-regression-ols-and-glms-t-vs-z-distribution), [2](http://stats.stackexchange.com/questions/61284/t-tests-vs-z-tests) 
@@ -423,6 +437,11 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
     - [Quora word2vec](https://www.quora.com/How-does-word2vec-work)
     - [Quora 1](https://www.quora.com/What-are-the-continuous-bag-of-words-and-skip-gram-architectures-in-laymans-terms), [2](https://www.quora.com/What-is-the-difference-between-the-Bag-of-Words-model-and-the-Continuous-Bag-of-Words-model), [3](https://www.quora.com/Is-skip-gram-negative-sampling-better-than-CBOW-NS-for-word2vec-If-so-why)
     - [word2vec, DBN, RNTN for Sentiment Analysis ](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
+
+- Text Clustering
+    - [How string clustering works](http://stackoverflow.com/questions/8196371/how-clustering-works-especially-string-clustering) 
+    - [Levenshtein distance for measuring the difference between two sequences](https://en.wikipedia.org/wiki/Levenshtein_distance)
+    - [Text clustering with Levenshtein distances](http://stackoverflow.com/questions/21511801/text-clustering-with-levenshtein-distances)
     
 - [Language learning with NLP and reinforcement learning](http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/)
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
@@ -441,6 +460,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [**Understanding SVMs**](http://stats.stackexchange.com/questions/3947/help-me-understand-support-vector-machines)
 - [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
 - [Trees > SVMs](http://stats.stackexchange.com/questions/57438/why-is-svm-not-so-good-as-decision-tree-on-the-same-data)
+- [**Optimization Algorithms in Support Vector Machines**](http://pages.cs.wisc.edu/~swright/talks/sjw-complearning.pdf)
 
 <a name="rl" />
 ##Reinforcement Learning
@@ -522,6 +542,8 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 
 - xgboost
     - [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
+    - [xgboost vs gbm](https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/13012/question-to-experienced-kagglers-and-anyone-who-wants-to-take-a-shot/68296#post68296)
+    - [xgboost survey](https://www.kaggle.com/c/higgs-boson/forums/t/10335/xgboost-post-competition-survey)
 - AdaBoost
     - [AdaBoost Wiki](https://en.wikipedia.org/wiki/AdaBoost), [Python Code](https://gist.github.com/tristanwietsma/5486024)
     - [AdaBoost Sparse Input Support](http://hamzehal.blogspot.com/2014/06/adaboost-sparse-input-support.html)
@@ -590,6 +612,13 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 <a name="opt" />
 ##Optimization
 - [Mean Variance Portfolio Optimization with R and Quadratic Programming](http://www.wdiam.com/2012/06/10/mean-variance-portfolio-optimization-with-r-and-quadratic-programming/?utm_content=buffer04c12&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+- [**Algorithms for Sparse Optimization and Machine
+Learning**](http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve/sjw-ima12)
+- [**Optimization Algorithms in Machine Learning**](http://pages.cs.wisc.edu/~swright/nips2010/sjw-nips10.pdf), [**Video Lecture**](http://videolectures.net/nips2010_wright_oaml/)
+- [**Optimization Algorithms for Data Analysis**](http://www.birs.ca/workshops/2011/11w2035/files/Wright.pdf)
+- [Video Lectures on Optimization](http://videolectures.net/stephen_j_wright/)
+- [Optimization Algorithms in Support Vector Machines](http://pages.cs.wisc.edu/~swright/talks/sjw-complearning.pdf)
+- [The Interplay of Optimization and Machine Learning Research](http://jmlr.org/papers/volume7/MLOPT-intro06a/MLOPT-intro06a.pdf)
 
 <a name="apps" />
 ##Applications
