@@ -28,6 +28,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Ensembles](#ensem)
 - [Bayesian Machine Learning](#bayes)
 - [Time Series Forecasting](#ts)
+- [Semi Supervised Learning](#semi)
 - [Optimizations](#opt)
 - [Applications](#apps)
 
@@ -217,6 +218,8 @@ This repository contains codes and other resources related to Machine Learning.
     - [Choosing number of hidden layers and nodes](http://stackoverflow.com/questions/3345079/estimating-the-number-of-neurons-and-number-of-layers-of-an-artificial-neural-ne),[2](http://stackoverflow.com/questions/10565868/multi-layer-perceptron-mlp-architecture-criteria-for-choosing-number-of-hidde?lq=1),[3](http://stackoverflow.com/questions/9436209/how-to-choose-number-of-hidden-layers-and-nodes-in-neural-network/2#)
     - [Backpropagation Explained](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
     - [ANN implemented in C++ | AI Junkie](http://www.ai-junkie.com/ann/evolved/nnt6.html)
+    - [Simple Implementation](http://stackoverflow.com/questions/15395835/simple-multi-layer-neural-network-implementation)
+    - [NN for Beginners](http://www.codeproject.com/Articles/16419/AI-Neural-Network-for-beginners-Part-of)
 
 <a name="rnn" />
 - Recurrent and LSTM Networks
@@ -272,6 +275,7 @@ This repository contains codes and other resources related to Machine Learning.
 ##Natural Language Processing
 - [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
 - [A Good Post](https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists)
+- [Graph Based Semi Supervised Learning for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
 <a name="topic" />
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) 
     - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
@@ -341,6 +345,19 @@ This repository contains codes and other resources related to Machine Learning.
 ##Time Series Forecasting
 - [Forecasting Principles, Rob J Hyndman](http://robjhyndman.com/uwafiles/fpp-notes.pdf)
 - [DYNAMIC TIME WARPING + Time Series Classification & Clustering](http://nbviewer.ipython.org/github/alexminnaar/time-series-classification-and-clustering/blob/master/Time%20Series%20Classification%20and%20Clustering.ipynb), [GitHub](https://github.com/alexminnaar/time-series-classification-and-clustering)
+
+<a name="semi" />
+##Semi Supervised Learning
+- [Wikipedia](https://en.wikipedia.org/wiki/Semi-supervised_learning)
+- [scikit-learn](http://scikit-learn.org/stable/modules/label_propagation.html)
+- [Tutorial](http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf) 
+- [Graph Based SSL for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
+- [Taxonomy](http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/taxo_[0].pdf)
+- [Video Tutorial Weka](https://www.youtube.com/watch?v=sWxcIjZFGNM)
+- [unsupervised-supervised-and-semi-supervised](http://stats.stackexchange.com/questions/517/unsupervised-supervised-and-semi-supervised-learning)
+- [Papers 1]http://mlg.eng.cam.ac.uk/zoubin/papers/zglactive.pdf, [2](http://mlg.eng.cam.ac.uk/zoubin/papers/zgl.pdf), [3](http://icml.cc/2012/papers/616.pdf)
+ 
+
 
 <a name="opt" />
 ##Optimization
