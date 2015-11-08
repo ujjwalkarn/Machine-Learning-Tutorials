@@ -11,9 +11,10 @@ This repository contains codes and other resources related to Machine Learning.
 - [Cheat Sheets](#cs)
 - [Linear Regression](#linear)
 - [Logistic Regression](#logistic)
-- [Model Validation](#validation)
+- [Model Validation using Resamplingh](#validation)
     - [Cross Validation](#cross) 
     - [Bootstraping](#boot)
+- [Hyperparameter Optimization](#hyper)
 - [Bias Variance Tradeoff](#bias)
 - [Deep Learning](#deep)
     - [Feed Forward Networks](#feed)
@@ -30,6 +31,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [Random Forest](#rf)
 - [Gradient Boosting Machine](#gbm)
 - [Ensembles](#ensem)
+- [Stacking Models](#stack)
 - [Bayesian Machine Learning](#bayes)
 - [Time Series Forecasting](#ts)
 - [Semi Supervised Learning](#semi)
@@ -38,6 +40,7 @@ This repository contains codes and other resources related to Machine Learning.
 
 <a name="general" />
 ##General Stuff
+- [**A curated list of awesome Machine Learning frameworks, libraries and software**](https://github.com/josephmisiti/awesome-machine-learning)
 - [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
 - [Awesome Machine Learning frameworks, libraries and software](https://github.com/ujjwalkarn/awesome-machine-learning)
 - [Comparing Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
@@ -106,9 +109,12 @@ This repository contains codes and other resources related to Machine Learning.
 - [tedunderwook](http://tedunderwood.com/)
 - [AI Junkie](http://www.ai-junkie.com/)
 - [neuralniche](http://neuralniche.com/)
+- [Garbled Notes](http://www.chioka.in/)
 - [Beating the Benchmark](http://beatingthebenchmark.blogspot.in/)
 - [DnI Institute](http://dni-institute.in/blogs/)
 - [Galvanize](http://www.galvanize.com/blog/)
+- [Manuel's Blog](http://amunategui.github.io/)
+- [Philippe Adjiman](http://www.philippeadjiman.com/blog/)
 
 <a name="quora" />
 ##Resources on Quora
@@ -163,23 +169,44 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [Difference between logit and probit models](http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#30909), [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression), [Probit Model Wiki](https://en.wikipedia.org/wiki/Probit_model) 
 - [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
 
- <a name="validation" />
- ##Model Validation
-    <a name="cross" />
--[Cross Validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
+<a name="validation" />
+##Model Validation using Resampling
+
+- [Resampling Explained](https://en.wikipedia.org/wiki/Resampling_(statistics))
+- [Partioning data set in R](http://stackoverflow.com/questions/13536537/partitioning-data-set-in-r-based-on-multiple-classes-of-observations)
+- [Implementing hold-out Validaion in R](http://stackoverflow.com/questions/22972854/how-to-implement-a-hold-out-validation-in-r), [2](http://www.gettinggeneticsdone.com/2011/02/split-data-frame-into-testing-and.html)
+
+<a name="cross" />
+- [Cross Validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
     - [Training with Full dataset after CV?](http://stats.stackexchange.com/questions/11602/training-with-the-full-dataset-after-cross-validation)
     - [Which CV method is best?](http://stats.stackexchange.com/questions/103459/how-do-i-know-which-method-of-cross-validation-is-best)
+    - [Variance Estimates in k-fold CV](http://stats.stackexchange.com/questions/31190/variance-estimates-in-k-fold-cross-validation)
+    - [Is CV a subsitute for Validation Set?](http://stats.stackexchange.com/questions/18856/is-cross-validation-a-proper-substitute-for-validation-set)
+    - [*Choice of k in k-fold CV*](http://stats.stackexchange.com/questions/27730/choice-of-k-in-k-fold-cross-validation)
+    - [CV for ensemble learning](http://stats.stackexchange.com/questions/102631/k-fold-cross-validation-of-ensemble-learning)
+    - [k-fold CV in R](http://stackoverflow.com/questions/22909197/creating-folds-for-k-fold-cv-in-r-using-caret)
+    - [Cv Africa Soil Prediction](https://www.kaggle.com/c/afsis-soil-properties/forums/t/10158/training-set-cross-validation/55484)
+    - [Good Resources](http://www.chioka.in/tag/cross-validation/)
     
     
     <a name="boot" />
--[Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
+- [Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
     - [**Why Bootsrapping Works!**](http://stats.stackexchange.com/questions/26088/explaining-to-laypeople-why-bootstrapping-works)
     - [Good Animation](https://www.stat.auckland.ac.nz/~wild/BootAnim/)
     - [Paper](http://www.stat.rutgers.edu/home/mxie/rcpapers/bootstrap.pdf)
     - [Example of Bootstapping](http://statistics.about.com/od/Applications/a/Example-Of-Bootstrapping.htm)
     - [Understanding Bootstapping for Validation and Model Selection](http://stats.stackexchange.com/questions/14516/understanding-bootstrapping-for-validation-and-model-selection?rq=1)
     - [Cross Validation vs Bootstrap to estimate prediction error](http://stats.stackexchange.com/questions/18348/differences-between-cross-validation-and-bootstrapping-to-estimate-the-predictio), [Cross-validation vs .632 bootstrapping to evaluate classification performance](http://stats.stackexchange.com/questions/71184/cross-validation-or-bootstrapping-to-evaluate-classification-performance)
+    - Overfitting and Cross Validation
+        - [*Preventing Overfitting the Cross Validation Data | Andrew Ng*](http://ai.stanford.edu/~ang/papers/cv-final.pdf)
+        - [*Over-fitting in Model Selection and Subsequent Selection Bias in
+Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.pdf)
+        - [CV for detecting and preventing Overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
+        - [How does CV overcome the Overfitting Problem](http://stats.stackexchange.com/questions/9053/how-does-cross-validation-overcome-the-overfitting-problem)
 
+<a name="hyper" />
+##Hyperparameter Optimization
+- [Wiki](https://en.wikipedia.org/wiki/Hyperparameter_optimization)
 
 <a name="bias" />
 ##[Bias Variance Tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
@@ -337,6 +364,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [A Good Post](https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists)
     - [AWESOME LDA EXPLANATION!](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/). [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
     - [The LDA Buffet- Intuitive Explanation](http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)
+    - [**Difference between LSI and LDA**](https://www.quora.com/Whats-the-difference-between-Latent-Semantic-Indexing-LSI-and-Latent-Dirichlet-Allocation-LDA)
     - [Original LDA Paper](https://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf)
     - [alpha and beta in LDA](http://datascience.stackexchange.com/questions/199/what-does-the-alpha-and-beta-hyperparameters-contribute-to-in-latent-dirichlet-a)
     - [Intuitive explanation of the Dirichlet distribution](https://www.quora.com/What-is-an-intuitive-explanation-of-the-Dirichlet-distribution)
@@ -380,16 +408,41 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [Tutorial Part 1](http://outlace.com/Reinforcement-Learning-Part-1/), [Part 2](http://outlace.com/Reinforcement-Learning-Part-2/)
 
 <a name="rf" />
-##Random Forest
+##Random Forest / Bagging
 - [**awesome rf ~ github**](https://github.com/kjw0612/awesome-random-forest)
+- [How to tune RF parameters in practice](https://www.kaggle.com/forums/f/15/kaggle-forum/t/4092/how-to-tune-rf-parameters-in-practice)
 
 <a name="gbm" />
-##Gradient Boosting Machine
+##Boosting 
 - [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
 
 <a name="ensem" />
-##Ensembles
-- [AWESOME! KAGGLE ENSEMBLING GUIDE](http://mlwave.com/kaggle-ensembling-guide/)
+##[Ensembles](https://en.wikipedia.org/wiki/Ensemble_learning)
+- [*KAGGLE ENSEMBLING GUIDE*](http://mlwave.com/kaggle-ensembling-guide/)
+- [*Power of Simple Ensembles*](http://www.overkillanalytics.net/more-is-always-better-the-power-of-simple-ensembles/)
+- [Ensemble Learning](http://machine-learning.martinsewell.com/ensembles/)
+- [Ensemble Learning Paper](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/springerEBR09.pdf)
+- [Ensembling models with R](http://amunategui.github.io/blending-models/), [Ensembling Regression Models in R](http://stats.stackexchange.com/questions/26790/ensembling-regression-models), [Intro to Ensembles in R](http://www.vikparuchuri.com/blog/intro-to-ensemble-learning-in-r/)
+- [Ensembling Models with caret](http://stats.stackexchange.com/questions/27361/stacking-ensembling-models-with-caret)
+- [Bagging vs Boosting vs Stacking](http://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning)
+- [*Good Resources | Kaggle Africa*](https://www.kaggle.com/c/afsis-soil-properties/forums/t/10391/best-ensemble-references)
+- [Boosting vs Bagging](http://www.chioka.in/which-is-better-boosting-or-bagging/)
+- [Resources for learning how to implement ensemble methods](http://stats.stackexchange.com/questions/32703/resources-for-learning-how-to-implement-ensemble-methods)
+- [How are classifications merged in an ensemble classifier?](http://stats.stackexchange.com/questions/21502/how-are-classifications-merged-in-an-ensemble-classifier)
+
+<a name="stack" />
+##Stacking Models 
+- [**Stacking, Blending and Stacked Generalization**](http://www.chioka.in/stacking-blending-and-stacked-generalization/)
+- [Stacked Generalization (Stacking)](http://machine-learning.martinsewell.com/ensembles/stacking/)
+- [*Stacked Generalization: when does it work?*](http://www.ijcai.org/Past%20Proceedings/IJCAI-97-VOL2/PDF/011.pdf)
+- [Stacked Generalization Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1533&rep=rep1&type=pdf)
+
+##[VC Dimension](https://en.wikipedia.org/wiki/VC_dimension)
+- [*Intuitive Explanantion*](https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way)
+- [Video](https://www.youtube.com/watch?v=puDzy2XmR5c)
+- [Intro](http://www.svms.org/vc-dimension/)
+- [FAQs CV](http://stats.stackexchange.com/questions/tagged/vc-dimension)
+- [Do ensemble techniques increase VC-dimension?](http://stats.stackexchange.com/questions/78076/do-ensemble-techniques-increase-vc-dimension)
 
 <a name="bayes" />
 ##Bayesian Machine Learning
