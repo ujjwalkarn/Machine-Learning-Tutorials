@@ -248,10 +248,12 @@ This repository contains codes and other resources related to Machine Learning.
         - [Implementing LSTM from scratch](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), [Python/Theano code](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
         - [Torch Code](https://github.com/karpathy/char-rnn), [Torch](https://github.com/apaszke/kaggle-grasp-and-lift)
         - [LSTM for Sentiment Analysis in Theano](http://deeplearning.net/tutorial/lstm.html#lstm)
-    - Gated Recurrent Units (GRU)
-        - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
         - [**Deep Learning for Visual Q&A | LSTM | CNN**](http://avisingh599.github.io/deeplearning/visual-qa/), [Code](https://github.com/avisingh599/visual-qa)
         - [Computer Responds to email | Google](http://googleresearch.blogspot.in/2015/11/computer-respond-to-this-email.html)
+        - [**LSTM dramatically improves Google Voice Search**](http://googleresearch.blogspot.ch/2015/09/google-voice-search-faster-and-more.html), [2](http://deeplearning.net/2015/09/30/long-short-term-memory-dramatically-improves-google-voice-etc-now-available-to-a-billion-users/)
+    - Gated Recurrent Units (GRU)
+        - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
+      
 
 <a name="rbm" />
 - Restricted Boltzmann Machine
