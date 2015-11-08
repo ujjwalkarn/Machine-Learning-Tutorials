@@ -54,8 +54,6 @@ This repository contains codes and other resources related to Machine Learning.
 - [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
 - [Awesome Machine Learning frameworks, libraries and software](https://github.com/ujjwalkarn/awesome-machine-learning)
 - [Comparing Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
-- [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
-- [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 - [Useful Data Science Resources](http://www.dataschool.io/learning-data-science-fundamentals/)
 - [The Data School Blog](http://www.dataschool.io/)
 - [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
@@ -156,6 +154,8 @@ This repository contains codes and other resources related to Machine Learning.
 - [**What is Deviance?**](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
 - [**When to choose which machine learning classifier?**](http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier)
 - [**What are the advantages of different classification algorithms?**](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms)
+- [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
+- [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 
 <a name="knn" />
 ##k Nearest Neighbors
