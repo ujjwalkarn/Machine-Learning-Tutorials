@@ -156,6 +156,10 @@ This repository contains codes and other resources related to Machine Learning.
 <a name="deep" />
 ##Deep Learning
 - [LOTS OF RESOURCES!](http://deeplearning4j.org/documentation.html)
+- [Google+ Page](https://plus.google.com/communities/112866381580457264725)
+- [Where to Learn Deep Learning](http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html)
+- [Where are the Deep Learning 2](http://www.datacommunitydc.org/blog/2014/05/deep-learning-courses/)
+- [Deep Learning nvidia concepts](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 - [NN FAQs GOOD! (copy paste link)](ftp://ftp.sas.com/pub/neural/FAQ3.html#A_hu)
 - [INTRO TO DEEP LEARNING USING PYTHON | GITHUB](https://github.com/rouseguy/intro2deeplearning), [Good Intro Slides](https://speakerdeck.com/bargava/introduction-to-deep-learning)
 - [Video Lectures Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu), [Video Lectures Summer School Montreal](http://videolectures.net/deeplearning2015_montreal/)
@@ -246,6 +250,8 @@ This repository contains codes and other resources related to Machine Learning.
         - [LSTM for Sentiment Analysis in Theano](http://deeplearning.net/tutorial/lstm.html#lstm)
     - Gated Recurrent Units (GRU)
         - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
+        - [**Deep Learning for Visual Q&A | LSTM | CNN**](http://avisingh599.github.io/deeplearning/visual-qa/), [Code](https://github.com/avisingh599/visual-qa)
+        - [Computer Responds to email | Google](http://googleresearch.blogspot.in/2015/11/computer-respond-to-this-email.html)
 
 <a name="rbm" />
 - Restricted Boltzmann Machine
@@ -269,6 +275,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [JavaScript Library (Browser Based)](http://cs.stanford.edu/people/karpathy/convnetjs/)
     - [Using CNNs to detect facial keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
     - [Deep learning to classify business photos at Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html)
+    - [Interview with Yann LeCun | Kaggle](http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/)
 
 
 <a name="nlp" />
