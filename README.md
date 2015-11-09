@@ -49,6 +49,7 @@ This repository contains codes and other resources related to Machine Learning.
 ##General Stuff
 - [**A curated list of awesome Machine Learning frameworks, libraries and software**](https://github.com/josephmisiti/awesome-machine-learning)
 - [**An awesome Data Science repository to learn and apply for real world problems**](https://github.com/okulbilisim/awesome-datascience)
+- [**The Open Source Data Science Masters**](http://datasciencemasters.org/)
 - [**ML FAQs Cross Validated**](http://stats.stackexchange.com/questions/tagged/machine-learning)
 - [**ML University Courses**](https://github.com/prakhar1989/awesome-courses#machine-learning)
 - [**Machine Learning algorithms that you should always have a strong understanding of**](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
