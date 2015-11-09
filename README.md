@@ -269,6 +269,8 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [**A curated list of awesome Deep Learning tutorials, projects and communities**](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [LOTS OF RESOURCES!](http://deeplearning4j.org/documentation.html)
 - [**Interesting Deep Learning NLP Projects Stanford**](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
+- [**Core Concepts**](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
+- [**Understanding Natural Language with Deep Neural Networks Using Torch**](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 - [Google+ Page](https://plus.google.com/communities/112866381580457264725)
 - [Recent Reddit AMAs](http://deeplearning.net/2014/11/22/recent-reddit-amas-about-deep-learning/), [2](https://www.reddit.com/r/IAmA/comments/3mdk9v/we_are_google_researchers_working_on_deep/)
 - [Where to Learn Deep Learning](http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html)
@@ -296,6 +298,10 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [Deep Learning Tutorials deeplearning.net](http://deeplearning.net/tutorial/index.html)
 - [Kaggle Deep Learn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods)
 
+- Neural Machine Translation
+    - [Introduction to Neural Machine Translation with GPUs (part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
+    - [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](http://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
+    
 - Deep Learning Frameworks
     - [Torch vs. Theano](http://fastml.com/torch-vs-theano/)
     - [dl4j vs. torch7 vs. theano](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
@@ -321,6 +327,12 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
         - [ML using Torch Oxford Univ](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/), [Code](https://github.com/oxford-cs-ml-2015)
         - [Torch Internals Overview](https://apaszke.github.io/torch-internals.html)     
         - [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet)
+        - [**Understanding Natural Language with Deep Neural Networks Using Torch**](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
+        
+    - [Caffe]
+        - [Deep Learning for Computer Vision with Caffe and cuDNN](http://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
+        
+        
     
     - [DistBelief Framework Implementation -- no GPU needed](http://alexminnaar.com/implementing-distbelief-with-akka.html)
         
@@ -365,6 +377,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
         - [**Deep Learning for Visual Q&A | LSTM | CNN**](http://avisingh599.github.io/deeplearning/visual-qa/), [Code](https://github.com/avisingh599/visual-qa)
         - [Computer Responds to email | Google](http://googleresearch.blogspot.in/2015/11/computer-respond-to-this-email.html)
         - [**LSTM dramatically improves Google Voice Search**](http://googleresearch.blogspot.ch/2015/09/google-voice-search-faster-and-more.html), [2](http://deeplearning.net/2015/09/30/long-short-term-memory-dramatically-improves-google-voice-etc-now-available-to-a-billion-users/)
+        - [**Understanding Natural Language with Deep Neural Networks Using Torch**](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
     - Gated Recurrent Units (GRU)
         - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
       
