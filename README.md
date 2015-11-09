@@ -329,7 +329,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
         - [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet)
         - [**Understanding Natural Language with Deep Neural Networks Using Torch**](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
         
-    - [Caffe]
+    - Caffe
         - [Deep Learning for Computer Vision with Caffe and cuDNN](http://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
         
         
