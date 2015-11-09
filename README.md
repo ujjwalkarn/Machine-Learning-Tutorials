@@ -420,6 +420,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 <a name="nlp" />
 ##Natural Language Processing
 - [**A curated list of speech and natural language processing resources**](https://github.com/edobashira/speech-language-processing)
+- [**Understanding Natural Language with Deep Neural Networks Using Torch**](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 - [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
 - [A Good Post](https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists)
 - [**Interesting Deep Learning NLP Projects Stanford**](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
