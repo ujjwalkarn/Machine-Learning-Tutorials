@@ -20,6 +20,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Bootstraping](#boot)
 - [Hyperparameter Optimization](#hyper)
 - [Bias Variance Tradeoff](#bias)
+- [Feature Learning](#fl)
 - [Deep Learning](#deep)
     - [Frameworks](#frame)
         - Theano
@@ -268,6 +269,10 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 ##Bias Variance Tradeoff
 - [Wiki](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
 - [Good Explanation](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+
+<a name="fl" />
+##Feature Learning
+- [Wiki](https://en.wikipedia.org/wiki/Feature_learning)
 
 <a name="deep" />
 ##Deep Learning
