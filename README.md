@@ -59,6 +59,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [**ML FAQs Cross Validated**](http://stats.stackexchange.com/questions/tagged/machine-learning)
 - [**ML University Courses**](https://github.com/prakhar1989/awesome-courses#machine-learning)
 - [**Machine Learning algorithms that you should always have a strong understanding of**](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
+- [*https://www.psych.umn.edu/faculty/waller/classes/FA2010/Readings/rodgers.pdf*](https://www.psych.umn.edu/faculty/waller/classes/FA2010/Readings/rodgers.pdf)
 - [*List of ML Concepts*](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts)
 - [Slides on Several Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
 - [Predictive Analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
