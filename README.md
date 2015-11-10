@@ -331,6 +331,10 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
         
     - Caffe
         - [Deep Learning for Computer Vision with Caffe and cuDNN](http://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
+    
+    - TensorFlow (by Google)
+        - [Website](http://tensorflow.org/)
+        - [Other Info](https://www.linkedin.com/pulse/googles-deep-learning-core-framework-tensor-flow-open-lin-sun)
         
         
     
