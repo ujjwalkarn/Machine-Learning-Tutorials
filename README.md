@@ -21,6 +21,11 @@ This repository contains codes and other resources related to Machine Learning.
 - [Hyperparameter Optimization](#hyper)
 - [Bias Variance Tradeoff](#bias)
 - [Deep Learning](#deep)
+    - [Frameworks](#frame)
+        - Theano
+        - Torch
+        - Caffe
+        - TensorFlow
     - [Feed Forward Networks](#feed)
     - [Recurrent Neural Nets, LSTM, GRU](#rnn)
     - [Restricted Boltzmann Machine, DBNs](#rbm)
@@ -301,7 +306,8 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - Neural Machine Translation
     - [Introduction to Neural Machine Translation with GPUs (part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
     - [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](http://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
-    
+
+<a name="frame" />
 - Deep Learning Frameworks
     - [Torch vs. Theano](http://fastml.com/torch-vs-theano/)
     - [dl4j vs. torch7 vs. theano](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
