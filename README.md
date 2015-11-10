@@ -281,6 +281,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [**Interesting Deep Learning NLP Projects Stanford**](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
 - [**Core Concepts**](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 - [**Understanding Natural Language with Deep Neural Networks Using Torch**](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
+- [**Stanford Deep Learning Tutorial**](http://ufldl.stanford.edu/tutorial/)
 - [Google+ Page](https://plus.google.com/communities/112866381580457264725)
 - [Recent Reddit AMAs](http://deeplearning.net/2014/11/22/recent-reddit-amas-about-deep-learning/), [2](https://www.reddit.com/r/IAmA/comments/3mdk9v/we_are_google_researchers_working_on_deep/)
 - [Where to Learn Deep Learning](http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html)
