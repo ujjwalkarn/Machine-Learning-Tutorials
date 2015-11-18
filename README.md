@@ -58,6 +58,7 @@ This repository contains codes and other resources related to Machine Learning.
 - [**Machine Learning algorithms that you should always have a strong understanding of**](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
 - [*Linearly Independent, Orthogonal, and Uncorrelated Variables*](https://www.psych.umn.edu/faculty/waller/classes/FA2010/Readings/rodgers.pdf)
 - [*List of ML Concepts*](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts)
+- [DataScienceArsenal GitHub](https://github.com/binga/DataScienceArsenal)
 - [Slides on Several Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
 - [Predictive Analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
 - [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
