@@ -33,6 +33,7 @@ This repository contains codes and other resources related to Machine Learning.
     - [Word2Vec](#word2vec)
 - [Computer Vision](#vision)
 - [Support Vector Machine](#svm)
+- [Distributed Machine Learning](#dml)
 - [Reinforcement Learning](#rl)
 - [Decision Trees](#dt)
 - [Random Forest / Bagging](#rf)
@@ -494,12 +495,22 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [**Highest Voted Questions**](http://stats.stackexchange.com/questions/tagged/svm)
 - [**Understanding SVMs**](http://stats.stackexchange.com/questions/3947/help-me-understand-support-vector-machines)
 - [SVM in Layman's terms](https://www.quora.com/What-does-support-vector-machine-SVM-mean-in-laymans-terms)
+- [How does SVM Work | Comparisons](http://stats.stackexchange.com/questions/23391/how-does-a-support-vector-machine-svm-work)
 - [A tutorial on SVMs](http://alex.smola.org/papers/2003/SmoSch03b.pdf)
+- [Practical Guide to SVC](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf), [Slides](http://www.csie.ntu.edu.tw/~cjlin/talks/freiburg.pdf)
 - [svms.org](http://www.svms.org/)
 - [Introductory Overview](http://www.statsoft.com/Textbook/Support-Vector-Machines)
-- [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines), [Another Comparison](http://www.svms.org/anns.html)
-- [Trees > SVMs](http://stats.stackexchange.com/questions/57438/why-is-svm-not-so-good-as-decision-tree-on-the-same-data)
+- Comaprisons
+    - [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines), [Another Comparison](http://www.svms.org/anns.html)
+    - [Trees > SVMs](http://stats.stackexchange.com/questions/57438/why-is-svm-not-so-good-as-decision-tree-on-the-same-data)
+    - [Kernel Logistic Regression vs SVM](http://stats.stackexchange.com/questions/43996/kernel-logistic-regression-vs-svm)
+    - [Logistic Regression vs SVM](http://stats.stackexchange.com/questions/58684/regularized-logistic-regression-and-support-vector-machine), [2](http://stats.stackexchange.com/questions/95340/svm-v-s-logistic-regression), [3](https://www.quora.com/Support-Vector-Machines/What-is-the-difference-between-Linear-SVMs-and-Logistic-Regression)
 - [**Optimization Algorithms in Support Vector Machines**](http://pages.cs.wisc.edu/~swright/talks/sjw-complearning.pdf)
+- [Variable Importance from SVM](http://stats.stackexchange.com/questions/2179/variable-importance-from-svm)
+- Software
+    - [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) 
+    - [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/)
+    - [Intro to SVM in R](http://cbio.ensmp.fr/~jvert/svn/tutorials/practical/svmbasic/svmbasic_notes.pdf)
 - Kernels
     - [What are Kernels in ML and SVM?](https://www.quora.com/What-are-Kernels-in-Machine-Learning-and-SVM)
     - [Intuition Behind Gaussian Kernel in SVMs?](https://www.quora.com/Support-Vector-Machines/What-is-the-intuition-behind-Gaussian-kernel-in-SVM) 
@@ -508,6 +519,11 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
     - [Platt Calibration Wiki](https://en.wikipedia.org/wiki/Platt_scaling)
     - [Why use Platts Scaling](http://stats.stackexchange.com/questions/5196/why-use-platts-scaling)
     - [Classifier Classification with Platt's Scaling](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)
+    - [Paper](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.1639)
+
+<a name="dml" />
+##Distributed Machine Learning
+- [Intro](http://fastml.com/the-emperors-new-clothes-distributed-machine-learning/)
 
 <a name="rl" />
 ##Reinforcement Learning
