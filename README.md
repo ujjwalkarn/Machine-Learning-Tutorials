@@ -439,6 +439,8 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [**Interesting Deep Learning NLP Projects Stanford**](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
 - [**NLP from Scratch | Google Paper**](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35671.pdf)
 - [Graph Based Semi Supervised Learning for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
+- [Bag of Words](https://en.wikipedia.org/wiki/Bag-of-words_model)
+    - [Classification text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/) 
 <a name="topic" />
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) 
     - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
@@ -472,6 +474,9 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
     - [How string clustering works](http://stackoverflow.com/questions/8196371/how-clustering-works-especially-string-clustering) 
     - [Levenshtein distance for measuring the difference between two sequences](https://en.wikipedia.org/wiki/Levenshtein_distance)
     - [Text clustering with Levenshtein distances](http://stackoverflow.com/questions/21511801/text-clustering-with-levenshtein-distances)
+
+- Text Classification
+    - [Classification Text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/) 
     
 - [Language learning with NLP and reinforcement learning](http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/)
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
@@ -488,9 +493,21 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 ##Support Vector Machine
 - [**Highest Voted Questions**](http://stats.stackexchange.com/questions/tagged/svm)
 - [**Understanding SVMs**](http://stats.stackexchange.com/questions/3947/help-me-understand-support-vector-machines)
-- [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
+- [SVM in Layman's terms](https://www.quora.com/What-does-support-vector-machine-SVM-mean-in-laymans-terms)
+- [A tutorial on SVMs](http://alex.smola.org/papers/2003/SmoSch03b.pdf)
+- [svms.org](http://www.svms.org/)
+- [Introductory Overview](http://www.statsoft.com/Textbook/Support-Vector-Machines)
+- [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines), [Another Comparison](http://www.svms.org/anns.html)
 - [Trees > SVMs](http://stats.stackexchange.com/questions/57438/why-is-svm-not-so-good-as-decision-tree-on-the-same-data)
 - [**Optimization Algorithms in Support Vector Machines**](http://pages.cs.wisc.edu/~swright/talks/sjw-complearning.pdf)
+- Kernels
+    - [What are Kernels in ML and SVM?](https://www.quora.com/What-are-Kernels-in-Machine-Learning-and-SVM)
+    - [Intuition Behind Gaussian Kernel in SVMs?](https://www.quora.com/Support-Vector-Machines/What-is-the-intuition-behind-Gaussian-kernel-in-SVM) 
+- Probabilities post SVM
+    - [Platt's Probabilistic Outputs for SVM](http://www.csie.ntu.edu.tw/~htlin/paper/doc/plattprob.pdf)  
+    - [Platt Calibration Wiki](https://en.wikipedia.org/wiki/Platt_scaling)
+    - [Why use Platts Scaling](http://stats.stackexchange.com/questions/5196/why-use-platts-scaling)
+    - [Classifier Classification with Platt's Scaling](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)
 
 <a name="rl" />
 ##Reinforcement Learning
