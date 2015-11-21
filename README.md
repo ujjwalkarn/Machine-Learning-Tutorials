@@ -76,6 +76,7 @@ This repository contains codes and other resources related to Machine Learning.
 <a name="interview" />
 ##Interview Resources
 - [How can a computer science graduate student prepare himself for data scientist/machine learning interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
+- [**How do I learn Machine Learning**](https://www.quora.com/How-do-I-learn-machine-learning-1)
 - [Data Science Interviews](https://www.quora.com/topic/Data-Science-Interviews/faq)
 - [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
 - [Data Science FAQ](https://www.quora.com/topic/Data-Science/faq)
