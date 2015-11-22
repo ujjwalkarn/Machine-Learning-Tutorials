@@ -336,6 +336,8 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
     - [Torch](http://torch.ch/)
         - [Torch ML Tutorial](http://code.madbits.com/wiki/doku.php), [Code](https://github.com/torch/tutorials)
         - [Intro to Torch](http://ml.informatik.uni-freiburg.de/_media/teaching/ws1415/presentation_dl_lect3.pdf)
+        - [Learning Torch](https://github.com/chetannaik/learning_torch)
+        - [Awesome Torch GitHub](https://github.com/carpedm20/awesome-torch)
         - [ML using Torch Oxford Univ](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/), [Code](https://github.com/oxford-cs-ml-2015)
         - [Torch Internals Overview](https://apaszke.github.io/torch-internals.html)     
         - [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet)
@@ -346,6 +348,8 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
     
     - TensorFlow (by Google)
         - [Website](http://tensorflow.org/)
+        - [Learning TensorFlow](https://github.com/chetannaik/learning_tensorflow)
+        - [Benchmark TensorFlow](https://github.com/soumith/convnet-benchmarks/issues/66)
         - [Other Info](https://www.linkedin.com/pulse/googles-deep-learning-core-framework-tensor-flow-open-lin-sun)
         
         
