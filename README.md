@@ -36,9 +36,7 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 - [Ensembles](#ensem)
 - [Stacking Models](#stack)
 - [VC Dimension](#vc)
-- [Clustering](#clust)
 - [Bayesian Machine Learning](#bayes)
-- [Time Series Forecasting](#ts)
 - [Semi Supervised Learning](#semi)
 - [Optimizations](#opt)
 
@@ -485,46 +483,44 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [CHAID vs CART](http://stats.stackexchange.com/questions/61230/chaid-vs-crt-or-cart) , [CART vs CHAID](http://www.bzst.com/2006/10/classification-trees-cart-vs-chaid.html)
     - [Good Article on comparison](http://www.ftpress.com/articles/article.aspx?p=2248639&seqNum=11)
 - CART
-    - [Recursive Partitioning](https://en.wikipedia.org/wiki/Recursive_partitioning)
-    - [Explained](http://documents.software.dell.com/Statistics/Textbook/Classification-and-Regression-Trees)
+    - [Recursive Partitioning Wikipedia](https://en.wikipedia.org/wiki/Recursive_partitioning)
+    - [CART Explained](http://documents.software.dell.com/Statistics/Textbook/Classification-and-Regression-Trees)
     - [How to measure/rank “variable importance” when using CART?](http://stats.stackexchange.com/questions/6478/how-to-measure-rank-variable-importance-when-using-cart-specifically-using)
     - [Pruning a Tree in R](http://stackoverflow.com/questions/15318409/how-to-prune-a-tree-in-r)
     - [Does rpart use multivariate splits by default?](http://stats.stackexchange.com/questions/4356/does-rpart-use-multivariate-splits-by-default)
-    - [FAQs](http://stats.stackexchange.com/questions/tagged/rpart)
+    - [FAQs about Recursive Partitioning](http://stats.stackexchange.com/questions/tagged/rpart)
 - CTREE
-    - [party package](https://cran.r-project.org/web/packages/party/party.pdf) 
-    - [R Question](http://stackoverflow.com/questions/13772715/show-volume-in-each-node-using-ctree-plot-in-r)
+    - [party package in R](https://cran.r-project.org/web/packages/party/party.pdf) 
+    - [Show volumne in each node using ctree in R](http://stackoverflow.com/questions/13772715/show-volume-in-each-node-using-ctree-plot-in-r)
     - [How to extract tree structure from ctree function?](http://stackoverflow.com/questions/8675664/how-to-extract-tree-structure-from-ctree-function)
 - CHAID
-    - [Wiki](https://en.wikipedia.org/wiki/CHAID) 
-    - [Basic Intro](https://smartdrill.com/Introduction-to-CHAID.html)
-    - [Step by step process](http://dni-institute.in/blogs/wp-content/uploads/2015/09/Decision-Tree-An-Illustration-of-Decision-Tree-Building-Process.pdf)
-    - [CHAID and Exhaustive CHAID (copy paste link)](ftp://ftp.software.ibm.com/software/analytics/spss/support/Stats/Docs/Statistics/Algorithms/13.0/TREE-CHAID.pdf)
-    - [Good Tutorial](http://www.statsoft.com/Textbook/CHAID-Analysis)
+    - [Wikipedia Artice on CHAID](https://en.wikipedia.org/wiki/CHAID) 
+    - [Basic Introduction to CHAID](https://smartdrill.com/Introduction-to-CHAID.html)
+    - [Good Tutorial on CHAID](http://www.statsoft.com/Textbook/CHAID-Analysis)
 - MARS
-    - [Wiki](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) 
+    - [Wikipedia Article on MARS](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) 
 - Probabilistic Decision Trees
     - [Bayesian Learning in Probabilistic Decision Trees](http://www.stats.org.uk/bayesian/Jordan.pdf) 
-    - [Probabilistic Trees](http://people.stern.nyu.edu/adamodar/pdfiles/papers/probabilistic.pdf)
+    - [Probabilistic Trees Research Paper](http://people.stern.nyu.edu/adamodar/pdfiles/papers/probabilistic.pdf)
     
 <a name="rf" />
 ##Random Forest / Bagging
-- [**awesome rf ~ github**](https://github.com/kjw0612/awesome-random-forest)
-- [How to tune RF parameters in practice](https://www.kaggle.com/forums/f/15/kaggle-forum/t/4092/how-to-tune-rf-parameters-in-practice)
+- [Awesome Random Forest (GitHub)**](https://github.com/kjw0612/awesome-random-forest)
+- [How to tune RF parameters in practice?](https://www.kaggle.com/forums/f/15/kaggle-forum/t/4092/how-to-tune-rf-parameters-in-practice)
 - [Measures of variable importance in random forests](http://stats.stackexchange.com/questions/12605/measures-of-variable-importance-in-random-forests)
 - [Compare R-squared from two different Random Forest models](http://stats.stackexchange.com/questions/13869/compare-r-squared-from-two-different-random-forest-models)
 - [OOB Estimate Explained | RF vs LDA](https://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2.pdf)
 - [Evaluating Random Forests for Survival Analysis Using Prediction Error Curve](http://www.jstatsoft.org/article/view/v050i11)
-- [*Why doesn't Random Forest handle missing values in predictors?*](http://stats.stackexchange.com/questions/98953/why-doesnt-random-forest-handle-missing-values-in-predictors)
+- [Why doesn't Random Forest handle missing values in predictors?](http://stats.stackexchange.com/questions/98953/why-doesnt-random-forest-handle-missing-values-in-predictors)
 - [How to build random forests in R with missing (NA) values?](http://stackoverflow.com/questions/8370455/how-to-build-random-forests-in-r-with-missing-na-values)
-- [**FAQs CV**](http://stats.stackexchange.com/questions/tagged/random-forest), [FAQs SO](http://stackoverflow.com/questions/tagged/random-forest)
-- [*Obtaining knowledge from a random forest*](http://stats.stackexchange.com/questions/21152/obtaining-knowledge-from-a-random-forest)
+- [FAQs about Random Forest](http://stats.stackexchange.com/questions/tagged/random-forest), [More FAQs](http://stackoverflow.com/questions/tagged/random-forest)
+- [Obtaining knowledge from a random forest](http://stats.stackexchange.com/questions/21152/obtaining-knowledge-from-a-random-forest)
 - [Some Questions for R implementation](http://stackoverflow.com/questions/20537186/getting-predictions-after-rfimpute), [2](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore), [3](http://stackoverflow.com/questions/17059432/random-forest-package-in-r-shows-error-during-prediction-if-there-are-new-fact)
 
 <a name="gbm" />
 ##Boosting 
 - [Boosting for Better Predictions](http://www.datasciencecentral.com/profiles/blogs/boosting-algorithms-for-better-predictions)
-- [Boosting Wiki](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
+- [Boosting Wikipedia Page](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
 - [Introduction to Boosted Trees | Tianqi Chen](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
 - Gradient Boosting Machine
     - [Gradiet Boosting Wiki](https://en.wikipedia.org/wiki/Gradient_boosting)
@@ -532,7 +528,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Meaning of Interaction Depth](http://stats.stackexchange.com/questions/16501/what-does-interaction-depth-mean-in-gbm), [2](http://stats.stackexchange.com/questions/16501/what-does-interaction-depth-mean-in-gbm)
     - [Role of n.minobsinnode parameter of GBM in R](http://stats.stackexchange.com/questions/30645/role-of-n-minobsinnode-parameter-of-gbm-in-r)
     - [GBM in R](http://www.slideshare.net/mark_landry/gbm-package-in-r)
-    - [FAQs GBM](http://stats.stackexchange.com/tags/gbm/hot)
+    - [FAQs about GBM](http://stats.stackexchange.com/tags/gbm/hot)
     - [GBM vs xgboost](https://www.kaggle.com/c/higgs-boson/forums/t/9497/r-s-gbm-vs-python-s-xgboost)
 
 - xgboost
@@ -547,75 +543,66 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 
 <a name="ensem" />
 ##Ensembles
-- [Wiki](https://en.wikipedia.org/wiki/Ensemble_learning)
-- [*KAGGLE ENSEMBLING GUIDE*](http://mlwave.com/kaggle-ensembling-guide/)
-- [*Power of Simple Ensembles*](http://www.overkillanalytics.net/more-is-always-better-the-power-of-simple-ensembles/)
-- [Ensemble Learning](http://machine-learning.martinsewell.com/ensembles/)
+- [Wikipedia Article on Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning)
+- [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
+- [The Power of Simple Ensembles](http://www.overkillanalytics.net/more-is-always-better-the-power-of-simple-ensembles/)
+- [Ensemble Learning Intro](http://machine-learning.martinsewell.com/ensembles/)
 - [Ensemble Learning Paper](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/springerEBR09.pdf)
-- [Ensembling models with R](http://amunategui.github.io/blending-models/), [Ensembling Regression Models in R](http://stats.stackexchange.com/questions/26790/ensembling-regression-models), [**Intro to Ensembles in R**](http://www.vikparuchuri.com/blog/intro-to-ensemble-learning-in-r/)
+- [Ensembling models with R](http://amunategui.github.io/blending-models/), [Ensembling Regression Models in R](http://stats.stackexchange.com/questions/26790/ensembling-regression-models), [Intro to Ensembles in R](http://www.vikparuchuri.com/blog/intro-to-ensemble-learning-in-r/)
 - [Ensembling Models with caret](http://stats.stackexchange.com/questions/27361/stacking-ensembling-models-with-caret)
 - [Bagging vs Boosting vs Stacking](http://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning)
-- [*Good Resources | Kaggle Africa*](https://www.kaggle.com/c/afsis-soil-properties/forums/t/10391/best-ensemble-references)
+- [Good Resources | Kaggle Africa Soil Property Prediction](https://www.kaggle.com/c/afsis-soil-properties/forums/t/10391/best-ensemble-references)
 - [Boosting vs Bagging](http://www.chioka.in/which-is-better-boosting-or-bagging/)
 - [Resources for learning how to implement ensemble methods](http://stats.stackexchange.com/questions/32703/resources-for-learning-how-to-implement-ensemble-methods)
 - [How are classifications merged in an ensemble classifier?](http://stats.stackexchange.com/questions/21502/how-are-classifications-merged-in-an-ensemble-classifier)
 
 <a name="stack" />
 ##Stacking Models 
-- [**Stacking, Blending and Stacked Generalization**](http://www.chioka.in/stacking-blending-and-stacked-generalization/)
+- [Stacking, Blending and Stacked Generalization](http://www.chioka.in/stacking-blending-and-stacked-generalization/)
 - [Stacked Generalization (Stacking)](http://machine-learning.martinsewell.com/ensembles/stacking/)
-- [*Stacked Generalization: when does it work?*](http://www.ijcai.org/Past%20Proceedings/IJCAI-97-VOL2/PDF/011.pdf)
+- [Stacked Generalization: when does it work?](http://www.ijcai.org/Past%20Proceedings/IJCAI-97-VOL2/PDF/011.pdf)
 - [Stacked Generalization Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1533&rep=rep1&type=pdf)
 
 <a name="vc" />
-##VC Dimension
-- [Wiki](https://en.wikipedia.org/wiki/VC_dimension)
-- [*Intuitive Explanantion*](https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way)
-- [Video](https://www.youtube.com/watch?v=puDzy2XmR5c)
-- [Intro](http://www.svms.org/vc-dimension/)
-- [FAQs CV](http://stats.stackexchange.com/questions/tagged/vc-dimension)
+##Vapnik–Chervonenkis Dimension
+- [Wikipedia article on VC Dimension](https://en.wikipedia.org/wiki/VC_dimension)
+- [Intuitive Explanantion of VC Dimension](https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way)
+- [Video explaining VC Dimension](https://www.youtube.com/watch?v=puDzy2XmR5c)
+- [Introduction to VC Dimension](http://www.svms.org/vc-dimension/)
+- [FAQs about VC Dimension](http://stats.stackexchange.com/questions/tagged/vc-dimension)
 - [Do ensemble techniques increase VC-dimension?](http://stats.stackexchange.com/questions/78076/do-ensemble-techniques-increase-vc-dimension)
 
-<a name="clust" />
-##Clustering
-- [Cluster Analysis Wiki](https://en.wikipedia.org/wiki/Cluster_analysis)
-- [OPTICS Algo](https://en.wikipedia.org/wiki/OPTICS_algorithm)
 
 <a name="bayes" />
 ##Bayesian Machine Learning
-- [**Bayesian Methods for Hackers (using pyMC)**](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-- [Should all Machine Learning be Bayesian](http://videolectures.net/bark08_ghahramani_samlbb/)
+- [Bayesian Methods for Hackers (using pyMC)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [Should all Machine Learning be Bayesian?](http://videolectures.net/bark08_ghahramani_samlbb/)
 - [Tutorial on Bayesian Optimisation for Machine Learning](http://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
 - [Bayesian Reasoning and Deep Learning](http://blog.shakirm.com/2015/10/bayesian-reasoning-and-deep-learning/), [Slides](http://blog.shakirm.com/wp-content/uploads/2015/10/Bayes_Deep.pdf)
-- [BAYESIAN STATISTICS MADE SIMPLE](http://greenteapress.com/thinkbayes/)
+- [Bayesian Statistics Made Simple](http://greenteapress.com/thinkbayes/)
 - [Kalman & Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
-- [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain)
+- [Markov Chain Wikipedia Page](https://en.wikipedia.org/wiki/Markov_chain)
 
-<a name="ts" />
-##Time Series Forecasting
-- [Forecasting Principles, Rob J Hyndman](http://robjhyndman.com/uwafiles/fpp-notes.pdf)
-- [DYNAMIC TIME WARPING + Time Series Classification & Clustering](http://nbviewer.ipython.org/github/alexminnaar/time-series-classification-and-clustering/blob/master/Time%20Series%20Classification%20and%20Clustering.ipynb), [GitHub](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
 <a name="semi" />
 ##Semi Supervised Learning
-- [Wikipedia](https://en.wikipedia.org/wiki/Semi-supervised_learning)
-- [scikit-learn](http://scikit-learn.org/stable/modules/label_propagation.html)
-- [Tutorial](http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf) 
-- [Graph Based SSL for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
+- [Wikipedia article on Semi Supervised Learning](https://en.wikipedia.org/wiki/Semi-supervised_learning)
+- [Tutorial on Semi Supervised Learning](http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf) 
+- [Graph Based Semi Supervised Learning for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
 - [Taxonomy](http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/taxo_[0].pdf)
 - [Video Tutorial Weka](https://www.youtube.com/watch?v=sWxcIjZFGNM)
-- [unsupervised-supervised-and-semi-supervised](http://stats.stackexchange.com/questions/517/unsupervised-supervised-and-semi-supervised-learning)
-- [Papers 1](http://mlg.eng.cam.ac.uk/zoubin/papers/zglactive.pdf), [2](http://mlg.eng.cam.ac.uk/zoubin/papers/zgl.pdf), [3](http://icml.cc/2012/papers/616.pdf)
+- [Unsupervised, Supervised and Semi Supervised learning](http://stats.stackexchange.com/questions/517/unsupervised-supervised-and-semi-supervised-learning)
+- [Research Papers 1](http://mlg.eng.cam.ac.uk/zoubin/papers/zglactive.pdf), [2](http://mlg.eng.cam.ac.uk/zoubin/papers/zgl.pdf), [3](http://icml.cc/2012/papers/616.pdf)
  
 
 
 <a name="opt" />
 ##Optimization
 - [Mean Variance Portfolio Optimization with R and Quadratic Programming](http://www.wdiam.com/2012/06/10/mean-variance-portfolio-optimization-with-r-and-quadratic-programming/?utm_content=buffer04c12&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
-- [**Algorithms for Sparse Optimization and Machine
-Learning**](http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve/sjw-ima12)
-- [**Optimization Algorithms in Machine Learning**](http://pages.cs.wisc.edu/~swright/nips2010/sjw-nips10.pdf), [**Video Lecture**](http://videolectures.net/nips2010_wright_oaml/)
-- [**Optimization Algorithms for Data Analysis**](http://www.birs.ca/workshops/2011/11w2035/files/Wright.pdf)
+- [Algorithms for Sparse Optimization and Machine
+Learning](http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve/sjw-ima12)
+- [Optimization Algorithms in Machine Learning](http://pages.cs.wisc.edu/~swright/nips2010/sjw-nips10.pdf), [Video Lecture](http://videolectures.net/nips2010_wright_oaml/)
+- [Optimization Algorithms for Data Analysis](http://www.birs.ca/workshops/2011/11w2035/files/Wright.pdf)
 - [Video Lectures on Optimization](http://videolectures.net/stephen_j_wright/)
 - [Optimization Algorithms in Support Vector Machines](http://pages.cs.wisc.edu/~swright/talks/sjw-complearning.pdf)
 - [The Interplay of Optimization and Machine Learning Research](http://jmlr.org/papers/volume7/MLOPT-intro06a/MLOPT-intro06a.pdf)
