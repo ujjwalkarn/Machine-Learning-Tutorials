@@ -64,9 +64,9 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 
 <a name="interview" />
 ##Interview Resources
-- [How can a computer science graduate student prepare himself for data scientist/machine learning interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
+- [How can a computer science graduate student prepare himself for data scientist interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
 - [How do I learn Machine Learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)
-- [Data Science Interviews](https://www.quora.com/topic/Data-Science-Interviews/faq)
+- [FAQs about Data Science Interviews](https://www.quora.com/topic/Data-Science-Interviews/faq)
 - [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
 
 <a name="ai" />
@@ -81,8 +81,8 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 - [Genetic Algorithms vs Artificial Neural Networks](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
 - [Genetic Algorithms Explained in Plain English](http://www.ai-junkie.com/ga/intro/gat1.html)
 - [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
-    - [Genetic Programming in Python | GitHub](https://github.com/trevorstephens/gplearn)
-    - [Genetic Alogorithms vs Genetic Programming | Quora](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
+    - [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn)
+    - [Genetic Alogorithms vs Genetic Programming (Quora)](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
 
 <a name="stat" />
 ##Statistics
@@ -109,27 +109,14 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 - [Alex Minnaar's Blog](http://alexminnaar.com/) - A blog about Machine Learning and Software Engineering
 - [Statistically Significant](http://andland.github.io/) - Andrew Landgraf's Data Science Blog
 - [Simply Statistics](http://simplystatistics.org/) - A blog by three biostatistics professors
-- [Yanir Seroussi's Blog](http://yanirseroussi.com/)
-- [fastML](http://fastml.com/)
+- [Yanir Seroussi's Blog](http://yanirseroussi.com/) - A blog about Data Science and beyond
+- [fastML](http://fastml.com/) - Machine learning made easy
 - [Trevor Stephens Blog](http://trevorstephens.com/)
-- [no free hunch | kaggle](http://blog.kaggle.com/)
-- [Statistical Modeling etc](http://andrewgelman.com/)
-- [A Quantitative Journey | outlace](http://outlace.com/)
-- [r4stats](http://r4stats.com/)
-- [Adam Paszke's Blog](https://apaszke.github.io/posts.html)
-- [Variance Explained Blog](http://varianceexplained.org/)
-- [Lars Eidnes' blog](http://larseidnes.com/)
-- [tedunderwook](http://tedunderwood.com/)
-- [AI Junkie](http://www.ai-junkie.com/)
-- [neuralniche](http://neuralniche.com/)
-- [Garbled Notes](http://www.chioka.in/)
-- [Beating the Benchmark](http://beatingthebenchmark.blogspot.in/)
-- [DnI Institute](http://dni-institute.in/blogs/)
-- [Galvanize](http://www.galvanize.com/blog/)
-- [Manuel's Blog](http://amunategui.github.io/)
-- [Philippe Adjiman](http://www.philippeadjiman.com/blog/)
-- [Win Vector Blog](http://www.win-vector.com/blog/popular-articles/)
-- [BzST](http://www.bzst.com/)
+- [no free hunch | kaggle](http://blog.kaggle.com/) - The Kaggle Blog about all things Data Science
+- [A Quantitative Journey | outlace](http://outlace.com/) -  learning quantitative applications
+- [r4stats](http://r4stats.com/) - analyze the world of data science, and to help people learn to use R
+- [Variance Explained](http://varianceexplained.org/) - David Robinson's Blog
+- [AI Junkie](http://www.ai-junkie.com/) - a blog about Artificial Intellingence
 
 <a name="quora" />
 ##Resources on Quora
