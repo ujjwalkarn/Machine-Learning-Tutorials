@@ -1,6 +1,6 @@
 # Machine Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/josephmisiti/awesome-machine-learning)
 
-This repository contains a topic-wise curated list of Machine Learning tutorials, articles and other resources.
+This repository contains a topic-wise curated list of Machine Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome). 
 
 ##Contents
 - [General Stuff](#general)
@@ -13,7 +13,6 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 - [Resources on Kaggle](#kaggle)
 - [Cheat Sheets](#cs)
 - [Classification](#classification)
-- [Linear Discriminant Analysis](#linda)
 - [Linear Regression](#linear)
 - [Logistic Regression](#logistic)
 - [Model Validation using Resampling](#validation)
@@ -397,6 +396,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Segmentation of Twitter Timelines via Topic Modeling](http://alexperrier.github.io/jekyll/update/2015/09/16/segmentation_twitter_timelines_lda_vs_lsa.html)
     - [Topic Modeling of Twitter Followers](http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html)
 
+<a name="word2vec" />
 - word2vec
     - [Google word2vec](https://code.google.com/p/word2vec/)
     - [Bag of Words Model Wiki](https://en.wikipedia.org/wiki/Bag-of-words_model)
