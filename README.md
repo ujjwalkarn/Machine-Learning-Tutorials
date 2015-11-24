@@ -45,82 +45,70 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 
 <a name="general" />
 ##General Stuff
-- [**A curated list of awesome Machine Learning frameworks, libraries and software**](https://github.com/josephmisiti/awesome-machine-learning)
-- [Awesome Data Viz](https://github.com/fasouto/awesome-dataviz)
-- [**An awesome Data Science repository to learn and apply for real world problems**](https://github.com/okulbilisim/awesome-datascience)
-- [**The Open Source Data Science Masters**](http://datasciencemasters.org/)
-- [**ML FAQs Cross Validated**](http://stats.stackexchange.com/questions/tagged/machine-learning)
-- [**ML University Courses**](https://github.com/prakhar1989/awesome-courses#machine-learning)
-- [**Machine Learning algorithms that you should always have a strong understanding of**](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
-- [*Linearly Independent, Orthogonal, and Uncorrelated Variables*](https://www.psych.umn.edu/faculty/waller/classes/FA2010/Readings/rodgers.pdf)
-- [*List of ML Concepts*](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts)
-- [DataScienceArsenal GitHub](https://github.com/binga/DataScienceArsenal)
-- [Slides on Several Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
-- [Predictive Analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
-- [MIT Machine Learning Lecture Slides (MUST SEE!)](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
-- [Awesome Machine Learning frameworks, libraries and software](https://github.com/ujjwalkarn/awesome-machine-learning)
-- [Comparing Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
-- [Useful Data Science Resources](http://www.dataschool.io/learning-data-science-fundamentals/)
-- [The Data School Blog](http://www.dataschool.io/)
-- [Hadley Wickham's AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
-- [ML mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
-- [ML University Courses Awesome](https://github.com/prakhar1989/awesome-courses#machine-learning)
+- [A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
+- [A curated list of awesome data visualization libraries and resources.](https://github.com/fasouto/awesome-dataviz)
+- [An awesome Data Science repository to learn and apply for real world problems](https://github.com/okulbilisim/awesome-datascience)
+- [The Open Source Data Science Masters](http://datasciencemasters.org/)
+- [Machine Learning FAQs on Cross Validated](http://stats.stackexchange.com/questions/tagged/machine-learning)
+- [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
+- [Machine Learning algorithms that you should always have a strong understanding of](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
+- [Differnce between Linearly Independent, Orthogonal, and Uncorrelated Variables](https://www.psych.umn.edu/faculty/waller/classes/FA2010/Readings/rodgers.pdf)
+- [List of Machine Learning Concepts](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts)
+- [Slides on Several Machine Learning Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
+- [MIT Machine Learning Lecture Slides](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
+- [Comparison Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
+- [Learning Data Science Fundamentals](http://www.dataschool.io/learning-data-science-fundamentals/)
+- [Machine Learning mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
 - [Statistical Machine Learning Course](http://www.stat.cmu.edu/~larry/=sml/)
-- [Intro to ML](http://alex.smola.org/teaching/10-701-15/index.html)
 - [TheAnalyticsEdge edX Notes and Codes](https://github.com/pedrosan/TheAnalyticsEdge)
 
 <a name="interview" />
 ##Interview Resources
 - [How can a computer science graduate student prepare himself for data scientist/machine learning interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
-- [**How do I learn Machine Learning**](https://www.quora.com/How-do-I-learn-machine-learning-1)
+- [How do I learn Machine Learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)
 - [Data Science Interviews](https://www.quora.com/topic/Data-Science-Interviews/faq)
 - [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
-- [Data Science FAQ](https://www.quora.com/topic/Data-Science/faq)
-- [How do I learn ML](https://www.quora.com/How-do-I-learn-machine-learning-1)
-- [ML FAQ](https://www.quora.com/topic/Machine-Learning/faq), [Deep Learning FAQ](https://www.quora.com/topic/Deep-Learning/faq)
 
 <a name="ai" />
-##Artificial Intelligence
+##Artificial Intelligence Courses
 - [edX course | Klein & Abbeel](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info)
 - [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
 <a name="ga" />
 ##Genetic Algorithms
-- [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
-- [Simple Implementation Part 1](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/) 
-- [GAs vs ANNs](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
-- [Genetic Algorithms in Plain English](http://www.ai-junkie.com/ga/intro/gat1.html)
+- [Genetic Algorithms Wikipedia Page](https://en.wikipedia.org/wiki/Genetic_algorithm)
+- [Simple Implementation of Genetic Algorithms in Python (Part 1)](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/) 
+- [Genetic Algorithms vs Artificial Neural Networks](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
+- [Genetic Algorithms Explained in Plain English](http://www.ai-junkie.com/ga/intro/gat1.html)
 - [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
     - [Genetic Programming in Python | GitHub](https://github.com/trevorstephens/gplearn)
-    - [GA vs GP Quora](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
+    - [Genetic Alogorithms vs Genetic Programming | Quora](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
 
 <a name="stat" />
 ##Statistics
-- [Stat Trek Website](http://stattrek.com/)
-- [STATISTICS USING PYTHON! | GITHUB](https://github.com/rouseguy/intro2stats)
-- [THINK STATS BOOK](http://greenteapress.com/thinkstats/), [THINK BAYES BOOK | BAYESIAN STATITICS MADE SIMPLE](http://greenteapress.com/thinkbayes/)
+- [Stat Trek Website](http://stattrek.com/) - A dedicated website to teach Yourselves Statistics
+- [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach
 - [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers)
-- [Online Stat Book](http://onlinestatbook.com/2/index.html)
-- [Sampling Distributions Explained](http://stattrek.com/sampling/sampling-distribution.aspx)
+- [Online Statidtics Book](http://onlinestatbook.com/2/index.html) - An Interactive Multimedia Course for Studying Statistics
+- [What is a Sampling Distribution?](http://stattrek.com/sampling/sampling-distribution.aspx)
 - Tutorials
     - [AP Statistics Tutorial](http://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
     - [Statistics and Probability Tutorial](http://stattrek.com/tutorials/statistics-tutorial.aspx)
     - [Matrix Algebra Tutorial](http://stattrek.com/tutorials/matrix-algebra-tutorial.aspx)
-- [What is an Unbiased Estimator](https://www.physicsforums.com/threads/what-is-an-unbiased-estimator.547728/), [Unbiased Estimate](http://stattrek.com/statistics/dictionary.aspx?definition=Unbiased_estimator)
+- [What is an Unbiased Estimator?](https://www.physicsforums.com/threads/what-is-an-unbiased-estimator.547728/), [Unbiased Estimate](http://stattrek.com/statistics/dictionary.aspx?definition=Unbiased_estimator)
 - [Goodness of Fit Explained](https://en.wikipedia.org/wiki/Goodness_of_fit)
-- [QQ Plots](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
-- [*Nonparametric statistics*](https://en.wikipedia.org/wiki/Nonparametric_statistics)
+- [What are QQ Plots?](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
 
 <a name="blogs" />
 ##Useful Blogs
-- [Edwin Chen's Blog](http://blog.echen.me/)
-- [ML Wave AWESOME!](http://mlwave.com/)
-- [ML Daniel Nouri](http://danielnouri.org/notes/)
-- [Deep Learning Awesome | Andrej Karpathy](http://karpathy.github.io/)
-- [Awesome Neural Networks Blog](http://colah.github.io/) 
-- [Deep Learning Alex Minnaar](http://alexminnaar.com/)
-- [Statistically Significant](http://andland.github.io/)
-- [Simply Statistics](http://simplystatistics.org/)
+- [Edwin Chen's Blog](http://blog.echen.me/) - A blog about Math, stats, ML, crowdsourcing, data science 
+- [The Data School Blog](http://www.dataschool.io/) - Data science for beginners!
+- [ML Wave](http://mlwave.com/) - A blog for Learning Machine Learning
+- [Andrej Karpathy](http://karpathy.github.io/) - A blog about Deep Learning and Data Science in general
+- [Colah's Blog](http://colah.github.io/) - Awesome Neural Networks Blog
+- [Alex Minnaar's Blog](http://alexminnaar.com/) - A blog about Machine Learning and Software Engineering
+- [Statistically Significant](http://andland.github.io/) - Andrew Landgraf's Data Science Blog
+- [Simply Statistics](http://simplystatistics.org/) - A blog by three biostatistics professors
 - [Yanir Seroussi's Blog](http://yanirseroussi.com/)
 - [fastML](http://fastml.com/)
 - [Trevor Stephens Blog](http://trevorstephens.com/)
@@ -151,6 +139,8 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 - [Michael Hochster's Answers](https://www.quora.com/Michael-Hochster/answers)
 - [Ricardo Vladimiro's Answers](https://www.quora.com/Ricardo-Vladimiro-1/answers)
 - [Storytelling with Statistics](https://datastories.quora.com/)
+- [Data Science FAQs on Quora](https://www.quora.com/topic/Data-Science/faq)
+- [Machine Learning FAQs on Quora](https://www.quora.com/topic/Machine-Learning/faq)
 
 <a name="kaggle" />
 ##Kaggle Competitions WriteUp
@@ -263,6 +253,7 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
 - [**Core Concepts**](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 - [**Understanding Natural Language with Deep Neural Networks Using Torch**](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 - [**Stanford Deep Learning Tutorial**](http://ufldl.stanford.edu/tutorial/)
+- [Deep Learning FAQs on Quora](https://www.quora.com/topic/Deep-Learning/faq)
 - [Google+ Page](https://plus.google.com/communities/112866381580457264725)
 - [Recent Reddit AMAs](http://deeplearning.net/2014/11/22/recent-reddit-amas-about-deep-learning/), [2](https://www.reddit.com/r/IAmA/comments/3mdk9v/we_are_google_researchers_working_on_deep/)
 - [Where to Learn Deep Learning](http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html)
