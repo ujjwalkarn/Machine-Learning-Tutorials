@@ -67,7 +67,7 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 - [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
 
 <a name="ai" />
-##Artificial Intelligence Courses
+##Artificial Intelligence
 - [edX course | Klein & Abbeel](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info)
 - [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
@@ -83,10 +83,10 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 
 <a name="stat" />
 ##Statistics
-- [Stat Trek Website](http://stattrek.com/) - A dedicated website to teach Yourselves Statistics
+- [Stat Trek Website](http://stattrek.com/) - A dedicated website to teach yourselves Statistics
 - [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach
 - [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers) - Slides by Jake VanderPlas
-- [Online Statidtics Book](http://onlinestatbook.com/2/index.html) - An Interactive Multimedia Course for Studying Statistics
+- [Online Statistics Book](http://onlinestatbook.com/2/index.html) - An Interactive Multimedia Course for Studying Statistics
 - [What is a Sampling Distribution?](http://stattrek.com/sampling/sampling-distribution.aspx)
 - Tutorials
     - [AP Statistics Tutorial](http://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
