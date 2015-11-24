@@ -46,6 +46,7 @@ This repository contains codes and other resources related to Machine Learning.
 <a name="general" />
 ##General Stuff
 - [**A curated list of awesome Machine Learning frameworks, libraries and software**](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Data Viz](https://github.com/fasouto/awesome-dataviz)
 - [**An awesome Data Science repository to learn and apply for real world problems**](https://github.com/okulbilisim/awesome-datascience)
 - [**The Open Source Data Science Masters**](http://datasciencemasters.org/)
 - [**ML FAQs Cross Validated**](http://stats.stackexchange.com/questions/tagged/machine-learning)
