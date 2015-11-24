@@ -1,4 +1,4 @@
-This repository contains codes and other resources related to Machine Learning.
+This repository contains a topic-wise curated list of Machine Learning tutorials, articles and other resources.
 
 ##Contents
 - [General Stuff](#general)
