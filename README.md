@@ -85,14 +85,14 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 ##Statistics
 - [Stat Trek Website](http://stattrek.com/) - A dedicated website to teach Yourselves Statistics
 - [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach
-- [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers)
+- [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers) - Slides by Jake VanderPlas
 - [Online Statidtics Book](http://onlinestatbook.com/2/index.html) - An Interactive Multimedia Course for Studying Statistics
 - [What is a Sampling Distribution?](http://stattrek.com/sampling/sampling-distribution.aspx)
 - Tutorials
     - [AP Statistics Tutorial](http://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
     - [Statistics and Probability Tutorial](http://stattrek.com/tutorials/statistics-tutorial.aspx)
     - [Matrix Algebra Tutorial](http://stattrek.com/tutorials/matrix-algebra-tutorial.aspx)
-- [What is an Unbiased Estimator?](https://www.physicsforums.com/threads/what-is-an-unbiased-estimator.547728/), [Unbiased Estimate](http://stattrek.com/statistics/dictionary.aspx?definition=Unbiased_estimator)
+- [What is an Unbiased Estimator?](https://www.physicsforums.com/threads/what-is-an-unbiased-estimator.547728/)
 - [Goodness of Fit Explained](https://en.wikipedia.org/wiki/Goodness_of_fit)
 - [What are QQ Plots?](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
 
@@ -199,8 +199,14 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [Choice of k in k-fold CV](http://stats.stackexchange.com/questions/27730/choice-of-k-in-k-fold-cross-validation)
     - [CV for ensemble learning](http://stats.stackexchange.com/questions/102631/k-fold-cross-validation-of-ensemble-learning)
     - [k-fold CV in R](http://stackoverflow.com/questions/22909197/creating-folds-for-k-fold-cv-in-r-using-caret)
-    - [Cv Africa Soil Prediction](https://www.kaggle.com/c/afsis-soil-properties/forums/t/10158/training-set-cross-validation/55484)
     - [Good Resources](http://www.chioka.in/tag/cross-validation/)
+    - Overfitting and Cross Validation
+        - [Preventing Overfitting the Cross Validation Data | Andrew Ng](http://ai.stanford.edu/~ang/papers/cv-final.pdf)
+        - [Over-fitting in Model Selection and Subsequent Selection Bias in
+Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.pdf)
+        - [CV for detecting and preventing Overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
+        - [How does CV overcome the Overfitting Problem](http://stats.stackexchange.com/questions/9053/how-does-cross-validation-overcome-the-overfitting-problem)
+
     
     
     <a name="boot" />
@@ -210,13 +216,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [Example of Bootstapping](http://statistics.about.com/od/Applications/a/Example-Of-Bootstrapping.htm)
     - [Understanding Bootstapping for Validation and Model Selection](http://stats.stackexchange.com/questions/14516/understanding-bootstrapping-for-validation-and-model-selection?rq=1)
     - [Cross Validation vs Bootstrap to estimate prediction error](http://stats.stackexchange.com/questions/18348/differences-between-cross-validation-and-bootstrapping-to-estimate-the-predictio), [Cross-validation vs .632 bootstrapping to evaluate classification performance](http://stats.stackexchange.com/questions/71184/cross-validation-or-bootstrapping-to-evaluate-classification-performance)
-    - Overfitting and Cross Validation
-        - [Preventing Overfitting the Cross Validation Data | Andrew Ng](http://ai.stanford.edu/~ang/papers/cv-final.pdf)
-        - [Over-fitting in Model Selection and Subsequent Selection Bias in
-Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.pdf)
-        - [CV for detecting and preventing Overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
-        - [How does CV overcome the Overfitting Problem](http://stats.stackexchange.com/questions/9053/how-does-cross-validation-overcome-the-overfitting-problem)
-
+   
 
 <a name="deep" />
 ##Deep Learning
@@ -229,7 +229,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [Deep Learning FAQs on Quora](https://www.quora.com/topic/Deep-Learning/faq)
 - [Google+ Deep Learning Page](https://plus.google.com/communities/112866381580457264725)
 - [Recent Reddit AMAs related to Deep Learning](http://deeplearning.net/2014/11/22/recent-reddit-amas-about-deep-learning/), [Another AMA](https://www.reddit.com/r/IAmA/comments/3mdk9v/we_are_google_researchers_working_on_deep/)
-- [Where to Learn Deep Learning]?(http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html)
+- [Where to Learn Deep Learning?](http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html)
 - [Deep Learning nvidia concepts](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 - [Introduction to Deep Learning Using Python (GitHub)](https://github.com/rouseguy/intro2deeplearning), [Good Introduction Slides](https://speakerdeck.com/bargava/introduction-to-deep-learning)
 - [Video Lectures Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu), [Video Lectures Summer School Montreal](http://videolectures.net/deeplearning2015_montreal/)
