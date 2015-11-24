@@ -1,4 +1,4 @@
-# Machine Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/josephmisiti/awesome-machine-learning)
+# Machine Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository contains a topic-wise curated list of Machine Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome). 
 
@@ -212,7 +212,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     
     <a name="boot" />
 - [Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
-    - [Why Bootsrapping Works?](http://stats.stackexchange.com/questions/26088/explaining-to-laypeople-why-bootstrapping-works)
+    - [Why Bootstrapping Works?](http://stats.stackexchange.com/questions/26088/explaining-to-laypeople-why-bootstrapping-works)
     - [Good Animation](https://www.stat.auckland.ac.nz/~wild/BootAnim/)
     - [Example of Bootstapping](http://statistics.about.com/od/Applications/a/Example-Of-Bootstrapping.htm)
     - [Understanding Bootstapping for Validation and Model Selection](http://stats.stackexchange.com/questions/14516/understanding-bootstrapping-for-validation-and-model-selection?rq=1)
