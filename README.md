@@ -18,9 +18,6 @@ This repository contains codes and other resources related to Machine Learning.
 - [Model Validation using Resampling](#validation)
     - [Cross Validation](#cross) 
     - [Bootstraping](#boot)
-- [Hyperparameter Optimization](#hyper)
-- [Bias Variance Tradeoff](#bias)
-- [Feature Learning](#fl)
 - [Deep Learning](#deep)
     - [Frameworks](#frame)
     - [Feed Forward Networks](#feed)
@@ -33,7 +30,6 @@ This repository contains codes and other resources related to Machine Learning.
     - [Word2Vec](#word2vec)
 - [Computer Vision](#vision)
 - [Support Vector Machine](#svm)
-- [Distributed Machine Learning](#dml)
 - [Reinforcement Learning](#rl)
 - [Decision Trees](#dt)
 - [Random Forest / Bagging](#rf)
@@ -46,7 +42,6 @@ This repository contains codes and other resources related to Machine Learning.
 - [Time Series Forecasting](#ts)
 - [Semi Supervised Learning](#semi)
 - [Optimizations](#opt)
-- [Applications](#apps)
 
 <a name="general" />
 ##General Stuff
@@ -184,9 +179,6 @@ This repository contains codes and other resources related to Machine Learning.
 - [Intro](http://www.scholarpedia.org/article/K-nearest_neighbor), [2](http://www.statsoft.com/textbook/k-nearest-neighbors)
 - [Classification](http://www.saedsayad.com/k_nearest_neighbors.htm), [Regression](http://www.saedsayad.com/k_nearest_neighbors_reg.htm)
 
-<a name="linda" />
-##Linear Discriminant Analysis
-- [Wiki](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
 
 <a name="linear" />
 ##Linear Regression
@@ -261,18 +253,6 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
         - [CV for detecting and preventing Overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
         - [How does CV overcome the Overfitting Problem](http://stats.stackexchange.com/questions/9053/how-does-cross-validation-overcome-the-overfitting-problem)
 
-<a name="hyper" />
-##Hyperparameter Optimization
-- [Wiki](https://en.wikipedia.org/wiki/Hyperparameter_optimization)
-
-<a name="bias" />
-##Bias Variance Tradeoff
-- [Wiki](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
-- [Good Explanation](http://scott.fortmann-roe.com/docs/BiasVariance.html)
-
-<a name="fl" />
-##Feature Learning
-- [Wiki](https://en.wikipedia.org/wiki/Feature_learning)
 
 <a name="deep" />
 ##Deep Learning
@@ -464,7 +444,6 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
     - [Segmentation of Twitter Timelines via Topic Modeling](http://alexperrier.github.io/jekyll/update/2015/09/16/segmentation_twitter_timelines_lda_vs_lsa.html)
     - [Topic Modeling of Twitter Followers](http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html)
 
-<a name="word2vec" />
 - word2vec
     - [Google word2vec](https://code.google.com/p/word2vec/)
     - [Bag of Words Model Wiki](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -527,9 +506,6 @@ Performance Evaluation*](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a
     - [Classifier Classification with Platt's Scaling](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)
     - [Paper](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.1639)
 
-<a name="dml" />
-##Distributed Machine Learning
-- [Intro](http://fastml.com/the-emperors-new-clothes-distributed-machine-learning/)
 
 <a name="rl" />
 ##Reinforcement Learning
@@ -694,7 +670,4 @@ Learning**](http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve
 - [Optimization Algorithms in Support Vector Machines](http://pages.cs.wisc.edu/~swright/talks/sjw-complearning.pdf)
 - [The Interplay of Optimization and Machine Learning Research](http://jmlr.org/papers/volume7/MLOPT-intro06a/MLOPT-intro06a.pdf)
 
-<a name="apps" />
-##Applications
-- [Detecting Fraudulent Skype Users via Machine Learning](http://www.dataschool.io/detecting-fraudulent-skype-users-via-machine-learning/),[Original Paper](http://research.microsoft.com/pubs/205472/aisec10-leontjeva.pdf)
 
