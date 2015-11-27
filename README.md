@@ -69,6 +69,7 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 
 <a name="ai" />
 ##Artificial Intelligence
+- [Awesome Artificial Intelligence (GitHub Repo)](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [edX course | Klein & Abbeel](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info)
 - [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
