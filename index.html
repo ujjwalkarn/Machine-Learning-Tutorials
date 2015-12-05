@@ -1,31 +1,48 @@
 <!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="UTF-8">
-    <title>machineLearning by ujjwalkarn</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-  </head>
-  <body>
-    <section class="page-header">
-      <h1 class="project-name">machineLearning</h1>
-      <h2 class="project-tagline">A curated list of machine learning resources</h2>
-      <a href="https://github.com/ujjwalkarn/machineLearning" class="btn">View on GitHub</a>
-      <a href="https://github.com/ujjwalkarn/machineLearning/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/ujjwalkarn/machineLearning/tarball/master" class="btn">Download .tar.gz</a>
-    </section>
+<html>
 
-    <section class="main-content">
-      <p>This repository contains codes and other resources related to Machine Learning.</p>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Machine Learning Tutorials : a curated list of Machine Learning tutorials, articles and other resources ">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Machine Learning Tutorials</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">View on GitHub</a>
+
+          <h1 id="project_title">Machine Learning Tutorials</h1>
+          <h2 id="project_tagline">a curated list of Machine Learning tutorials, articles and other resources </h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>
+<a id="machine-learning-tutorials-" class="anchor" href="#machine-learning-tutorials-" aria-hidden="true"><span class="octicon octicon-link"></span></a>Machine Learning Tutorials <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+</h1>
+
+<p>This repository contains a topic-wise curated list of Machine Learning tutorials, articles and other resources. </p>
 
 <h2>
-<a id="contents" class="anchor" href="#contents" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contents</h2>
+<a id="table-of-contents" class="anchor" href="#table-of-contents" aria-hidden="true"><span class="octicon octicon-link"></span></a>Table of Contents</h2>
 
 <ul>
 <li><a href="#general">General Stuff</a></li>
+<li><a href="#interview">Interview Resources</a></li>
 <li><a href="#ai">Artificial Intelligence</a></li>
 <li><a href="#ga">Genetic Algorithms</a></li>
 <li><a href="#stat">Statistics</a></li>
@@ -33,18 +50,50 @@
 <li><a href="#quora">Resources on Quora</a></li>
 <li><a href="#kaggle">Resources on Kaggle</a></li>
 <li><a href="#cs">Cheat Sheets</a></li>
+<li><a href="#classification">Classification</a></li>
 <li><a href="#linear">Linear Regression</a></li>
 <li><a href="#logistic">Logistic Regression</a></li>
-<li><a href="#deep">Deep Learning</a></li>
-<li><a href="#nlp">Natural Language Processing</a></li>
+<li>
+<a href="#validation">Model Validation using Resampling</a>
+
+<ul>
+<li>
+<a href="#cross">Cross Validation</a> </li>
+<li><a href="#boot">Bootstrapping</a></li>
+</ul>
+</li>
+<li>
+<a href="#deep">Deep Learning</a>
+
+<ul>
+<li><a href="#frame">Frameworks</a></li>
+<li><a href="#feed">Feed Forward Networks</a></li>
+<li><a href="#rnn">Recurrent Neural Nets, LSTM, GRU</a></li>
+<li><a href="#rbm">Restricted Boltzmann Machine, DBNs</a></li>
+<li><a href="#auto">Autoencoders</a></li>
+<li><a href="#cnn">Convolution Neural Nets</a></li>
+</ul>
+</li>
+<li>
+<a href="#nlp">Natural Language Processing</a>
+
+<ul>
+<li><a href="#topic">Topic Modeling, LDA</a></li>
+<li><a href="#word2vec">Word2Vec</a></li>
+</ul>
+</li>
+<li><a href="#vision">Computer Vision</a></li>
 <li><a href="#svm">Support Vector Machine</a></li>
 <li><a href="#rl">Reinforcement Learning</a></li>
-<li><a href="#gbm">Gradient Boosting Machine</a></li>
+<li><a href="#dt">Decision Trees</a></li>
+<li><a href="#rf">Random Forest / Bagging</a></li>
+<li><a href="#gbm">Boosting</a></li>
 <li><a href="#ensem">Ensembles</a></li>
+<li><a href="#stack">Stacking Models</a></li>
+<li><a href="#vc">VC Dimension</a></li>
 <li><a href="#bayes">Bayesian Machine Learning</a></li>
-<li><a href="#ts">Time Series Forecasting</a></li>
+<li><a href="#semi">Semi Supervised Learning</a></li>
 <li><a href="#opt">Optimizations</a></li>
-<li><a href="#apps">Applications</a></li>
 </ul>
 
 <p><a name="general"></a></p>
@@ -53,20 +102,35 @@
 <a id="general-stuff" class="anchor" href="#general-stuff" aria-hidden="true"><span class="octicon octicon-link"></span></a>General Stuff</h2>
 
 <ul>
+<li><a href="https://github.com/josephmisiti/awesome-machine-learning">A curated list of awesome Machine Learning frameworks, libraries and software</a></li>
+<li><a href="https://github.com/fasouto/awesome-dataviz">A curated list of awesome data visualization libraries and resources.</a></li>
+<li><a href="https://github.com/okulbilisim/awesome-datascience">An awesome Data Science repository to learn and apply for real world problems</a></li>
+<li><a href="http://datasciencemasters.org/">The Open Source Data Science Masters</a></li>
+<li><a href="http://stats.stackexchange.com/questions/tagged/machine-learning">Machine Learning FAQs on Cross Validated</a></li>
+<li><a href="https://github.com/prakhar1989/awesome-courses#machine-learning">List of Machine Learning University Courses</a></li>
+<li><a href="https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why">Machine Learning algorithms that you should always have a strong understanding of</a></li>
+<li><a href="https://www.psych.umn.edu/faculty/waller/classes/FA2010/Readings/rodgers.pdf">Differnce between Linearly Independent, Orthogonal, and Uncorrelated Variables</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_machine_learning_concepts">List of Machine Learning Concepts</a></li>
+<li><a href="http://www.slideshare.net/pierluca.lanzi/presentations">Slides on Several Machine Learning Topics</a></li>
 <li>
-<a href="http://www.ai.mit.edu/courses/6.867-f04/lectures.html">MIT Machine Learning Lecture Slides (MUST SEE!)</a> </li>
-<li><a href="https://github.com/ujjwalkarn/awesome-machine-learning">Awesome Machine Learning frameworks, libraries and software</a></li>
-<li><a href="http://www.dataschool.io/comparing-supervised-learning-algorithms/">Comparing Supervised Learning Algorithms</a></li>
-<li><a href="http://www.dataschool.io/roc-curves-and-auc-explained/">ROC and AUC Explained</a></li>
-<li><a href="http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/">Simple guide to confusion matrix terminology</a></li>
-<li><a href="http://www.dataschool.io/learning-data-science-fundamentals/">Useful Data Science Resources</a></li>
-<li><a href="http://www.dataschool.io/">The Data School Blog</a></li>
-<li><a href="https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/">Hadley Wickham's AMA</a></li>
-<li><a href="https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l">ML mistakes to avoid</a></li>
-<li><a href="https://github.com/prakhar1989/awesome-courses#machine-learning">ML University Courses Awesome</a></li>
+<a href="http://www.ai.mit.edu/courses/6.867-f04/lectures.html">MIT Machine Learning Lecture Slides</a> </li>
+<li><a href="http://www.dataschool.io/comparing-supervised-learning-algorithms/">Comparison Supervised Learning Algorithms</a></li>
+<li><a href="http://www.dataschool.io/learning-data-science-fundamentals/">Learning Data Science Fundamentals</a></li>
+<li><a href="https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l">Machine Learning mistakes to avoid</a></li>
 <li><a href="http://www.stat.cmu.edu/%7Elarry/=sml/">Statistical Machine Learning Course</a></li>
-<li><a href="http://alex.smola.org/teaching/10-701-15/index.html">Intro to ML</a></li>
 <li><a href="https://github.com/pedrosan/TheAnalyticsEdge">TheAnalyticsEdge edX Notes and Codes</a></li>
+</ul>
+
+<p><a name="interview"></a></p>
+
+<h2>
+<a id="interview-resources" class="anchor" href="#interview-resources" aria-hidden="true"><span class="octicon octicon-link"></span></a>Interview Resources</h2>
+
+<ul>
+<li><a href="https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews">How can a computer science graduate student prepare himself for data scientist interviews?</a></li>
+<li><a href="https://www.quora.com/How-do-I-learn-machine-learning-1">How do I learn Machine Learning?</a></li>
+<li><a href="https://www.quora.com/topic/Data-Science-Interviews/faq">FAQs about Data Science Interviews</a></li>
+<li><a href="https://www.quora.com/What-are-the-key-skills-of-a-data-scientist">What are the key skills of a data scientist?</a></li>
 </ul>
 
 <p><a name="ai"></a></p>
@@ -75,8 +139,10 @@
 <a id="artificial-intelligence" class="anchor" href="#artificial-intelligence" aria-hidden="true"><span class="octicon octicon-link"></span></a>Artificial Intelligence</h2>
 
 <ul>
+<li><a href="https://github.com/owainlewis/awesome-artificial-intelligence">Awesome Artificial Intelligence (GitHub Repo)</a></li>
 <li><a href="https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info">edX course | Klein &amp; Abbeel</a></li>
 <li><a href="https://www.udacity.com/course/intro-to-artificial-intelligence--cs271">Udacity Course | Norvig &amp; Thrun</a></li>
+<li><a href="http://www.ted.com/playlists/310/talks_on_artificial_intelligen">TED talks on AI</a></li>
 </ul>
 
 <p><a name="ga"></a></p>
@@ -85,18 +151,18 @@
 <a id="genetic-algorithms" class="anchor" href="#genetic-algorithms" aria-hidden="true"><span class="octicon octicon-link"></span></a>Genetic Algorithms</h2>
 
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Genetic_algorithm">Genetic Algorithm</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Genetic_algorithm">Genetic Algorithms Wikipedia Page</a></li>
 <li>
-<a href="http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/">Simple Implementation Part 1</a>, <a href="http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/">Part 2</a> </li>
-<li><a href="http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks">GAs vs ANNs</a></li>
-<li><a href="http://www.ai-junkie.com/ga/intro/gat1.html">Genetic Algorithms in Plain English</a></li>
+<a href="http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/">Simple Implementation of Genetic Algorithms in Python (Part 1)</a>, <a href="http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/">Part 2</a> </li>
+<li><a href="http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks">Genetic Algorithms vs Artificial Neural Networks</a></li>
+<li><a href="http://www.ai-junkie.com/ga/intro/gat1.html">Genetic Algorithms Explained in Plain English</a></li>
 <li>
 <a href="https://en.wikipedia.org/wiki/Genetic_programming">Genetic Programming</a>
 
 <ul>
-<li><a href="https://github.com/trevorstephens/gplearn">Genetic Programming in Python | GitHub</a></li>
+<li><a href="https://github.com/trevorstephens/gplearn">Genetic Programming in Python (GitHub)</a></li>
 <li>
-<a href="https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming">GA vs GP Quora</a>, <a href="http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming">StackOverflow</a>
+<a href="https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming">Genetic Alogorithms vs Genetic Programming (Quora)</a>, <a href="http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming">StackOverflow</a>
 </li>
 </ul>
 </li>
@@ -108,14 +174,15 @@
 <a id="statistics" class="anchor" href="#statistics" aria-hidden="true"><span class="octicon octicon-link"></span></a>Statistics</h2>
 
 <ul>
-<li><a href="http://stattrek.com/">Stat Trek Website</a></li>
-<li><a href="https://github.com/rouseguy/intro2stats">STATISTICS USING PYTHON! | GITHUB</a></li>
 <li>
-<a href="http://greenteapress.com/thinkstats/">THINK STATS BOOK</a>, <a href="http://greenteapress.com/thinkbayes/">THINK BAYES BOOK | BAYESIAN STATITICS MADE SIMPLE</a>
-</li>
-<li><a href="https://speakerdeck.com/jakevdp/statistics-for-hackers">Statistics for Hackers | Slides | @jakevdp</a></li>
-<li><a href="http://onlinestatbook.com/2/index.html">Online Stat Book</a></li>
-<li><a href="http://stattrek.com/sampling/sampling-distribution.aspx">Sampling Distributions Explained</a></li>
+<a href="http://stattrek.com/">Stat Trek Website</a> - A dedicated website to teach yourselves Statistics</li>
+<li>
+<a href="https://github.com/rouseguy/intro2stats">Learn Statistics Using Python</a> - Learn Statistics using an application-centric programming approach</li>
+<li>
+<a href="https://speakerdeck.com/jakevdp/statistics-for-hackers">Statistics for Hackers | Slides | @jakevdp</a> - Slides by Jake VanderPlas</li>
+<li>
+<a href="http://onlinestatbook.com/2/index.html">Online Statistics Book</a> - An Interactive Multimedia Course for Studying Statistics</li>
+<li><a href="http://stattrek.com/sampling/sampling-distribution.aspx">What is a Sampling Distribution?</a></li>
 <li>Tutorials
 
 <ul>
@@ -124,11 +191,9 @@
 <li><a href="http://stattrek.com/tutorials/matrix-algebra-tutorial.aspx">Matrix Algebra Tutorial</a></li>
 </ul>
 </li>
-<li>
-<a href="https://www.physicsforums.com/threads/what-is-an-unbiased-estimator.547728/">What is an Unbiased Estimator</a>, <a href="http://stattrek.com/statistics/dictionary.aspx?definition=Unbiased_estimator">Unbiased Estimate</a>
-</li>
+<li><a href="https://www.physicsforums.com/threads/what-is-an-unbiased-estimator.547728/">What is an Unbiased Estimator?</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Goodness_of_fit">Goodness of Fit Explained</a></li>
-<li><a href="http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html">QQ Plots</a></li>
+<li><a href="http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html">What are QQ Plots?</a></li>
 </ul>
 
 <p><a name="blogs"></a></p>
@@ -137,31 +202,38 @@
 <a id="useful-blogs" class="anchor" href="#useful-blogs" aria-hidden="true"><span class="octicon octicon-link"></span></a>Useful Blogs</h2>
 
 <ul>
-<li><a href="http://blog.echen.me/">Edwin Chen's Blog</a></li>
-<li><a href="http://mlwave.com/">ML Wave AWESOME!</a></li>
-<li><a href="http://danielnouri.org/notes/">ML Daniel Nouri</a></li>
-<li><a href="http://karpathy.github.io/">Deep Learning Awesome | Andrej Karpathy</a></li>
 <li>
-<a href="http://colah.github.io/">Awesome Neural Networks Blog</a> </li>
-<li><a href="http://alexminnaar.com/">Deep Learning Alex Minnaar</a></li>
-<li><a href="http://andland.github.io/">Statistically Significant</a></li>
-<li><a href="http://simplystatistics.org/">Simply Statistics</a></li>
-<li><a href="http://yanirseroussi.com/">Yanir Seroussi's Blog</a></li>
-<li><a href="http://fastml.com/">fastML</a></li>
-<li><a href="http://trevorstephens.com/">Trevor Stephens Blog</a></li>
-<li><a href="http://blog.kaggle.com/">no free hunch | kaggle</a></li>
-<li><a href="http://andrewgelman.com/">Statistical Modeling etc</a></li>
-<li><a href="http://outlace.com/">A Quantitative Journey | outlace</a></li>
-<li><a href="http://r4stats.com/">r4stats</a></li>
-<li><a href="https://apaszke.github.io/posts.html">Adam Paszke's Blog</a></li>
-<li><a href="http://varianceexplained.org/">Variance Explained Blog</a></li>
-<li><a href="http://larseidnes.com/">Lars Eidnes' blog</a></li>
-<li><a href="http://tedunderwood.com/">tedunderwook</a></li>
-<li><a href="http://www.ai-junkie.com/">AI Junkie</a></li>
-<li><a href="http://neuralniche.com/">neuralniche</a></li>
-<li><a href="http://beatingthebenchmark.blogspot.in/">Beating the Benchmark</a></li>
-<li><a href="http://dni-institute.in/blogs/">DnI Institute</a></li>
-<li><a href="http://www.galvanize.com/blog/">Galvanize</a></li>
+<a href="http://blog.echen.me/">Edwin Chen's Blog</a> - A blog about Math, stats, ML, crowdsourcing, data science </li>
+<li>
+<a href="http://www.dataschool.io/">The Data School Blog</a> - Data science for beginners!</li>
+<li>
+<a href="http://mlwave.com/">ML Wave</a> - A blog for Learning Machine Learning</li>
+<li>
+<a href="http://karpathy.github.io/">Andrej Karpathy</a> - A blog about Deep Learning and Data Science in general</li>
+<li>
+<a href="http://colah.github.io/">Colah's Blog</a> - Awesome Neural Networks Blog</li>
+<li>
+<a href="http://alexminnaar.com/">Alex Minnaar's Blog</a> - A blog about Machine Learning and Software Engineering</li>
+<li>
+<a href="http://andland.github.io/">Statistically Significant</a> - Andrew Landgraf's Data Science Blog</li>
+<li>
+<a href="http://simplystatistics.org/">Simply Statistics</a> - A blog by three biostatistics professors</li>
+<li>
+<a href="http://yanirseroussi.com/">Yanir Seroussi's Blog</a> - A blog about Data Science and beyond</li>
+<li>
+<a href="http://fastml.com/">fastML</a> - Machine learning made easy</li>
+<li>
+<a href="http://trevorstephens.com/">Trevor Stephens Blog</a> - Trevor Stephens Personal Page</li>
+<li>
+<a href="http://blog.kaggle.com/">no free hunch | kaggle</a> - The Kaggle Blog about all things Data Science</li>
+<li>
+<a href="http://outlace.com/">A Quantitative Journey | outlace</a> -  learning quantitative applications</li>
+<li>
+<a href="http://r4stats.com/">r4stats</a> - analyze the world of data science, and to help people learn to use R</li>
+<li>
+<a href="http://varianceexplained.org/">Variance Explained</a> - David Robinson's Blog</li>
+<li>
+<a href="http://www.ai-junkie.com/">AI Junkie</a> - a blog about Artificial Intellingence</li>
 </ul>
 
 <p><a name="quora"></a></p>
@@ -170,24 +242,27 @@
 <a id="resources-on-quora" class="anchor" href="#resources-on-quora" aria-hidden="true"><span class="octicon octicon-link"></span></a>Resources on Quora</h2>
 
 <ul>
-<li><a href="https://www.quora.com/topic/Machine-Learning/writers"><strong>Most Viewed ML writers</strong></a></li>
+<li><a href="https://www.quora.com/topic/Machine-Learning/writers">Most Viewed Machine Learning writers</a></li>
 <li><a href="https://www.quora.com/Data-Science">Data Science Topic on Quora</a></li>
 <li><a href="https://www.quora.com/William-Chen-6/answers">William Chen's Answers</a></li>
 <li><a href="https://www.quora.com/Michael-Hochster/answers">Michael Hochster's Answers</a></li>
 <li><a href="https://www.quora.com/Ricardo-Vladimiro-1/answers">Ricardo Vladimiro's Answers</a></li>
 <li><a href="https://datastories.quora.com/">Storytelling with Statistics</a></li>
+<li><a href="https://www.quora.com/topic/Data-Science/faq">Data Science FAQs on Quora</a></li>
+<li><a href="https://www.quora.com/topic/Machine-Learning/faq">Machine Learning FAQs on Quora</a></li>
 </ul>
 
 <p><a name="kaggle"></a></p>
 
 <h2>
-<a id="resources-on-kaggle" class="anchor" href="#resources-on-kaggle" aria-hidden="true"><span class="octicon octicon-link"></span></a>Resources on Kaggle</h2>
+<a id="kaggle-competitions-writeup" class="anchor" href="#kaggle-competitions-writeup" aria-hidden="true"><span class="octicon octicon-link"></span></a>Kaggle Competitions WriteUp</h2>
 
 <ul>
 <li>
 <a href="http://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/">How to almost win Kaggle Competitions</a> </li>
 <li><a href="http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/">Convolution Neural Networks for EEG detection</a></li>
 <li><a href="http://alexminnaar.com/tag/kaggle-competitions.html">Facebook Recruiting III Explained</a></li>
+<li><a href="http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/">Predicting CTR with Online ML</a></li>
 </ul>
 
 <p><a name="cs"></a></p>
@@ -202,6 +277,21 @@
 <li><a href="https://github.com/soulmachine/machine-learning-cheat-sheet">Machine Learning Cheat Sheet</a></li>
 </ul>
 
+<p><a name="classification"></a></p>
+
+<h2>
+<a id="classification" class="anchor" href="#classification" aria-hidden="true"><span class="octicon octicon-link"></span></a>Classification</h2>
+
+<ul>
+<li><a href="http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/">Does Balancing Classes Improve Classifier Performance?</a></li>
+<li><a href="http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart">What is Deviance?</a></li>
+<li><a href="http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier">When to choose which machine learning classifier?</a></li>
+<li><a href="https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms">What are the advantages of different classification algorithms?</a></li>
+<li><a href="http://www.dataschool.io/roc-curves-and-auc-explained/">ROC and AUC Explained</a></li>
+<li><a href="https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf">An introduction to ROC analysis</a></li>
+<li><a href="http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/">Simple guide to confusion matrix terminology</a></li>
+</ul>
+
 <p><a name="linear"></a></p>
 
 <h2>
@@ -209,17 +299,25 @@
 
 <ul>
 <li>
-<p><a href="#general-">General</a></p>
+<a href="#general-">General</a>
 
 <ul>
 <li>
-<a href="http://pareonline.net/getvn.asp?n=2&amp;v=8">Assumptions of Linear Regression</a>, <a href="http://stats.stackexchange.com/questions/16381/what-is-a-complete-list-of-the-usual-assumptions-for-linear-regression">MUST SEE!</a>
+<a href="http://pareonline.net/getvn.asp?n=2&amp;v=8">Assumptions of Linear Regression</a>, <a href="http://stats.stackexchange.com/questions/16381/what-is-a-complete-list-of-the-usual-assumptions-for-linear-regression">Stack Exchange</a>
 </li>
 <li><a href="http://people.duke.edu/%7Ernau/regintro.htm">Linear Regression Comprehensive Resource</a></li>
 <li><a href="http://www.dataschool.io/applying-and-interpreting-linear-regression/">Applying and Interpreting Linear Regression</a></li>
 <li><a href="http://stats.stackexchange.com/questions/52089/what-does-having-constant-variance-in-a-linear-regression-model-mean/52107?stw=2#52107">What does having constant variance in a linear regression model mean?</a></li>
 <li><a href="http://stats.stackexchange.com/questions/22718/what-is-the-difference-between-linear-regression-on-y-with-x-and-x-with-y?lq=1">Difference between linear regression on y with x and x with y</a></li>
 <li><a href="http://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed">Is linear regression valid when the dependant variable is not normally distributed?</a></li>
+</ul>
+</li>
+<li>
+<p>Multicollinearity and VIF</p>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Multicollinearity">Dummy Variable Trap | Multicollinearity</a></li>
+<li><a href="http://jonlefcheck.net/2012/12/28/dealing-with-multicollinearity-using-variance-inflation-factors/">Dealing with multicollinearity using VIFs</a></li>
 </ul>
 </li>
 <li>
@@ -238,6 +336,14 @@
 <li><a href="http://stats.stackexchange.com/questions/175/how-should-outliers-be-dealt-with-in-linear-regression-analysis">How should outliers be dealt with?</a></li>
 </ul>
 </li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/Elastic_net_regularization">Elastic Net</a></p>
+
+<ul>
+<li><a href="https://web.stanford.edu/%7Ehastie/Papers/elasticnet.pdf">Regularization and Variable Selection via the
+Elastic Net</a></li>
+</ul>
+</li>
 </ul>
 
 <p><a name="logistic"></a></p>
@@ -249,11 +355,68 @@
 <li><a href="https://en.wikipedia.org/wiki/Logistic_regression">Logistic Regression Wiki</a></li>
 <li><a href="http://florianhartl.com/logistic-regression-geometric-intuition.html">Geometric Intuition of Logistic Regression</a></li>
 <li><a href="http://stats.stackexchange.com/questions/25389/obtaining-predicted-values-y-1-or-0-from-a-logistic-regression-model-fit">Obtaining predicted categories (choosing threshold)</a></li>
-<li><a href="http://stats.stackexchange.com/questions/1432/what-do-the-residuals-in-a-logistic-regression-mean">Residuals in logistic regression (Awesome!)</a></li>
+<li><a href="http://stats.stackexchange.com/questions/1432/what-do-the-residuals-in-a-logistic-regression-mean">Residuals in logistic regression</a></li>
 <li>
 <a href="http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#30909">Difference between logit and probit models</a>, <a href="https://en.wikipedia.org/wiki/Logistic_regression">Logistic Regression Wiki</a>, <a href="https://en.wikipedia.org/wiki/Probit_model">Probit Model Wiki</a> </li>
 <li>
 <a href="http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s">Pseudo R2 for Logistic Regression</a>, <a href="http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression">How to calculate</a>, <a href="http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm">Other Details</a>
+</li>
+</ul>
+
+<p><a name="validation"></a></p>
+
+<h2>
+<a id="model-validation-using-resampling" class="anchor" href="#model-validation-using-resampling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Model Validation using Resampling</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Resampling_(statistics)">Resampling Explained</a></li>
+<li><a href="http://stackoverflow.com/questions/13536537/partitioning-data-set-in-r-based-on-multiple-classes-of-observations">Partioning data set in R</a></li>
+<li>
+<a href="http://stackoverflow.com/questions/22972854/how-to-implement-a-hold-out-validation-in-r">Implementing hold-out Validaion in R</a>, <a href="http://www.gettinggeneticsdone.com/2011/02/split-data-frame-into-testing-and.html">2</a>
+</li>
+</ul>
+
+<p><a name="cross"></a></p>
+
+<ul>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/Cross-validation_(statistics)">Cross Validation</a></p>
+
+<ul>
+<li><a href="http://stats.stackexchange.com/questions/11602/training-with-the-full-dataset-after-cross-validation">Training with Full dataset after CV?</a></li>
+<li><a href="http://stats.stackexchange.com/questions/103459/how-do-i-know-which-method-of-cross-validation-is-best">Which CV method is best?</a></li>
+<li><a href="http://stats.stackexchange.com/questions/31190/variance-estimates-in-k-fold-cross-validation">Variance Estimates in k-fold CV</a></li>
+<li><a href="http://stats.stackexchange.com/questions/18856/is-cross-validation-a-proper-substitute-for-validation-set">Is CV a subsitute for Validation Set?</a></li>
+<li><a href="http://stats.stackexchange.com/questions/27730/choice-of-k-in-k-fold-cross-validation">Choice of k in k-fold CV</a></li>
+<li><a href="http://stats.stackexchange.com/questions/102631/k-fold-cross-validation-of-ensemble-learning">CV for ensemble learning</a></li>
+<li><a href="http://stackoverflow.com/questions/22909197/creating-folds-for-k-fold-cv-in-r-using-caret">k-fold CV in R</a></li>
+<li><a href="http://www.chioka.in/tag/cross-validation/">Good Resources</a></li>
+<li>Overfitting and Cross Validation
+
+<ul>
+<li><a href="http://ai.stanford.edu/%7Eang/papers/cv-final.pdf">Preventing Overfitting the Cross Validation Data | Andrew Ng</a></li>
+<li><a href="http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.pdf">Over-fitting in Model Selection and Subsequent Selection Bias in
+Performance Evaluation</a></li>
+<li><a href="http://www.autonlab.org/tutorials/overfit10.pdf">CV for detecting and preventing Overfitting</a></li>
+<li><a href="http://stats.stackexchange.com/questions/9053/how-does-cross-validation-overcome-the-overfitting-problem">How does CV overcome the Overfitting Problem</a></li>
+</ul>
+</li>
+</ul>
+
+<p><a name="boot"></a></p>
+</li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Bootstrapping_(statistics)">Bootstrapping</a>
+
+<ul>
+<li><a href="http://stats.stackexchange.com/questions/26088/explaining-to-laypeople-why-bootstrapping-works">Why Bootstrapping Works?</a></li>
+<li><a href="https://www.stat.auckland.ac.nz/%7Ewild/BootAnim/">Good Animation</a></li>
+<li><a href="http://statistics.about.com/od/Applications/a/Example-Of-Bootstrapping.htm">Example of Bootstapping</a></li>
+<li><a href="http://stats.stackexchange.com/questions/14516/understanding-bootstrapping-for-validation-and-model-selection?rq=1">Understanding Bootstapping for Validation and Model Selection</a></li>
+<li>
+<a href="http://stats.stackexchange.com/questions/18348/differences-between-cross-validation-and-bootstrapping-to-estimate-the-predictio">Cross Validation vs Bootstrap to estimate prediction error</a>, <a href="http://stats.stackexchange.com/questions/71184/cross-validation-or-bootstrapping-to-evaluate-classification-performance">Cross-validation vs .632 bootstrapping to evaluate classification performance</a>
+</li>
+</ul>
 </li>
 </ul>
 
@@ -263,21 +426,32 @@
 <a id="deep-learning" class="anchor" href="#deep-learning" aria-hidden="true"><span class="octicon octicon-link"></span></a>Deep Learning</h2>
 
 <ul>
-<li><a href="http://deeplearning4j.org/documentation.html">LOTS OF RESOURCES!</a></li>
-<li>NN FAQs GOOD! (copy paste link)</li>
+<li><a href="https://github.com/ChristosChristofidis/awesome-deep-learning">A curated list of awesome Deep Learning tutorials, projects and communities</a></li>
+<li><a href="http://deeplearning4j.org/documentation.html">Lots of Deep Learning Resources</a></li>
 <li>
-<a href="https://github.com/rouseguy/intro2deeplearning">INTRO TO DEEP LEARNING USING PYTHON | GITHUB</a>, <a href="https://speakerdeck.com/bargava/introduction-to-deep-learning">Good Intro Slides</a>
+<a href="http://cs224d.stanford.edu/reports.html">Interesting Deep Learning and NLP Projects (Stanford)</a>, <a href="http://cs224d.stanford.edu/">Website</a>
+</li>
+<li><a href="http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/">Core Concepts of Deep Learning</a></li>
+<li><a href="http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/">Understanding Natural Language with Deep Neural Networks Using Torch</a></li>
+<li><a href="http://ufldl.stanford.edu/tutorial/">Stanford Deep Learning Tutorial</a></li>
+<li><a href="https://www.quora.com/topic/Deep-Learning/faq">Deep Learning FAQs on Quora</a></li>
+<li><a href="https://plus.google.com/communities/112866381580457264725">Google+ Deep Learning Page</a></li>
+<li>
+<a href="http://deeplearning.net/2014/11/22/recent-reddit-amas-about-deep-learning/">Recent Reddit AMAs related to Deep Learning</a>, <a href="https://www.reddit.com/r/IAmA/comments/3mdk9v/we_are_google_researchers_working_on_deep/">Another AMA</a>
+</li>
+<li><a href="http://www.kdnuggets.com/2014/05/learn-deep-learning-courses-tutorials-overviews.html">Where to Learn Deep Learning?</a></li>
+<li><a href="http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/">Deep Learning nvidia concepts</a></li>
+<li>
+<a href="https://github.com/rouseguy/intro2deeplearning">Introduction to Deep Learning Using Python (GitHub)</a>, <a href="https://speakerdeck.com/bargava/introduction-to-deep-learning">Good Introduction Slides</a>
 </li>
 <li>
 <a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu">Video Lectures Oxford 2015</a>, <a href="http://videolectures.net/deeplearning2015_montreal/">Video Lectures Summer School Montreal</a>
 </li>
-<li><a href="http://deeplearning.net/software_links/">Software</a></li>
+<li><a href="http://deeplearning.net/software_links/">Deep Learning Software List</a></li>
 <li><a href="http://karpathy.github.io/neuralnets/">Hacker's guide to Neural Nets</a></li>
-<li><a href="http://colah.github.io/">Awesome Neural Networks Blog</a></li>
 <li><a href="http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html">Top arxiv Deep Learning Papers explained</a></li>
-<li><a href="https://www.youtube.com/watch?v=IcOMKXAw5VA">Geoff Hinton Youtube Deep Learning</a></li>
-<li><a href="https://github.com/karpathy">Projects to contribute to</a></li>
-<li><a href="http://deeplearning.net/reading-list/">Awesome Reading List</a></li>
+<li><a href="https://www.youtube.com/watch?v=IcOMKXAw5VA">Geoff Hinton Youtube Vidoes on Deep Learning</a></li>
+<li><a href="http://deeplearning.net/reading-list/">Awesome Deep Learning Reading List</a></li>
 <li>
 <a href="http://deeplearning.net/">Deep Learning Comprehensive Website</a>, <a href="http://deeplearning.net/software_links/">Software</a>
 </li>
@@ -285,13 +459,25 @@
 <li><a href="http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks">AWESOME! Deep Learning Tutorial</a></li>
 <li><a href="http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html">Deep Learning Basics</a></li>
 <li><a href="http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/">Stanford Tutorials</a></li>
+<li><a href="http://stackoverflow.com/questions/2976452/whats-is-the-difference-between-train-validation-and-test-set-in-neural-networ">Train, Validation &amp; Test in Artificial Neural Networks</a></li>
+<li><a href="http://stackoverflow.com/questions/478947/what-are-some-good-resources-for-learning-about-artificial-neural-networks">Artificial Neural Networks Tutorials</a></li>
+<li><a href="http://stackoverflow.com/questions/tagged/neural-network?sort=votes&amp;pageSize=50">Neural Networks FAQs on Stack Overflow</a></li>
+<li><p><a href="http://deeplearning.net/tutorial/index.html">Deep Learning Tutorials on deeplearning.net</a></p></li>
 <li>
-<a href="http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1">SVMs &gt; ANNs</a>, <a href="http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines">ANNs &gt; SVMs</a>
+<p>Neural Machine Translation</p>
+
+<ul>
+<li>
+<a href="http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/">Introduction to Neural Machine Translation with GPUs (part 1)</a>, <a href="http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/">Part 2</a>, <a href="http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/">Part 3</a>
 </li>
-<li><a href="http://stackoverflow.com/questions/2976452/whats-is-the-difference-between-train-validation-and-test-set-in-neural-networ">Train, Validation &amp; Test in ANNs</a></li>
-<li><a href="http://stackoverflow.com/questions/478947/what-are-some-good-resources-for-learning-about-artificial-neural-networks">ANN Tutorials</a></li>
-<li><a href="http://stackoverflow.com/questions/tagged/neural-network?sort=votes&amp;pageSize=50">FAQs Stack Overflow</a></li>
-<li><p><a href="http://deeplearning.net/tutorial/index.html">Deep Learning Tutorials deeplearning.net</a></p></li>
+<li><a href="http://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/">Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning</a></li>
+</ul>
+</li>
+</ul>
+
+<p><a name="frame"></a></p>
+
+<ul>
 <li>
 <p>Deep Learning Frameworks</p>
 
@@ -326,21 +512,42 @@
 <a href="http://code.madbits.com/wiki/doku.php">Torch ML Tutorial</a>, <a href="https://github.com/torch/tutorials">Code</a>
 </li>
 <li><a href="http://ml.informatik.uni-freiburg.de/_media/teaching/ws1415/presentation_dl_lect3.pdf">Intro to Torch</a></li>
+<li><a href="https://github.com/chetannaik/learning_torch">Learning Torch GitHub Repo</a></li>
+<li><a href="https://github.com/carpedm20/awesome-torch">Awesome-Torch (Repository on GitHub)</a></li>
 <li>
-<a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/">ML using Torch Oxford Univ</a>, <a href="https://github.com/oxford-cs-ml-2015">Code</a>
+<a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/">Machine Learning using Torch Oxford Univ</a>, <a href="https://github.com/oxford-cs-ml-2015">Code</a>
 </li>
 <li>
 <a href="https://apaszke.github.io/torch-internals.html">Torch Internals Overview</a><br>
 </li>
 <li><a href="https://github.com/torch/torch7/wiki/Cheatsheet">Torch Cheatsheet</a></li>
+<li><a href="http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/">Understanding Natural Language with Deep Neural Networks Using Torch</a></li>
 </ul>
 </li>
-</ul>
-</li>
-<li><p><a href="https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-4-comparing-deep-and-non-deep-learning-methods">Kaggle Deep Learn</a></p></li>
-<li><a href="http://alexminnaar.com/implementing-distbelief-with-akka.html">DistBelief Framework Implementation -- no GPU needed</a></li>
 <li>
-<p>Feed Forward Networks</p>
+<p>Caffe</p>
+
+<ul>
+<li><a href="http://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/">Deep Learning for Computer Vision with Caffe and cuDNN</a></li>
+</ul>
+</li>
+<li>
+<p>TensorFlow </p>
+
+<ul>
+<li><a href="http://tensorflow.org/">Website</a></li>
+<li><a href="https://github.com/chetannaik/learning_tensorflow">Learning TensorFlow GitHub Repo</a></li>
+<li><a href="https://github.com/soumith/convnet-benchmarks/issues/66">Benchmark TensorFlow GitHub</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+<p><a name="feed"></a></p>
+
+<ul>
+<li>Feed Forward Networks
 
 <ul>
 <li>
@@ -356,12 +563,21 @@
 </li>
 <li><a href="http://home.agh.edu.pl/%7Evlsi/AI/backp_t_en/backprop.html">Backpropagation Explained</a></li>
 <li><a href="http://www.ai-junkie.com/ann/evolved/nnt6.html">ANN implemented in C++ | AI Junkie</a></li>
+<li><a href="http://stackoverflow.com/questions/15395835/simple-multi-layer-neural-network-implementation">Simple Implementation</a></li>
+<li><a href="http://www.codeproject.com/Articles/16419/AI-Neural-Network-for-beginners-Part-of">NN for Beginners</a></li>
+<li><a href="http://www.autonlab.org/tutorials/neural13.pdf">Regression and Classification with NNs (Slides)</a></li>
+<li><a href="http://www.doc.ic.ac.uk/%7End/surprise_96/journal/vol4/cs11/report.html">Another Intro</a></li>
 </ul>
 </li>
-<li>
-<p>Recurrent and LSTM Networks</p>
+</ul>
+
+<p><a name="rnn"></a></p>
 
 <ul>
+<li>Recurrent and LSTM Networks
+
+<ul>
+<li><a href="https://github.com/kjw0612/awesome-rnn">awesome-rnn: list of resources (GitHub Repo)</a></li>
 <li>
 <a href="http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/">Recurrent Neural Net Tutorial Part 1</a>, <a href="http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/">Part 2</a>, <a href="http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/">Part 3</a>, <a href="https://github.com/dennybritz/rnn-tutorial-rnnlm/">Code</a>
 </li>
@@ -374,16 +590,17 @@
 </li>
 <li><a href="http://hackaday.com/2015/10/15/73-computer-scientists-created-a-neural-net-and-you-wont-believe-what-happened-next/">An application of RNN</a></li>
 <li><a href="http://svail.github.io/">Optimizing RNN Performance</a></li>
-<li><a href="http://outlace.com/page/2/">Must see</a></li>
 <li><a href="http://outlace.com/Simple-Recurrent-Neural-Network/">Simple RNN</a></li>
 <li><a href="http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/">Auto-Generating Clickbait with RNN</a></li>
-<li><a href="https://github.com/MattVitelli/GRUV"><strong>MUSIC GENERATION USING RNNs | THEANO &amp; KERAS</strong></a></li>
-<li><a href="http://neuralniche.com/post/tutorial/"><strong>USING RNN TO CREATE ON-THE-FLY DIALOGUE | KERAS</strong></a></li>
-<li>LSTM
+<li><a href="http://www.slideshare.net/indicods/general-sequence-learning-with-recurrent-neural-networks-for-next-ml">Sequence Learning using RNN (Slides)</a></li>
+<li><a href="http://emnlp2014.org/papers/pdf/EMNLP2014179.pdf">Machine Translation using RNN (Paper)</a></li>
+<li><a href="https://github.com/MattVitelli/GRUV">Music generation using RNNs (Keras)</a></li>
+<li><a href="http://neuralniche.com/post/tutorial/">Using RNN to create on-the-fly dialogue (Keras)</a></li>
+<li>Long Short Term Memory (LSTM)
 
 <ul>
 <li>
-<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">Understanding LSTM Networks AWESOME</a> </li>
+<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">Understanding LSTM Networks</a> </li>
 <li><a href="https://apaszke.github.io/lstm-explained.html">LSTM explained</a></li>
 <li><a href="http://deeplearning4j.org/lstm.html">LSTM</a></li>
 <li>
@@ -393,47 +610,151 @@
 <a href="https://github.com/karpathy/char-rnn">Torch Code</a>, <a href="https://github.com/apaszke/kaggle-grasp-and-lift">Torch</a>
 </li>
 <li><a href="http://deeplearning.net/tutorial/lstm.html#lstm">LSTM for Sentiment Analysis in Theano</a></li>
-</ul>
-</li>
-</ul>
-</li>
 <li>
-<p>Restricted Boltzmann Machine</p>
+<a href="http://avisingh599.github.io/deeplearning/visual-qa/">Deep Learning for Visual Q&amp;A | LSTM | CNN</a>, <a href="https://github.com/avisingh599/visual-qa">Code</a>
+</li>
+<li><a href="http://googleresearch.blogspot.in/2015/11/computer-respond-to-this-email.html">Computer Responds to email | Google</a></li>
+<li>
+<a href="http://googleresearch.blogspot.ch/2015/09/google-voice-search-faster-and-more.html">LSTM dramatically improves Google Voice Search</a>, <a href="http://deeplearning.net/2015/09/30/long-short-term-memory-dramatically-improves-google-voice-etc-now-available-to-a-billion-users/">2</a>
+</li>
+<li><a href="http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/">Understanding Natural Language with Deep Neural Networks Using Torch</a></li>
+</ul>
+</li>
+<li>Gated Recurrent Units (GRU)
+
+<ul>
+<li><a href="http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/">LSTM vs GRU</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+<p><a name="rnn2"></a></p>
 
 <ul>
 <li>
-<a href="http://deeplearning4j.org/restrictedboltzmannmachine.html">Beginner's Guide</a><br>
+<a href="https://en.wikipedia.org/wiki/Recursive_neural_network">Recursive Neural Network (not Recurrent)</a>
+
+<ul>
+<li><a href="http://deeplearning4j.org/recursiveneuraltensornetwork.html">Recursive Neural Tensor Network (RNTN)</a></li>
+<li><a href="http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html">word2vec, DBN, RNTN for Sentiment Analysis </a></li>
+</ul>
 </li>
-<li><a href="http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/">Awesome! Introduction to RBMs</a></li>
+</ul>
+
+<p><a name="rbm"></a></p>
+
+<ul>
+<li>Restricted Boltzmann Machine
+
+<ul>
+<li>
+<a href="http://deeplearning4j.org/restrictedboltzmannmachine.html">Beginner's Guide about RBMs</a><br>
+</li>
+<li><a href="http://deeplearning.net/tutorial/rbm.html">Another Good Tutorial</a></li>
+<li><a href="http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/">Introduction to RBMs</a></li>
+<li><a href="https://www.cs.toronto.edu/%7Ehinton/absps/guideTR.pdf">Hinton's Guide to Training RBMs</a></li>
 <li><a href="https://github.com/zachmayer/rbm">RBMs in R</a></li>
-<li><a href="http://deeplearning4j.org/deepbeliefnetwork.html">Deep Belief Networks</a></li>
+<li><a href="http://deeplearning4j.org/deepbeliefnetwork.html">Deep Belief Networks Tutorial</a></li>
+<li><a href="http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html">word2vec, DBN, RNTN for Sentiment Analysis </a></li>
 </ul>
 </li>
-<li>
-<p>Autoencoders</p>
+</ul>
+
+<p><a name="auto"></a></p>
 
 <ul>
-<li><a href="http://deeplearning4j.org/deepautoencoder.html">Deep Autoencoders</a></li>
+<li>Autoencoders: Unsupervised (applies BackProp after setting target = input)
+
+<ul>
+<li><a href="https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf">Andrew Ng Sparse Autoencoders pdf</a></li>
+<li><a href="http://deeplearning4j.org/deepautoencoder.html">Deep Autoencoders Tutorial</a></li>
 <li>
 <a href="http://deeplearning.net/tutorial/dA.html">Denoising Autoencoders</a>, <a href="http://deeplearning.net/tutorial/code/dA.py">Theano Code</a>
 </li>
 <li><a href="http://deeplearning.net/tutorial/SdA.html#sda">Stacked Denoising Autoencoders</a></li>
 </ul>
 </li>
-<li>
-<p>Convolution Networks</p>
+</ul>
+
+<p><a name="cnn"></a></p>
 
 <ul>
-<li><a href="http://deeplearning4j.org/convolutionalnets.html">Intro</a></li>
-<li><a href="http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/">Understanding CNN for NLP AWESOME!</a></li>
+<li>Convolution Networks
+
+<ul>
+<li>
+<a href="https://github.com/kjw0612/awesome-deep-vision">Awesome Deep Vision: List of Resources (GitHub)</a> </li>
+<li><a href="http://deeplearning4j.org/convolutionalnets.html">Intro to CNNs</a></li>
+<li><a href="http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/">Understanding CNN for NLP</a></li>
 <li>
 <a href="http://vision.stanford.edu/teaching/cs231n/">Stanford Notes</a>, <a href="http://cs231n.github.io/">Codes</a>, <a href="https://github.com/cs231n/cs231n.github.io">GitHub</a>
 </li>
-<li><a href="http://cs.stanford.edu/people/karpathy/convnetjs/">JavaScript Library (Browser Based)</a></li>
+<li><a href="http://cs.stanford.edu/people/karpathy/convnetjs/">JavaScript Library (Browser Based) for CNNs</a></li>
 <li><a href="http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/">Using CNNs to detect facial keypoints</a></li>
 <li><a href="http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html">Deep learning to classify business photos at Yelp</a></li>
+<li><a href="http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/">Interview with Yann LeCun | Kaggle</a></li>
+<li><a href="https://www.cs.nyu.edu/%7Efergus/papers/zeilerECCV2014.pdf">Visualising and Understanding CNNs</a></li>
 </ul>
 </li>
+</ul>
+
+<p><a name="nlp"></a></p>
+
+<h2>
+<a id="natural-language-processing" class="anchor" href="#natural-language-processing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Natural Language Processing</h2>
+
+<ul>
+<li><a href="https://github.com/edobashira/speech-language-processing">A curated list of speech and natural language processing resources</a></li>
+<li><a href="http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/">Understanding Natural Language with Deep Neural Networks Using Torch</a></li>
+<li><a href="http://michaelerasm.us/tf-idf-in-10-minutes/">tf-idf explained</a></li>
+<li>
+<a href="http://cs224d.stanford.edu/reports.html">Interesting Deep Learning NLP Projects Stanford</a>, <a href="http://cs224d.stanford.edu/">Website</a>
+</li>
+<li><a href="https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35671.pdf">NLP from Scratch | Google Paper</a></li>
+<li><a href="http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf">Graph Based Semi Supervised Learning for NLP</a></li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Bag-of-words_model">Bag of Words</a>
+
+<ul>
+<li>
+<a href="http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/">Classification text with Bag of Words</a> 
+<a name="topic"></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Topic_model">Topic Modeling</a> 
+
+<ul>
+<li>
+<a href="https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation">LDA</a>, <a href="https://en.wikipedia.org/wiki/Latent_semantic_analysis">LSA</a>, <a href="https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis">Probabilistic LSA</a>
+</li>
+<li>
+<a href="http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/">Awesome LDA Explanation!</a>. <a href="http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html">Another good explanation</a>
+</li>
+<li><a href="http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/">The LDA Buffet- Intuitive Explanation</a></li>
+<li><a href="https://www.quora.com/Whats-the-difference-between-Latent-Semantic-Indexing-LSI-and-Latent-Dirichlet-Allocation-LDA">Difference between LSI and LDA</a></li>
+<li><a href="https://www.cs.princeton.edu/%7Eblei/papers/BleiNgJordan2003.pdf">Original LDA Paper</a></li>
+<li><a href="http://datascience.stackexchange.com/questions/199/what-does-the-alpha-and-beta-hyperparameters-contribute-to-in-latent-dirichlet-a">alpha and beta in LDA</a></li>
+<li><a href="https://www.quora.com/What-is-an-intuitive-explanation-of-the-Dirichlet-distribution">Intuitive explanation of the Dirichlet distribution</a></li>
+<li><a href="http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/">Topic modeling made just simple enough</a></li>
+<li>
+<a href="http://alexminnaar.com/online-latent-dirichlet-allocation-the-best-option-for-topic-modeling-with-large-data-sets.html">Online LDA</a>, <a href="http://alexminnaar.com/distributed-online-latent-dirichlet-allocation-with-apache-spark.html">Online LDA with Spark</a>
+</li>
+<li>
+<a href="http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-i-the-theory.html">LDA in Scala</a>, <a href="http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-ii-the-code.html">Part 2</a>
+</li>
+<li><a href="http://alexperrier.github.io/jekyll/update/2015/09/16/segmentation_twitter_timelines_lda_vs_lsa.html">Segmentation of Twitter Timelines via Topic Modeling</a></li>
+<li><a href="http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html">Topic Modeling of Twitter Followers</a></li>
+</ul>
+</li>
+</ul>
+
+<p><a name="word2vec"></a></p>
+
+<ul>
 <li>
 <p>word2vec</p>
 
@@ -448,53 +769,48 @@
 <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors">Word Vectors Kaggle Tutorial Python</a>, <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors">Part 2</a>
 </li>
 <li><a href="http://rare-technologies.com/making-sense-of-word2vec/">Making sense of word2vec</a></li>
-<li><a href="http://deeplearning4j.org/word2vec.html">deeplearning4j</a></li>
+<li><a href="http://deeplearning4j.org/word2vec.html">word2vec explained on deeplearning4j</a></li>
 <li><a href="https://www.quora.com/How-does-word2vec-work">Quora word2vec</a></li>
 <li>
-<a href="https://www.quora.com/What-are-the-continuous-bag-of-words-and-skip-gram-architectures-in-laymans-terms">Quora 1</a>, <a href="https://www.quora.com/What-is-the-difference-between-the-Bag-of-Words-model-and-the-Continuous-Bag-of-Words-model">2</a>, <a href="https://www.quora.com/Is-skip-gram-negative-sampling-better-than-CBOW-NS-for-word2vec-If-so-why">3</a>
+<a href="https://www.quora.com/What-are-the-continuous-bag-of-words-and-skip-gram-architectures-in-laymans-terms">Other Quora Resources</a>, <a href="https://www.quora.com/What-is-the-difference-between-the-Bag-of-Words-model-and-the-Continuous-Bag-of-Words-model">2</a>, <a href="https://www.quora.com/Is-skip-gram-negative-sampling-better-than-CBOW-NS-for-word2vec-If-so-why">3</a>
 </li>
+<li><a href="http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html">word2vec, DBN, RNTN for Sentiment Analysis </a></li>
 </ul>
 </li>
-</ul>
-
-<p><a name="nlp"></a></p>
-
-<h2>
-<a id="natural-language-processing" class="anchor" href="#natural-language-processing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Natural Language Processing</h2>
-
-<ul>
-<li><a href="http://michaelerasm.us/tf-idf-in-10-minutes/">tf-idf explained</a></li>
-<li><a href="https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists">A Good Post</a></li>
 <li>
-<p><a href="https://en.wikipedia.org/wiki/Topic_model">Topic Modeling</a> </p>
+<p>Text Clustering</p>
 
 <ul>
 <li>
-<a href="https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation">LDA</a>, <a href="https://en.wikipedia.org/wiki/Latent_semantic_analysis">LSA</a>, <a href="https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis">Probabilistic LSA</a>
-</li>
-<li><a href="https://www.linkedin.com/pulse/what-topic-modeling-shailendra-s-hiring-data-scientists">A Good Post</a></li>
-<li>
-<a href="http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/">AWESOME LDA EXPLANATION!</a>. <a href="http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html">Another good explanation</a>
-</li>
-<li><a href="http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/">The LDA Buffet- Intuitive Explanation</a></li>
-<li><a href="https://www.cs.princeton.edu/%7Eblei/papers/BleiNgJordan2003.pdf">Original LDA Paper</a></li>
-<li><a href="http://datascience.stackexchange.com/questions/199/what-does-the-alpha-and-beta-hyperparameters-contribute-to-in-latent-dirichlet-a">alpha and beta in LDA</a></li>
-<li><a href="https://www.quora.com/What-is-an-intuitive-explanation-of-the-Dirichlet-distribution">Intuitive explanation of the Dirichlet distribution</a></li>
-<li><a href="http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/">Topic modeling made just simple enough</a></li>
-<li>
-<a href="http://alexminnaar.com/online-latent-dirichlet-allocation-the-best-option-for-topic-modeling-with-large-data-sets.html">Online LDA</a>, <a href="http://alexminnaar.com/distributed-online-latent-dirichlet-allocation-with-apache-spark.html">Online LDA with Spark</a>
+<a href="http://stackoverflow.com/questions/8196371/how-clustering-works-especially-string-clustering">How string clustering works</a> </li>
+<li><a href="https://en.wikipedia.org/wiki/Levenshtein_distance">Levenshtein distance for measuring the difference between two sequences</a></li>
+<li><a href="http://stackoverflow.com/questions/21511801/text-clustering-with-levenshtein-distances">Text clustering with Levenshtein distances</a></li>
+</ul>
 </li>
 <li>
-<a href="http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-i-the-theory.html">LDA in Scala</a>, <a href="http://alexminnaar.com/latent-dirichlet-allocation-in-scala-part-ii-the-code.html">Part 2</a>
-</li>
+<p>Text Classification</p>
+
+<ul>
+<li>
+<a href="http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/">Classification Text with Bag of Words</a> </li>
 </ul>
 </li>
 <li><p><a href="http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/">Language learning with NLP and reinforcement learning</a></p></li>
 <li>
 <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words">Kaggle Tutorial Bag of Words and Word vectors</a>, <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors">Part 2</a>, <a href="https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors">Part 3</a>
 </li>
-<li><a href="https://gigadom.wordpress.com/2015/10/02/natural-language-processing-what-would-shakespeare-say/">What would Shakespeare say</a></li>
+<li><a href="https://gigadom.wordpress.com/2015/10/02/natural-language-processing-what-would-shakespeare-say/">What would Shakespeare say (NLP Tutorial)</a></li>
 <li><a href="http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf">A closer look at Skip Gram Modeling</a></li>
+</ul>
+
+<p><a name="vision"></a></p>
+
+<h2>
+<a id="computer-vision" class="anchor" href="#computer-vision" aria-hidden="true"><span class="octicon octicon-link"></span></a>Computer Vision</h2>
+
+<ul>
+<li><a href="https://github.com/jbhuang0604/awesome-computer-vision">Awesome computer vision (github)</a></li>
+<li><a href="https://github.com/kjw0612/awesome-deep-vision">Awesome deep vision (github)</a></li>
 </ul>
 
 <p><a name="svm"></a></p>
@@ -503,8 +819,56 @@
 <a id="support-vector-machine" class="anchor" href="#support-vector-machine" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support Vector Machine</h2>
 
 <ul>
+<li><a href="http://stats.stackexchange.com/questions/tagged/svm">Highest Voted Questions about SVMs on Cross Validated</a></li>
+<li><a href="http://stats.stackexchange.com/questions/3947/help-me-understand-support-vector-machines">Help me Understand SVMs!</a></li>
+<li><a href="https://www.quora.com/What-does-support-vector-machine-SVM-mean-in-laymans-terms">SVM in Layman's terms</a></li>
+<li><a href="http://stats.stackexchange.com/questions/23391/how-does-a-support-vector-machine-svm-work">How does SVM Work | Comparisons</a></li>
+<li><a href="http://alex.smola.org/papers/2003/SmoSch03b.pdf">A tutorial on SVMs</a></li>
 <li>
-<a href="http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1">SVMs &gt; ANNs</a>, <a href="http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines">ANNs &gt; SVMs</a>
+<a href="http://www.csie.ntu.edu.tw/%7Ecjlin/papers/guide/guide.pdf">Practical Guide to SVC</a>, <a href="http://www.csie.ntu.edu.tw/%7Ecjlin/talks/freiburg.pdf">Slides</a>
+</li>
+<li><a href="http://www.statsoft.com/Textbook/Support-Vector-Machines">Introductory Overview of SVMs</a></li>
+<li>Comparisons
+
+<ul>
+<li>
+<a href="http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1">SVMs &gt; ANNs</a>, <a href="http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines">ANNs &gt; SVMs</a>, <a href="http://www.svms.org/anns.html">Another Comparison</a>
+</li>
+<li><a href="http://stats.stackexchange.com/questions/57438/why-is-svm-not-so-good-as-decision-tree-on-the-same-data">Trees &gt; SVMs</a></li>
+<li><a href="http://stats.stackexchange.com/questions/43996/kernel-logistic-regression-vs-svm">Kernel Logistic Regression vs SVM</a></li>
+<li>
+<a href="http://stats.stackexchange.com/questions/58684/regularized-logistic-regression-and-support-vector-machine">Logistic Regression vs SVM</a>, <a href="http://stats.stackexchange.com/questions/95340/svm-v-s-logistic-regression">2</a>, <a href="https://www.quora.com/Support-Vector-Machines/What-is-the-difference-between-Linear-SVMs-and-Logistic-Regression">3</a>
+</li>
+</ul>
+</li>
+<li><a href="http://pages.cs.wisc.edu/%7Eswright/talks/sjw-complearning.pdf">Optimization Algorithms in Support Vector Machines</a></li>
+<li><a href="http://stats.stackexchange.com/questions/2179/variable-importance-from-svm">Variable Importance from SVM</a></li>
+<li>Software
+
+<ul>
+<li>
+<a href="https://www.csie.ntu.edu.tw/%7Ecjlin/libsvm/">LIBSVM</a> </li>
+<li><a href="http://cbio.ensmp.fr/%7Ejvert/svn/tutorials/practical/svmbasic/svmbasic_notes.pdf">Intro to SVM in R</a></li>
+</ul>
+</li>
+<li>Kernels
+
+<ul>
+<li><a href="https://www.quora.com/What-are-Kernels-in-Machine-Learning-and-SVM">What are Kernels in ML and SVM?</a></li>
+<li>
+<a href="https://www.quora.com/Support-Vector-Machines/What-is-the-intuition-behind-Gaussian-kernel-in-SVM">Intuition Behind Gaussian Kernel in SVMs?</a> </li>
+</ul>
+</li>
+<li>Probabilities post SVM
+
+<ul>
+<li>
+<a href="http://www.csie.ntu.edu.tw/%7Ehtlin/paper/doc/plattprob.pdf">Platt's Probabilistic Outputs for SVM</a><br>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Platt_scaling">Platt Calibration Wiki</a></li>
+<li><a href="http://stats.stackexchange.com/questions/5196/why-use-platts-scaling">Why use Platts Scaling</a></li>
+<li><a href="http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/">Classifier Classification with Platt's Scaling</a></li>
+</ul>
 </li>
 </ul>
 
@@ -514,18 +878,161 @@
 <a id="reinforcement-learning" class="anchor" href="#reinforcement-learning" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reinforcement Learning</h2>
 
 <ul>
+<li><a href="https://github.com/aikorea/awesome-rl">Awesome Reinforcement Learning (GitHub)</a></li>
 <li>
-<a href="http://outlace.com/Reinforcement-Learning-Part-1/">Tutorial Part 1</a>, <a href="http://outlace.com/Reinforcement-Learning-Part-2/">Part 2</a>
+<a href="http://outlace.com/Reinforcement-Learning-Part-1/">RL Tutorial Part 1</a>, <a href="http://outlace.com/Reinforcement-Learning-Part-2/">Part 2</a>
+</li>
+</ul>
+
+<p><a name="dt"></a></p>
+
+<h2>
+<a id="decision-trees" class="anchor" href="#decision-trees" aria-hidden="true"><span class="octicon octicon-link"></span></a>Decision Trees</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Decision_tree_learning">Wikipedia Page - Lots of Good Info</a></li>
+<li><a href="http://stats.stackexchange.com/questions/tagged/cart">FAQs about Decision Trees</a></li>
+<li><a href="http://statistical-research.com/a-brief-tour-of-the-trees-and-forests/">Brief Tour of Trees and Forests</a></li>
+<li><a href="http://www.statmethods.net/advstats/cart.html">Tree Based Models in R</a></li>
+<li><a href="http://www.aihorizon.com/essays/generalai/decision_trees.htm">How Decision Trees work?</a></li>
+<li><a href="http://stats.stackexchange.com/questions/1292/what-is-the-weak-side-of-decision-trees">Weak side of Decision Trees</a></li>
+<li><a href="http://www.ise.bgu.ac.il/faculty/liorr/hbchap9.pdf">Thorough Explanation and different algorithms</a></li>
+<li><a href="http://stackoverflow.com/questions/1859554/what-is-entropy-and-information-gain">What is entropy and information gain in the context of building decision trees?</a></li>
+<li><a href="http://www.slideshare.net/pierluca.lanzi/machine-learning-and-data-mining-11-decision-trees">Slides Related to Decision Trees</a></li>
+<li><a href="http://stats.stackexchange.com/questions/96025/how-do-decision-tree-learning-algorithms-deal-with-missing-values-under-the-hoo">How do decision tree learning algorithms deal with missing values?</a></li>
+<li><a href="http://www.salford-systems.com/videos/tutorials/tips-and-tricks/using-surrogates-to-improve-datasets-with-missing-values">Using Surrogates to Improve Datasets with Missing Values</a></li>
+<li><a href="https://www.mindtools.com/dectree.html">Good Article</a></li>
+<li><a href="http://stats.stackexchange.com/questions/12187/are-decision-trees-almost-always-binary-trees">Are decision trees almost always binary trees?</a></li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Pruning_(decision_trees)">Pruning Decision Trees</a>, <a href="https://en.wikipedia.org/wiki/Grafting_(decision_trees)">Grafting of Decision Trees</a>
+</li>
+<li><a href="http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart">What is Deviance in context of Decision Trees?</a></li>
+<li>Comparison of Different Algorithms
+
+<ul>
+<li><a href="http://stats.stackexchange.com/questions/12140/conditional-inference-trees-vs-traditional-decision-trees">CART vs CTREE</a></li>
+<li><a href="https://stackoverflow.com/questions/9979461/different-decision-tree-algorithms-with-comparison-of-complexity-or-performance">Comparison of complexity or performance</a></li>
+<li>
+<a href="http://stats.stackexchange.com/questions/61230/chaid-vs-crt-or-cart">CHAID vs CART</a> , <a href="http://www.bzst.com/2006/10/classification-trees-cart-vs-chaid.html">CART vs CHAID</a>
+</li>
+<li><a href="http://www.ftpress.com/articles/article.aspx?p=2248639&amp;seqNum=11">Good Article on comparison</a></li>
+</ul>
+</li>
+<li>CART
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Recursive_partitioning">Recursive Partitioning Wikipedia</a></li>
+<li><a href="http://documents.software.dell.com/Statistics/Textbook/Classification-and-Regression-Trees">CART Explained</a></li>
+<li><a href="http://stats.stackexchange.com/questions/6478/how-to-measure-rank-variable-importance-when-using-cart-specifically-using">How to measure/rank “variable importance” when using CART?</a></li>
+<li><a href="http://stackoverflow.com/questions/15318409/how-to-prune-a-tree-in-r">Pruning a Tree in R</a></li>
+<li><a href="http://stats.stackexchange.com/questions/4356/does-rpart-use-multivariate-splits-by-default">Does rpart use multivariate splits by default?</a></li>
+<li><a href="http://stats.stackexchange.com/questions/tagged/rpart">FAQs about Recursive Partitioning</a></li>
+</ul>
+</li>
+<li>CTREE
+
+<ul>
+<li>
+<a href="https://cran.r-project.org/web/packages/party/party.pdf">party package in R</a> </li>
+<li><a href="http://stackoverflow.com/questions/13772715/show-volume-in-each-node-using-ctree-plot-in-r">Show volumne in each node using ctree in R</a></li>
+<li><a href="http://stackoverflow.com/questions/8675664/how-to-extract-tree-structure-from-ctree-function">How to extract tree structure from ctree function?</a></li>
+</ul>
+</li>
+<li>CHAID
+
+<ul>
+<li>
+<a href="https://en.wikipedia.org/wiki/CHAID">Wikipedia Artice on CHAID</a> </li>
+<li><a href="https://smartdrill.com/Introduction-to-CHAID.html">Basic Introduction to CHAID</a></li>
+<li><a href="http://www.statsoft.com/Textbook/CHAID-Analysis">Good Tutorial on CHAID</a></li>
+</ul>
+</li>
+<li>MARS
+
+<ul>
+<li>
+<a href="https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines">Wikipedia Article on MARS</a> </li>
+</ul>
+</li>
+<li>Probabilistic Decision Trees
+
+<ul>
+<li>
+<a href="http://www.stats.org.uk/bayesian/Jordan.pdf">Bayesian Learning in Probabilistic Decision Trees</a> </li>
+<li><a href="http://people.stern.nyu.edu/adamodar/pdfiles/papers/probabilistic.pdf">Probabilistic Trees Research Paper</a></li>
+</ul>
+</li>
+</ul>
+
+<p><a name="rf"></a></p>
+
+<h2>
+<a id="random-forest--bagging" class="anchor" href="#random-forest--bagging" aria-hidden="true"><span class="octicon octicon-link"></span></a>Random Forest / Bagging</h2>
+
+<ul>
+<li><a href="https://github.com/kjw0612/awesome-random-forest">Awesome Random Forest (GitHub)**</a></li>
+<li><a href="https://www.kaggle.com/forums/f/15/kaggle-forum/t/4092/how-to-tune-rf-parameters-in-practice">How to tune RF parameters in practice?</a></li>
+<li><a href="http://stats.stackexchange.com/questions/12605/measures-of-variable-importance-in-random-forests">Measures of variable importance in random forests</a></li>
+<li><a href="http://stats.stackexchange.com/questions/13869/compare-r-squared-from-two-different-random-forest-models">Compare R-squared from two different Random Forest models</a></li>
+<li><a href="https://stat.ethz.ch/education/semesters/ss2012/ams/slides/v10.2.pdf">OOB Estimate Explained | RF vs LDA</a></li>
+<li><a href="http://www.jstatsoft.org/article/view/v050i11">Evaluating Random Forests for Survival Analysis Using Prediction Error Curve</a></li>
+<li><a href="http://stats.stackexchange.com/questions/98953/why-doesnt-random-forest-handle-missing-values-in-predictors">Why doesn't Random Forest handle missing values in predictors?</a></li>
+<li><a href="http://stackoverflow.com/questions/8370455/how-to-build-random-forests-in-r-with-missing-na-values">How to build random forests in R with missing (NA) values?</a></li>
+<li>
+<a href="http://stats.stackexchange.com/questions/tagged/random-forest">FAQs about Random Forest</a>, <a href="http://stackoverflow.com/questions/tagged/random-forest">More FAQs</a>
+</li>
+<li><a href="http://stats.stackexchange.com/questions/21152/obtaining-knowledge-from-a-random-forest">Obtaining knowledge from a random forest</a></li>
+<li>
+<a href="http://stackoverflow.com/questions/20537186/getting-predictions-after-rfimpute">Some Questions for R implementation</a>, <a href="http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore">2</a>, <a href="http://stackoverflow.com/questions/17059432/random-forest-package-in-r-shows-error-during-prediction-if-there-are-new-fact">3</a>
 </li>
 </ul>
 
 <p><a name="gbm"></a></p>
 
 <h2>
-<a id="gradient-boosting-machine" class="anchor" href="#gradient-boosting-machine" aria-hidden="true"><span class="octicon octicon-link"></span></a>Gradient Boosting Machine</h2>
+<a id="boosting" class="anchor" href="#boosting" aria-hidden="true"><span class="octicon octicon-link"></span></a>Boosting</h2>
+
+<ul>
+<li><a href="http://www.datasciencecentral.com/profiles/blogs/boosting-algorithms-for-better-predictions">Boosting for Better Predictions</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Boosting_(machine_learning)">Boosting Wikipedia Page</a></li>
+<li><a href="https://homes.cs.washington.edu/%7Etqchen/pdf/BoostedTree.pdf">Introduction to Boosted Trees | Tianqi Chen</a></li>
+<li>
+<p>Gradient Boosting Machine</p>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Gradient_boosting">Gradiet Boosting Wiki</a></li>
+<li>
+<a href="http://stats.stackexchange.com/questions/25748/what-are-some-useful-guidelines-for-gbm-parameters">Guidelines for GBM parameters in R</a>, <a href="http://stats.stackexchange.com/questions/35984/strategy-to-set-the-gbm-parameters">Strategy to set parameters</a>
+</li>
+<li>
+<a href="http://stats.stackexchange.com/questions/16501/what-does-interaction-depth-mean-in-gbm">Meaning of Interaction Depth</a>, <a href="http://stats.stackexchange.com/questions/16501/what-does-interaction-depth-mean-in-gbm">2</a>
+</li>
+<li><a href="http://stats.stackexchange.com/questions/30645/role-of-n-minobsinnode-parameter-of-gbm-in-r">Role of n.minobsinnode parameter of GBM in R</a></li>
+<li><a href="http://www.slideshare.net/mark_landry/gbm-package-in-r">GBM in R</a></li>
+<li><a href="http://stats.stackexchange.com/tags/gbm/hot">FAQs about GBM</a></li>
+<li><a href="https://www.kaggle.com/c/higgs-boson/forums/t/9497/r-s-gbm-vs-python-s-xgboost">GBM vs xgboost</a></li>
+</ul>
+</li>
+<li>
+<p>xgboost</p>
 
 <ul>
 <li><a href="https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log">xgboost tuning kaggle</a></li>
+<li><a href="https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/13012/question-to-experienced-kagglers-and-anyone-who-wants-to-take-a-shot/68296#post68296">xgboost vs gbm</a></li>
+<li><a href="https://www.kaggle.com/c/higgs-boson/forums/t/10335/xgboost-post-competition-survey">xgboost survey</a></li>
+</ul>
+</li>
+<li>AdaBoost
+
+<ul>
+<li>
+<a href="https://en.wikipedia.org/wiki/AdaBoost">AdaBoost Wiki</a>, <a href="https://gist.github.com/tristanwietsma/5486024">Python Code</a>
+</li>
+<li><a href="http://hamzehal.blogspot.com/2014/06/adaboost-sparse-input-support.html">AdaBoost Sparse Input Support</a></li>
+<li><a href="https://cran.r-project.org/web/packages/adabag/adabag.pdf">adaBag R package</a></li>
+<li><a href="http://math.mit.edu/%7Erothvoss/18.304.3PM/Presentations/1-Eric-Boosting304FinalRpdf.pdf">Tutorial</a></li>
+</ul>
+</li>
 </ul>
 
 <p><a name="ensem"></a></p>
@@ -534,7 +1041,46 @@
 <a id="ensembles" class="anchor" href="#ensembles" aria-hidden="true"><span class="octicon octicon-link"></span></a>Ensembles</h2>
 
 <ul>
-<li><a href="http://mlwave.com/kaggle-ensembling-guide/">AWESOME! KAGGLE ENSEMBLING GUIDE</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ensemble_learning">Wikipedia Article on Ensemble Learning</a></li>
+<li><a href="http://mlwave.com/kaggle-ensembling-guide/">Kaggle Ensembling Guide</a></li>
+<li><a href="http://www.overkillanalytics.net/more-is-always-better-the-power-of-simple-ensembles/">The Power of Simple Ensembles</a></li>
+<li><a href="http://machine-learning.martinsewell.com/ensembles/">Ensemble Learning Intro</a></li>
+<li><a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/springerEBR09.pdf">Ensemble Learning Paper</a></li>
+<li>
+<a href="http://amunategui.github.io/blending-models/">Ensembling models with R</a>, <a href="http://stats.stackexchange.com/questions/26790/ensembling-regression-models">Ensembling Regression Models in R</a>, <a href="http://www.vikparuchuri.com/blog/intro-to-ensemble-learning-in-r/">Intro to Ensembles in R</a>
+</li>
+<li><a href="http://stats.stackexchange.com/questions/27361/stacking-ensembling-models-with-caret">Ensembling Models with caret</a></li>
+<li><a href="http://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning">Bagging vs Boosting vs Stacking</a></li>
+<li><a href="https://www.kaggle.com/c/afsis-soil-properties/forums/t/10391/best-ensemble-references">Good Resources | Kaggle Africa Soil Property Prediction</a></li>
+<li><a href="http://www.chioka.in/which-is-better-boosting-or-bagging/">Boosting vs Bagging</a></li>
+<li><a href="http://stats.stackexchange.com/questions/32703/resources-for-learning-how-to-implement-ensemble-methods">Resources for learning how to implement ensemble methods</a></li>
+<li><a href="http://stats.stackexchange.com/questions/21502/how-are-classifications-merged-in-an-ensemble-classifier">How are classifications merged in an ensemble classifier?</a></li>
+</ul>
+
+<p><a name="stack"></a></p>
+
+<h2>
+<a id="stacking-models" class="anchor" href="#stacking-models" aria-hidden="true"><span class="octicon octicon-link"></span></a>Stacking Models</h2>
+
+<ul>
+<li><a href="http://www.chioka.in/stacking-blending-and-stacked-generalization/">Stacking, Blending and Stacked Generalization</a></li>
+<li><a href="http://machine-learning.martinsewell.com/ensembles/stacking/">Stacked Generalization (Stacking)</a></li>
+<li><a href="http://www.ijcai.org/Past%20Proceedings/IJCAI-97-VOL2/PDF/011.pdf">Stacked Generalization: when does it work?</a></li>
+<li><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1533&amp;rep=rep1&amp;type=pdf">Stacked Generalization Paper</a></li>
+</ul>
+
+<p><a name="vc"></a></p>
+
+<h2>
+<a id="vapnikchervonenkis-dimension" class="anchor" href="#vapnikchervonenkis-dimension" aria-hidden="true"><span class="octicon octicon-link"></span></a>Vapnik–Chervonenkis Dimension</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/VC_dimension">Wikipedia article on VC Dimension</a></li>
+<li><a href="https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way">Intuitive Explanantion of VC Dimension</a></li>
+<li><a href="https://www.youtube.com/watch?v=puDzy2XmR5c">Video explaining VC Dimension</a></li>
+<li><a href="http://www.svms.org/vc-dimension/">Introduction to VC Dimension</a></li>
+<li><a href="http://stats.stackexchange.com/questions/tagged/vc-dimension">FAQs about VC Dimension</a></li>
+<li><a href="http://stats.stackexchange.com/questions/78076/do-ensemble-techniques-increase-vc-dimension">Do ensemble techniques increase VC-dimension?</a></li>
 </ul>
 
 <p><a name="bayes"></a></p>
@@ -543,24 +1089,32 @@
 <a id="bayesian-machine-learning" class="anchor" href="#bayesian-machine-learning" aria-hidden="true"><span class="octicon octicon-link"></span></a>Bayesian Machine Learning</h2>
 
 <ul>
-<li><a href="http://videolectures.net/bark08_ghahramani_samlbb/">Should all Machine Learning be Bayesian</a></li>
+<li><a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers">Bayesian Methods for Hackers (using pyMC)</a></li>
+<li><a href="http://videolectures.net/bark08_ghahramani_samlbb/">Should all Machine Learning be Bayesian?</a></li>
 <li><a href="http://www.iro.umontreal.ca/%7Ebengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf">Tutorial on Bayesian Optimisation for Machine Learning</a></li>
 <li>
 <a href="http://blog.shakirm.com/2015/10/bayesian-reasoning-and-deep-learning/">Bayesian Reasoning and Deep Learning</a>, <a href="http://blog.shakirm.com/wp-content/uploads/2015/10/Bayes_Deep.pdf">Slides</a>
 </li>
-<li><a href="http://greenteapress.com/thinkbayes/">BAYESIAN STATISTICS MADE SIMPLE</a></li>
+<li><a href="http://greenteapress.com/thinkbayes/">Bayesian Statistics Made Simple</a></li>
 <li><a href="https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python">Kalman &amp; Bayesian Filters in Python</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Markov_chain">Markov Chain Wikipedia Page</a></li>
 </ul>
 
-<p><a name="ts"></a></p>
+<p><a name="semi"></a></p>
 
 <h2>
-<a id="time-series-forecasting" class="anchor" href="#time-series-forecasting" aria-hidden="true"><span class="octicon octicon-link"></span></a>Time Series Forecasting</h2>
+<a id="semi-supervised-learning" class="anchor" href="#semi-supervised-learning" aria-hidden="true"><span class="octicon octicon-link"></span></a>Semi Supervised Learning</h2>
 
 <ul>
-<li><a href="http://robjhyndman.com/uwafiles/fpp-notes.pdf">Forecasting Principles, Rob J Hyndman</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Semi-supervised_learning">Wikipedia article on Semi Supervised Learning</a></li>
 <li>
-<a href="http://nbviewer.ipython.org/github/alexminnaar/time-series-classification-and-clustering/blob/master/Time%20Series%20Classification%20and%20Clustering.ipynb">DYNAMIC TIME WARPING + Time Series Classification &amp; Clustering</a>, <a href="https://github.com/alexminnaar/time-series-classification-and-clustering">GitHub</a>
+<a href="http://pages.cs.wisc.edu/%7Ejerryzhu/pub/sslicml07.pdf">Tutorial on Semi Supervised Learning</a> </li>
+<li><a href="http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf">Graph Based Semi Supervised Learning for NLP</a></li>
+<li><a href="http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/taxo_%5B0%5D.pdf">Taxonomy</a></li>
+<li><a href="https://www.youtube.com/watch?v=sWxcIjZFGNM">Video Tutorial Weka</a></li>
+<li><a href="http://stats.stackexchange.com/questions/517/unsupervised-supervised-and-semi-supervised-learning">Unsupervised, Supervised and Semi Supervised learning</a></li>
+<li>
+<a href="http://mlg.eng.cam.ac.uk/zoubin/papers/zglactive.pdf">Research Papers 1</a>, <a href="http://mlg.eng.cam.ac.uk/zoubin/papers/zgl.pdf">2</a>, <a href="http://icml.cc/2012/papers/616.pdf">3</a>
 </li>
 </ul>
 
@@ -571,27 +1125,28 @@
 
 <ul>
 <li><a href="http://www.wdiam.com/2012/06/10/mean-variance-portfolio-optimization-with-r-and-quadratic-programming/?utm_content=buffer04c12&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer">Mean Variance Portfolio Optimization with R and Quadratic Programming</a></li>
-</ul>
-
-<p><a name="apps"></a></p>
-
-<h2>
-<a id="applications" class="anchor" href="#applications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Applications</h2>
-
-<ul>
+<li><a href="http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve/sjw-ima12">Algorithms for Sparse Optimization and Machine
+Learning</a></li>
 <li>
-<a href="http://www.dataschool.io/detecting-fraudulent-skype-users-via-machine-learning/">Detecting Fraudulent Skype Users via Machine Learning</a>,<a href="http://research.microsoft.com/pubs/205472/aisec10-leontjeva.pdf">Original Paper</a>
+<a href="http://pages.cs.wisc.edu/%7Eswright/nips2010/sjw-nips10.pdf">Optimization Algorithms in Machine Learning</a>, <a href="http://videolectures.net/nips2010_wright_oaml/">Video Lecture</a>
 </li>
+<li><a href="http://www.birs.ca/workshops/2011/11w2035/files/Wright.pdf">Optimization Algorithms for Data Analysis</a></li>
+<li><a href="http://videolectures.net/stephen_j_wright/">Video Lectures on Optimization</a></li>
+<li><a href="http://pages.cs.wisc.edu/%7Eswright/talks/sjw-complearning.pdf">Optimization Algorithms in Support Vector Machines</a></li>
+<li><a href="http://jmlr.org/papers/volume7/MLOPT-intro06a/MLOPT-intro06a.pdf">The Interplay of Optimization and Machine Learning Research</a></li>
 </ul>
+      </section>
+    </div>
 
-      <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/ujjwalkarn/machineLearning">machineLearning</a> is maintained by <a href="https://github.com/ujjwalkarn">ujjwalkarn</a>.</span>
-
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Machine Learning Tutorials maintained by <a href="https://github.com/ujjwalkarn">ujjwalkarn</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
+    </div>
 
-    </section>
+    
 
-  
   </body>
 </html>
