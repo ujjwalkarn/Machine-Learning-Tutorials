@@ -2,8 +2,8 @@
 
 This repository contains a topic-wise curated list of Machine Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome). 
 
-##Contents
-- [General Stuff](#general)
+##Table of Contents
+- [Miscellaneous](#general)
 - [Interview Resources](#interview)
 - [Artificial Intelligence](#ai)
 - [Genetic Algorithms](#ga)
@@ -42,7 +42,7 @@ This repository contains a topic-wise curated list of Machine Learning tutorials
 - [Optimizations](#opt)
 
 <a name="general" />
-##General Stuff
+##Miscellaneous
 - [A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
 - [A curated list of awesome data visualization libraries and resources.](https://github.com/fasouto/awesome-dataviz)
 - [An awesome Data Science repository to learn and apply for real world problems](https://github.com/okulbilisim/awesome-datascience)
