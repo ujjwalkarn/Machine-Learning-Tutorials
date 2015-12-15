@@ -2,6 +2,8 @@
 
 This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome). 
 
+If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
+
 ##Table of Contents
 - [Miscellaneous](#general)
 - [Interview Resources](#interview)
@@ -612,3 +614,4 @@ Learning](http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve/s
 - [The Interplay of Optimization and Machine Learning Research](http://jmlr.org/papers/volume7/MLOPT-intro06a/MLOPT-intro06a.pdf)
 
 
+For a collection of Data Science Tutorials, refer to [this list which uses R](https://github.com/ujjwalkarn/DataScienceR) and [this list which uses Python](https://github.com/ujjwalkarn/DataSciencePython).
