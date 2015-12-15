@@ -42,6 +42,7 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
 - [Bayesian Machine Learning](#bayes)
 - [Semi Supervised Learning](#semi)
 - [Optimizations](#opt)
+- [Other Useful Tutorials](#other)
 
 <a name="general" />
 ##Miscellaneous
@@ -613,5 +614,6 @@ Learning](http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve/s
 - [Optimization Algorithms in Support Vector Machines](http://pages.cs.wisc.edu/~swright/talks/sjw-complearning.pdf)
 - [The Interplay of Optimization and Machine Learning Research](http://jmlr.org/papers/volume7/MLOPT-intro06a/MLOPT-intro06a.pdf)
 
-
-For a collection of Data Science Tutorials, refer to [this list which uses R](https://github.com/ujjwalkarn/DataScienceR) and [this list which uses Python](https://github.com/ujjwalkarn/DataSciencePython).
+<a name="other" />
+##Other Tutorials
+- For a collection of Data Science Tutorials using R, please refer to [this list](https://github.com/ujjwalkarn/DataScienceR).
