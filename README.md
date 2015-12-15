@@ -339,9 +339,10 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [Computer Responds to email using LSTM | Google](http://googleresearch.blogspot.in/2015/11/computer-respond-to-this-email.html)
         - [LSTM dramatically improves Google Voice Search](http://googleresearch.blogspot.ch/2015/09/google-voice-search-faster-and-more.html), [Another Article](http://deeplearning.net/2015/09/30/long-short-term-memory-dramatically-improves-google-voice-etc-now-available-to-a-billion-users/)
         - [Understanding Natural Language with LSTM Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
+        - [Torch code for Visual Question Answering using a CNN+LSTM model](https://github.com/abhshkdz/neural-vqa)
     - Gated Recurrent Units (GRU)
         - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
-        - [Torch code for Visual Question Answering using a CNN+LSTM model](https://github.com/abhshkdz/neural-vqa)
+       
       
 <a name="rnn2" />
 - [Recursive Neural Network (not Recurrent)](https://en.wikipedia.org/wiki/Recursive_neural_network)
