@@ -293,6 +293,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     
     - TensorFlow 
         - [Website](http://tensorflow.org/)
+        - [TensorFlow Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
         - [Learning TensorFlow GitHub Repo](https://github.com/chetannaik/learning_tensorflow)
         - [Benchmark TensorFlow GitHub](https://github.com/soumith/convnet-benchmarks/issues/66)
         
