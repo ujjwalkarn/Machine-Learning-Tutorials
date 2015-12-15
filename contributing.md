@@ -1,4 +1,4 @@
-If you want to contribute to this list (please do), send me a pull request. Since we want this list to be useful in the long run, **please submit only high quality links**.
+If you want to contribute to this list (please do), send me a pull request. Since we want this list to be useful in the long run, **please submit high quality links only**.
 
 ## Adding to this list
 
