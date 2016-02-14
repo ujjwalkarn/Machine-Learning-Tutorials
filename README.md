@@ -120,6 +120,7 @@ If you want to contribute to this list, please read [Contributing Guidelines](ht
 - [r4stats](http://r4stats.com/) - analyze the world of data science, and to help people learn to use R
 - [Variance Explained](http://varianceexplained.org/) - David Robinson's Blog
 - [AI Junkie](http://www.ai-junkie.com/) - a blog about Artificial Intellingence
+- [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/)- Making deep learning accessible
 
 <a name="quora" />
 ##Resources on Quora
@@ -253,10 +254,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [Artificial Neural Networks Tutorials](http://stackoverflow.com/questions/478947/what-are-some-good-resources-for-learning-about-artificial-neural-networks)
 - [Neural Networks FAQs on Stack Overflow](http://stackoverflow.com/questions/tagged/neural-network?sort=votes&pageSize=50)
 - [Deep Learning Tutorials on deeplearning.net](http://deeplearning.net/tutorial/index.html)
-- [Deep Learning Implementation Tutorials - Keras and Lasagne](http://github.com/vict0rsch/deep_learning/)
-- [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/)
-- [Chris Olah's blog on Neural Networks](https://colah.github.io/)
-- [Awesome introduction to Neural Networks, how they learn and how they are coded by M. Nielsen](http://neuralnetworksanddeeplearning.com/) 
+- [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/) 
 
 - Neural Machine Translation
     - [Introduction to Neural Machine Translation with GPUs (part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
@@ -281,6 +279,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [RBM using Theano](http://deeplearning.net/tutorial/rbm.html#rbm)
         - [DBNs using Theano](http://deeplearning.net/tutorial/DBN.html#dbn)
         - [All Codes](https://github.com/lisa-lab/DeepLearningTutorials)
+        - [Deep Learning Implementation Tutorials - Keras and Lasagne](http://github.com/vict0rsch/deep_learning/)
         
     - [Torch](http://torch.ch/)
         - [Torch ML Tutorial](http://code.madbits.com/wiki/doku.php), [Code](https://github.com/torch/tutorials)
