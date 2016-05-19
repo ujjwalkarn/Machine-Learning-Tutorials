@@ -12,6 +12,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Please use the following format: `[Useful Title](link)`
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
-- Please Check your spelling and grammar.
+- Please check your spelling and grammar.
 
 Thank you for your suggestions!
