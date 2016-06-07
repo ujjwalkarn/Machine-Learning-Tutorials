@@ -67,6 +67,7 @@
 - [Machine Learning mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
 - [Statistical Machine Learning Course](http://www.stat.cmu.edu/~larry/=sml/)
 - [TheAnalyticsEdge edX Notes and Codes](https://github.com/pedrosan/TheAnalyticsEdge)
+- [A curated list of awesome TensorFlow projects, experiments, and libraries](https://github.com/jtoy/awesome-tensorflow)
 
 <a name="interview" />
 ##Interview Resources
