@@ -194,6 +194,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [Residuals in logistic regression](http://stats.stackexchange.com/questions/1432/what-do-the-residuals-in-a-logistic-regression-mean)
 - [Difference between logit and probit models](http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#30909), [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression), [Probit Model Wiki](https://en.wikipedia.org/wiki/Probit_model) 
 - [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
+- [Guide to an in-depth understanding of logistic regression](http://www.dataschool.io/guide-to-logistic-regression/)
 
 <a name="validation" />
 ##Model Validation using Resampling
