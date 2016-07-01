@@ -67,6 +67,7 @@
 - [Machine Learning mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
 - [Statistical Machine Learning Course](http://www.stat.cmu.edu/~larry/=sml/)
 - [TheAnalyticsEdge edX Notes and Codes](https://github.com/pedrosan/TheAnalyticsEdge)
+- [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 <a name="interview" />
 ##Interview Resources
