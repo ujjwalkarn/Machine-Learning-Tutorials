@@ -106,6 +106,7 @@
 - [What is an Unbiased Estimator?](https://www.physicsforums.com/threads/what-is-an-unbiased-estimator.547728/)
 - [Goodness of Fit Explained](https://en.wikipedia.org/wiki/Goodness_of_fit)
 - [What are QQ Plots?](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
+- [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) - Free PDF textbook
 
 <a name="blogs" />
 ##Useful Blogs
