@@ -156,7 +156,7 @@
 - [What is Deviance?](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
 - [When to choose which machine learning classifier?](http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier)
 - [What are the advantages of different classification algorithms?](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms)
-- [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/)
+- [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/) ([related video](https://youtu.be/OAl6eAyP-yo))
 - [An introduction to ROC analysis](https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf)
 - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 
