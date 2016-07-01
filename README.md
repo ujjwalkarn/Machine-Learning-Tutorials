@@ -145,6 +145,7 @@
 - [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
 - [Facebook Recruiting III Explained](http://alexminnaar.com/tag/kaggle-competitions.html)
 - [Predicting CTR with Online ML](http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/)
+- [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
 
 <a name="cs" />
 ##Cheat Sheets
