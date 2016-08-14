@@ -31,7 +31,7 @@
     - [Recurrent Neural Nets, LSTM, GRU](#rnn)
     - [Restricted Boltzmann Machine, DBNs](#rbm)
     - [Autoencoders](#auto)
-    - [Convolution Neural Nets](#cnn)
+    - [Convolutional Neural Nets](#cnn)
 - [Natural Language Processing](#nlp)
     - [Topic Modeling, LDA](#topic)
     - [Word2Vec](#word2vec)
@@ -383,7 +383,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     
 
 <a name="cnn" />
-- Convolution Networks
+- Convolutional Neural Networks
     - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
     - [Awesome Deep Vision: List of Resources (GitHub)](https://github.com/kjw0612/awesome-deep-vision) 
     - [Intro to CNNs](http://deeplearning4j.org/convolutionalnets.html)
