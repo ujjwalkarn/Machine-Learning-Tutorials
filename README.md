@@ -314,6 +314,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 
 <a name="feed" />
 - Feed Forward Networks
+    - [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
     - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
     - [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
     - [Basic ANN Theory](https://takinginitiative.wordpress.com/2008/04/03/basic-neural-network-tutorial-theory/)
@@ -383,6 +384,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 
 <a name="cnn" />
 - Convolution Networks
+    - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
     - [Awesome Deep Vision: List of Resources (GitHub)](https://github.com/kjw0612/awesome-deep-vision) 
     - [Intro to CNNs](http://deeplearning4j.org/convolutionalnets.html)
     - [Understanding CNN for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
