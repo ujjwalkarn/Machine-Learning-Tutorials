@@ -320,7 +320,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Basic ANN Theory](https://takinginitiative.wordpress.com/2008/04/03/basic-neural-network-tutorial-theory/)
     - [Role of Bias in Neural Networks](http://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks)
     - [Choosing number of hidden layers and nodes](http://stackoverflow.com/questions/3345079/estimating-the-number-of-neurons-and-number-of-layers-of-an-artificial-neural-ne),[2](http://stackoverflow.com/questions/10565868/multi-layer-perceptron-mlp-architecture-criteria-for-choosing-number-of-hidde?lq=1),[3](http://stackoverflow.com/questions/9436209/how-to-choose-number-of-hidden-layers-and-nodes-in-neural-network/2#)
-    - [Backpropagation Explained](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
+    - [Backpropagation in Matrix Form](http://sudeepraja.github.io/Neural/)
     - [ANN implemented in C++ | AI Junkie](http://www.ai-junkie.com/ann/evolved/nnt6.html)
     - [Simple Implementation](http://stackoverflow.com/questions/15395835/simple-multi-layer-neural-network-implementation)
     - [NN for Beginners](http://www.codeproject.com/Articles/16419/AI-Neural-Network-for-beginners-Part-of)
