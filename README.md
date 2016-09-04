@@ -562,6 +562,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
     - [xgboost vs gbm](https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/13012/question-to-experienced-kagglers-and-anyone-who-wants-to-take-a-shot/68296#post68296)
     - [xgboost survey](https://www.kaggle.com/c/higgs-boson/forums/t/10335/xgboost-post-competition-survey)
+    - [Practical XGBoost in Python online course (free)](http://education.parrotprediction.teachable.com/courses/practical-xgboost-in-python)
 - AdaBoost
     - [AdaBoost Wiki](https://en.wikipedia.org/wiki/AdaBoost), [Python Code](https://gist.github.com/tristanwietsma/5486024)
     - [AdaBoost Sparse Input Support](http://hamzehal.blogspot.com/2014/06/adaboost-sparse-input-support.html)
