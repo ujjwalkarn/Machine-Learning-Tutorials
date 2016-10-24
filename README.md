@@ -51,6 +51,7 @@
 
 <a name="general" />
 ##Miscellaneous
+- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
 - [A curated list of awesome data visualization libraries and resources.](https://github.com/fasouto/awesome-dataviz)
 - [An awesome Data Science repository to learn and apply for real world problems](https://github.com/okulbilisim/awesome-datascience)
