@@ -59,7 +59,7 @@
 - [Machine Learning FAQs on Cross Validated](http://stats.stackexchange.com/questions/tagged/machine-learning)
 - [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
 - [Machine Learning algorithms that you should always have a strong understanding of](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
-- [Differnce between Linearly Independent, Orthogonal, and Uncorrelated Variables](https://www.psych.umn.edu/faculty/waller/classes/FA2010/Readings/rodgers.pdf)
+- [Difference between Linearly Independent, Orthogonal, and Uncorrelated Variables](http://terpconnect.umd.edu/~bmomen/BIOM621/LineardepCorrOrthogonal.pdf)
 - [List of Machine Learning Concepts](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts)
 - [Slides on Several Machine Learning Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
 - [MIT Machine Learning Lecture Slides](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
