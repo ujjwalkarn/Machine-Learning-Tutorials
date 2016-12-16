@@ -130,7 +130,7 @@
 - [Variance Explained](http://varianceexplained.org/) - David Robinson's Blog
 - [AI Junkie](http://www.ai-junkie.com/) - a blog about Artificial Intellingence
 - [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/)- Making deep learning accessible
-- [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/)- J Alammar  Explorations in     touchable pixels and intelligent androids
+- [J Alammar's Blog](http://jalammar.github.io/)- Blog posts about Machine Learning and Neural Nets 
 
 
 <a name="quora" />
