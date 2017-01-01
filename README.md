@@ -413,6 +413,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 <a name="topic" />
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) 
     - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
+    - [What is a good explanation of Latent Dirichlet Allocation?](https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation)
     - [Awesome LDA Explanation!](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/). [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
     - [The LDA Buffet- Intuitive Explanation](http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)
     - [Difference between LSI and LDA](https://www.quora.com/Whats-the-difference-between-Latent-Semantic-Indexing-LSI-and-Latent-Dirichlet-Allocation-LDA)
