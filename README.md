@@ -51,6 +51,8 @@
 
 <a name="general" />
 ##Miscellaneous
+- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
 - [A curated list of awesome data visualization libraries and resources.](https://github.com/fasouto/awesome-dataviz)
 - [An awesome Data Science repository to learn and apply for real world problems](https://github.com/okulbilisim/awesome-datascience)
@@ -58,7 +60,7 @@
 - [Machine Learning FAQs on Cross Validated](http://stats.stackexchange.com/questions/tagged/machine-learning)
 - [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
 - [Machine Learning algorithms that you should always have a strong understanding of](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
-- [Differnce between Linearly Independent, Orthogonal, and Uncorrelated Variables](https://www.psych.umn.edu/faculty/waller/classes/FA2010/Readings/rodgers.pdf)
+- [Difference between Linearly Independent, Orthogonal, and Uncorrelated Variables](http://terpconnect.umd.edu/~bmomen/BIOM621/LineardepCorrOrthogonal.pdf)
 - [List of Machine Learning Concepts](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts)
 - [Slides on Several Machine Learning Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
 - [MIT Machine Learning Lecture Slides](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
@@ -79,6 +81,7 @@
 <a name="ai" />
 ##Artificial Intelligence
 - [Awesome Artificial Intelligence (GitHub Repo)](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html), [Lecture Videos](http://ai.berkeley.edu/lecture_videos.html), [2](https://www.youtube.com/watch?v=W1S-HSakPTM)
 - [edX course | Klein & Abbeel](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info)
 - [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
@@ -128,6 +131,8 @@
 - [Variance Explained](http://varianceexplained.org/) - David Robinson's Blog
 - [AI Junkie](http://www.ai-junkie.com/) - a blog about Artificial Intellingence
 - [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/)- Making deep learning accessible
+- [J Alammar's Blog](http://jalammar.github.io/)- Blog posts about Machine Learning and Neural Nets 
+
 
 <a name="quora" />
 ##Resources on Quora
@@ -409,6 +414,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 <a name="topic" />
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) 
     - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
+    - [What is a good explanation of Latent Dirichlet Allocation?](https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation)
     - [Awesome LDA Explanation!](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/). [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
     - [The LDA Buffet- Intuitive Explanation](http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)
     - [Difference between LSI and LDA](https://www.quora.com/Whats-the-difference-between-Latent-Semantic-Indexing-LSI-and-Latent-Dirichlet-Allocation-LDA)
