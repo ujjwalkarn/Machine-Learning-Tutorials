@@ -73,6 +73,7 @@
 
 <a name="interview" />
 ##Interview Resources
+- [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
 - [How can a computer science graduate student prepare himself for data scientist interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
 - [How do I learn Machine Learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)
 - [FAQs about Data Science Interviews](https://www.quora.com/topic/Data-Science-Interviews/faq)
@@ -432,6 +433,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - word2vec
     - [Google word2vec](https://code.google.com/archive/p/word2vec)
     - [Bag of Words Model Wiki](https://en.wikipedia.org/wiki/Bag-of-words_model)
+    - [word2vec Tutorial](https://rare-technologies.com/word2vec-tutorial/)
     - [A closer look at Skip Gram Modeling](http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf)
     - [Skip Gram Model Tutorial](http://alexminnaar.com/word2vec-tutorial-part-i-the-skip-gram-model.html), [CBoW Model](http://alexminnaar.com/word2vec-tutorial-part-ii-the-continuous-bag-of-words-model.html)
     - [Word Vectors Kaggle Tutorial Python](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
