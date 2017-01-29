@@ -133,7 +133,7 @@
 - [AI Junkie](http://www.ai-junkie.com/) - a blog about Artificial Intellingence
 - [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/)- Making deep learning accessible
 - [J Alammar's Blog](http://jalammar.github.io/)- Blog posts about Machine Learning and Neural Nets 
-
+- [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - Easiest Introduction to machine learning
 
 <a name="quora" />
 ##Resources on Quora
