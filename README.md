@@ -313,6 +313,8 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - TensorFlow 
         - [Website](http://tensorflow.org/)
         - [TensorFlow Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
+        - [Stanford Tensorflow for Deep Learning Research Course](https://web.stanford.edu/class/cs20si/syllabus.html)
+            - [GitHub Repo](https://github.com/chiphuyen/tf-stanford-tutorials)
         - [Simplified Scikit-learn Style Interface to TensorFlow](https://github.com/tensorflow/skflow)
         - [Learning TensorFlow GitHub Repo](https://github.com/chetannaik/learning_tensorflow)
         - [Benchmark TensorFlow GitHub](https://github.com/soumith/convnet-benchmarks/issues/66)
