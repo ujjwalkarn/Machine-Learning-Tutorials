@@ -1,6 +1,6 @@
 # Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome). 
+- This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome).
 
 - If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
 
@@ -23,7 +23,7 @@
 - [Linear Regression](#linear)
 - [Logistic Regression](#logistic)
 - [Model Validation using Resampling](#validation)
-    - [Cross Validation](#cross) 
+    - [Cross Validation](#cross)
     - [Bootstraping](#boot)
 - [Deep Learning](#deep)
     - [Frameworks](#frame)
@@ -63,13 +63,14 @@
 - [Difference between Linearly Independent, Orthogonal, and Uncorrelated Variables](http://terpconnect.umd.edu/~bmomen/BIOM621/LineardepCorrOrthogonal.pdf)
 - [List of Machine Learning Concepts](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts)
 - [Slides on Several Machine Learning Topics](http://www.slideshare.net/pierluca.lanzi/presentations)
-- [MIT Machine Learning Lecture Slides](http://www.ai.mit.edu/courses/6.867-f04/lectures.html) 
+- [MIT Machine Learning Lecture Slides](http://www.ai.mit.edu/courses/6.867-f04/lectures.html)
 - [Comparison Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [Learning Data Science Fundamentals](http://www.dataschool.io/learning-data-science-fundamentals/)
 - [Machine Learning mistakes to avoid](https://medium.com/@nomadic_mind/new-to-machine-learning-avoid-these-three-mistakes-73258b3848a4#.lih061l3l)
 - [Statistical Machine Learning Course](http://www.stat.cmu.edu/~larry/=sml/)
 - [TheAnalyticsEdge edX Notes and Codes](https://github.com/pedrosan/TheAnalyticsEdge)
 - [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+- [Have Fun With Machine Learning](https://github.com/humphd/have-fun-with-machine-learning)
 
 <a name="interview" />
 ##Interview Resources
@@ -91,7 +92,7 @@
 <a name="ga" />
 ##Genetic Algorithms
 - [Genetic Algorithms Wikipedia Page](https://en.wikipedia.org/wiki/Genetic_algorithm)
-- [Simple Implementation of Genetic Algorithms in Python (Part 1)](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/) 
+- [Simple Implementation of Genetic Algorithms in Python (Part 1)](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/)
 - [Genetic Algorithms vs Artificial Neural Networks](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
 - [Genetic Algorithms Explained in Plain English](http://www.ai-junkie.com/ga/intro/gat1.html)
 - [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
@@ -116,7 +117,7 @@
 
 <a name="blogs" />
 ##Useful Blogs
-- [Edwin Chen's Blog](http://blog.echen.me/) - A blog about Math, stats, ML, crowdsourcing, data science 
+- [Edwin Chen's Blog](http://blog.echen.me/) - A blog about Math, stats, ML, crowdsourcing, data science
 - [The Data School Blog](http://www.dataschool.io/) - Data science for beginners!
 - [ML Wave](http://mlwave.com/) - A blog for Learning Machine Learning
 - [Andrej Karpathy](http://karpathy.github.io/) - A blog about Deep Learning and Data Science in general
@@ -133,7 +134,7 @@
 - [Variance Explained](http://varianceexplained.org/) - David Robinson's Blog
 - [AI Junkie](http://www.ai-junkie.com/) - a blog about Artificial Intellingence
 - [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/)- Making deep learning accessible
-- [J Alammar's Blog](http://jalammar.github.io/)- Blog posts about Machine Learning and Neural Nets 
+- [J Alammar's Blog](http://jalammar.github.io/)- Blog posts about Machine Learning and Neural Nets
 - [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - Easiest Introduction to machine learning
 
 <a name="quora" />
@@ -149,7 +150,7 @@
 
 <a name="kaggle" />
 ##Kaggle Competitions WriteUp
-- [How to almost win Kaggle Competitions](https://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/) 
+- [How to almost win Kaggle Competitions](https://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/)
 - [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
 - [Facebook Recruiting III Explained](http://alexminnaar.com/tag/kaggle-competitions.html)
 - [Predicting CTR with Online ML](http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/)
@@ -202,7 +203,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [Geometric Intuition of Logistic Regression](http://florianhartl.com/logistic-regression-geometric-intuition.html)
 - [Obtaining predicted categories (choosing threshold)](http://stats.stackexchange.com/questions/25389/obtaining-predicted-values-y-1-or-0-from-a-logistic-regression-model-fit)
 - [Residuals in logistic regression](http://stats.stackexchange.com/questions/1432/what-do-the-residuals-in-a-logistic-regression-mean)
-- [Difference between logit and probit models](http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#30909), [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression), [Probit Model Wiki](https://en.wikipedia.org/wiki/Probit_model) 
+- [Difference between logit and probit models](http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#30909), [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression), [Probit Model Wiki](https://en.wikipedia.org/wiki/Probit_model)
 - [Pseudo R2 for Logistic Regression](http://stats.stackexchange.com/questions/3559/which-pseudo-r2-measure-is-the-one-to-report-for-logistic-regression-cox-s), [How to calculate](http://stats.stackexchange.com/questions/8511/how-to-calculate-pseudo-r2-from-rs-logistic-regression), [Other Details](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/Psuedo_RSquareds.htm)
 - [Guide to an in-depth understanding of logistic regression](http://www.dataschool.io/guide-to-logistic-regression/)
 
@@ -230,8 +231,8 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [CV for detecting and preventing Overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
         - [How does CV overcome the Overfitting Problem](http://stats.stackexchange.com/questions/9053/how-does-cross-validation-overcome-the-overfitting-problem)
 
-    
-    
+
+
     <a name="boot" />
 - [Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
     - [Why Bootstrapping Works?](http://stats.stackexchange.com/questions/26088/explaining-to-laypeople-why-bootstrapping-works)
@@ -239,7 +240,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Example of Bootstapping](http://statistics.about.com/od/Applications/a/Example-Of-Bootstrapping.htm)
     - [Understanding Bootstapping for Validation and Model Selection](http://stats.stackexchange.com/questions/14516/understanding-bootstrapping-for-validation-and-model-selection?rq=1)
     - [Cross Validation vs Bootstrap to estimate prediction error](http://stats.stackexchange.com/questions/18348/differences-between-cross-validation-and-bootstrapping-to-estimate-the-predictio), [Cross-validation vs .632 bootstrapping to evaluate classification performance](http://stats.stackexchange.com/questions/71184/cross-validation-or-bootstrapping-to-evaluate-classification-performance)
-   
+
 
 <a name="deep" />
 ##Deep Learning
@@ -270,7 +271,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [Artificial Neural Networks Tutorials](http://stackoverflow.com/questions/478947/what-are-some-good-resources-for-learning-about-artificial-neural-networks)
 - [Neural Networks FAQs on Stack Overflow](http://stackoverflow.com/questions/tagged/neural-network?sort=votes&pageSize=50)
 - [Deep Learning Tutorials on deeplearning.net](http://deeplearning.net/tutorial/index.html)
-- [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/) 
+- [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/)
 
 - Neural Machine Translation
     - [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
@@ -283,7 +284,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 
     - [Theano](https://en.wikipedia.org/wiki/Theano_(software))
-        - [Website](http://deeplearning.net/software/theano/) 
+        - [Website](http://deeplearning.net/software/theano/)
         - [Theano Introduction](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/)
         - [Theano Tutorial](http://outlace.com/Beginner-Tutorial-Theano/)
         - [Good Theano Tutorial](http://deeplearning.net/software/theano/tutorial/)
@@ -296,21 +297,21 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [DBNs using Theano](http://deeplearning.net/tutorial/DBN.html#dbn)
         - [All Codes](https://github.com/lisa-lab/DeepLearningTutorials)
         - [Deep Learning Implementation Tutorials - Keras and Lasagne](https://github.com/vict0rsch/deep_learning/)
-        
+
     - [Torch](http://torch.ch/)
         - [Torch ML Tutorial](http://code.madbits.com/wiki/doku.php), [Code](https://github.com/torch/tutorials)
         - [Intro to Torch](http://ml.informatik.uni-freiburg.de/_media/teaching/ws1415/presentation_dl_lect3.pdf)
         - [Learning Torch GitHub Repo](https://github.com/chetannaik/learning_torch)
         - [Awesome-Torch (Repository on GitHub)](https://github.com/carpedm20/awesome-torch)
         - [Machine Learning using Torch Oxford Univ](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/), [Code](https://github.com/oxford-cs-ml-2015)
-        - [Torch Internals Overview](https://apaszke.github.io/torch-internals.html)     
+        - [Torch Internals Overview](https://apaszke.github.io/torch-internals.html)
         - [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet)
         - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
-        
+
     - Caffe
         - [Deep Learning for Computer Vision with Caffe and cuDNN](https://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
-    
-    - TensorFlow 
+
+    - TensorFlow
         - [Website](http://tensorflow.org/)
         - [TensorFlow Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
         - [Stanford Tensorflow for Deep Learning Research Course](https://web.stanford.edu/class/cs20si/syllabus.html)
@@ -320,7 +321,6 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [Benchmark TensorFlow GitHub](https://github.com/soumith/convnet-benchmarks/issues/66)
         - [Awesome TensorFlow List](https://github.com/jtoy/awesome-tensorflow)
         - [TensorFlow Book](https://github.com/BinRoot/TensorFlow-Book)
-        
 
 <a name="feed" />
 - Feed Forward Networks
@@ -353,7 +353,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Music generation using RNNs (Keras)](https://github.com/MattVitelli/GRUV)
     - [Using RNN to create on-the-fly dialogue (Keras)](http://neuralniche.com/post/tutorial/)
     - Long Short Term Memory (LSTM)
-        - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) 
+        - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
         - [LSTM explained](https://apaszke.github.io/lstm-explained.html)
         - [Beginner’s Guide to LSTM](http://deeplearning4j.org/lstm.html)
         - [Implementing LSTM from scratch](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), [Python/Theano code](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
@@ -367,8 +367,8 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [Torch code for Visual Question Answering using a CNN+LSTM model](https://github.com/abhshkdz/neural-vqa)
     - Gated Recurrent Units (GRU)
         - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
-       
-      
+
+
 <a name="rnn2" />
 - [Recursive Neural Network (not Recurrent)](https://en.wikipedia.org/wiki/Recursive_neural_network)
     - [Recursive Neural Tensor Network (RNTN)](http://deeplearning4j.org/recursiveneuraltensornetwork.html)
@@ -376,7 +376,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 
 <a name="rbm" />
 - Restricted Boltzmann Machine
-    - [Beginner's Guide about RBMs](http://deeplearning4j.org/restrictedboltzmannmachine.html)     
+    - [Beginner's Guide about RBMs](http://deeplearning4j.org/restrictedboltzmannmachine.html)
     - [Another Good Tutorial](http://deeplearning.net/tutorial/rbm.html)
     - [Introduction to RBMs](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
     - [Hinton's Guide to Training RBMs](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
@@ -390,12 +390,12 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Deep Autoencoders Tutorial](http://deeplearning4j.org/deepautoencoder.html)
     - [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html), [Theano Code](http://deeplearning.net/tutorial/code/dA.py)
     - [Stacked Denoising Autoencoders](http://deeplearning.net/tutorial/SdA.html#sda)
-    
+
 
 <a name="cnn" />
 - Convolutional Neural Networks
     - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
-    - [Awesome Deep Vision: List of Resources (GitHub)](https://github.com/kjw0612/awesome-deep-vision) 
+    - [Awesome Deep Vision: List of Resources (GitHub)](https://github.com/kjw0612/awesome-deep-vision)
     - [Intro to CNNs](http://deeplearning4j.org/convolutionalnets.html)
     - [Understanding CNN for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
     - [Stanford Notes](http://vision.stanford.edu/teaching/cs231n/), [Codes](http://cs231n.github.io/), [GitHub](https://github.com/cs231n/cs231n.github.io)
@@ -415,9 +415,9 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [NLP from Scratch | Google Paper](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35671.pdf)
 - [Graph Based Semi Supervised Learning for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
 - [Bag of Words](https://en.wikipedia.org/wiki/Bag-of-words_model)
-    - [Classification text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/) 
+    - [Classification text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/)
 <a name="topic" />
-- [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model) 
+- [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model)
     - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
     - [What is a good explanation of Latent Dirichlet Allocation?](https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation)
     - [Awesome LDA Explanation!](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/). [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
@@ -447,13 +447,13 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [word2vec, DBN, RNTN for Sentiment Analysis ](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
 
 - Text Clustering
-    - [How string clustering works](http://stackoverflow.com/questions/8196371/how-clustering-works-especially-string-clustering) 
+    - [How string clustering works](http://stackoverflow.com/questions/8196371/how-clustering-works-especially-string-clustering)
     - [Levenshtein distance for measuring the difference between two sequences](https://en.wikipedia.org/wiki/Levenshtein_distance)
     - [Text clustering with Levenshtein distances](http://stackoverflow.com/questions/21511801/text-clustering-with-levenshtein-distances)
 
 - Text Classification
-    - [Classification Text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/) 
-    
+    - [Classification Text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/)
+
 - [Language learning with NLP and reinforcement learning](http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/)
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
 - [What would Shakespeare say (NLP Tutorial)](https://gigadom.wordpress.com/2015/10/02/natural-language-processing-what-would-shakespeare-say/)
@@ -482,13 +482,13 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [Optimization Algorithms in Support Vector Machines](http://pages.cs.wisc.edu/~swright/talks/sjw-complearning.pdf)
 - [Variable Importance from SVM](http://stats.stackexchange.com/questions/2179/variable-importance-from-svm)
 - Software
-    - [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) 
+    - [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
     - [Intro to SVM in R](http://cbio.ensmp.fr/~jvert/svn/tutorials/practical/svmbasic/svmbasic_notes.pdf)
 - Kernels
     - [What are Kernels in ML and SVM?](https://www.quora.com/What-are-Kernels-in-Machine-Learning-and-SVM)
-    - [Intuition Behind Gaussian Kernel in SVMs?](https://www.quora.com/Support-Vector-Machines/What-is-the-intuition-behind-Gaussian-kernel-in-SVM) 
+    - [Intuition Behind Gaussian Kernel in SVMs?](https://www.quora.com/Support-Vector-Machines/What-is-the-intuition-behind-Gaussian-kernel-in-SVM)
 - Probabilities post SVM
-    - [Platt's Probabilistic Outputs for SVM](http://www.csie.ntu.edu.tw/~htlin/paper/doc/plattprob.pdf)  
+    - [Platt's Probabilistic Outputs for SVM](http://www.csie.ntu.edu.tw/~htlin/paper/doc/plattprob.pdf)
     - [Platt Calibration Wiki](https://en.wikipedia.org/wiki/Platt_scaling)
     - [Why use Platts Scaling](http://stats.stackexchange.com/questions/5196/why-use-platts-scaling)
     - [Classifier Classification with Platt's Scaling](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)
@@ -529,19 +529,19 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
     - [Does rpart use multivariate splits by default?](http://stats.stackexchange.com/questions/4356/does-rpart-use-multivariate-splits-by-default)
     - [FAQs about Recursive Partitioning](http://stats.stackexchange.com/questions/tagged/rpart)
 - CTREE
-    - [party package in R](https://cran.r-project.org/web/packages/party/party.pdf) 
+    - [party package in R](https://cran.r-project.org/web/packages/party/party.pdf)
     - [Show volumne in each node using ctree in R](http://stackoverflow.com/questions/13772715/show-volume-in-each-node-using-ctree-plot-in-r)
     - [How to extract tree structure from ctree function?](http://stackoverflow.com/questions/8675664/how-to-extract-tree-structure-from-ctree-function)
 - CHAID
-    - [Wikipedia Artice on CHAID](https://en.wikipedia.org/wiki/CHAID) 
+    - [Wikipedia Artice on CHAID](https://en.wikipedia.org/wiki/CHAID)
     - [Basic Introduction to CHAID](https://smartdrill.com/Introduction-to-CHAID.html)
     - [Good Tutorial on CHAID](http://www.statsoft.com/Textbook/CHAID-Analysis)
 - MARS
-    - [Wikipedia Article on MARS](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) 
+    - [Wikipedia Article on MARS](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines)
 - Probabilistic Decision Trees
-    - [Bayesian Learning in Probabilistic Decision Trees](http://www.stats.org.uk/bayesian/Jordan.pdf) 
+    - [Bayesian Learning in Probabilistic Decision Trees](http://www.stats.org.uk/bayesian/Jordan.pdf)
     - [Probabilistic Trees Research Paper](http://people.stern.nyu.edu/adamodar/pdfiles/papers/probabilistic.pdf)
-    
+
 <a name="rf" />
 ##Random Forest / Bagging
 - [Awesome Random Forest (GitHub)**](https://github.com/kjw0612/awesome-random-forest)
@@ -557,7 +557,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [Some Questions for R implementation](http://stackoverflow.com/questions/20537186/getting-predictions-after-rfimpute), [2](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore), [3](http://stackoverflow.com/questions/17059432/random-forest-package-in-r-shows-error-during-prediction-if-there-are-new-fact)
 
 <a name="gbm" />
-##Boosting 
+##Boosting
 - [Boosting for Better Predictions](http://www.datasciencecentral.com/profiles/blogs/boosting-algorithms-for-better-predictions)
 - [Boosting Wikipedia Page](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
 - [Introduction to Boosted Trees | Tianqi Chen](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
@@ -597,7 +597,7 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 - [How are classifications merged in an ensemble classifier?](http://stats.stackexchange.com/questions/21502/how-are-classifications-merged-in-an-ensemble-classifier)
 
 <a name="stack" />
-##Stacking Models 
+##Stacking Models
 - [Stacking, Blending and Stacked Generalization](http://www.chioka.in/stacking-blending-and-stacked-generalization/)
 - [Stacked Generalization (Stacking)](http://machine-learning.martinsewell.com/ensembles/stacking/)
 - [Stacked Generalization: when does it work?](http://www.ijcai.org/Proceedings/97-2/011.pdf)
@@ -627,13 +627,13 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
 <a name="semi" />
 ##Semi Supervised Learning
 - [Wikipedia article on Semi Supervised Learning](https://en.wikipedia.org/wiki/Semi-supervised_learning)
-- [Tutorial on Semi Supervised Learning](http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf) 
+- [Tutorial on Semi Supervised Learning](http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf)
 - [Graph Based Semi Supervised Learning for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
 - [Taxonomy](http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/taxo_[0].pdf)
 - [Video Tutorial Weka](https://www.youtube.com/watch?v=sWxcIjZFGNM)
 - [Unsupervised, Supervised and Semi Supervised learning](http://stats.stackexchange.com/questions/517/unsupervised-supervised-and-semi-supervised-learning)
 - [Research Papers 1](http://mlg.eng.cam.ac.uk/zoubin/papers/zglactive.pdf), [2](http://mlg.eng.cam.ac.uk/zoubin/papers/zgl.pdf), [3](http://icml.cc/2012/papers/616.pdf)
- 
+
 
 
 <a name="opt" />
