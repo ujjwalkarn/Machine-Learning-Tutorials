@@ -321,6 +321,8 @@ Performance Evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.
         - [Benchmark TensorFlow GitHub](https://github.com/soumith/convnet-benchmarks/issues/66)
         - [Awesome TensorFlow List](https://github.com/jtoy/awesome-tensorflow)
         - [TensorFlow Book](https://github.com/BinRoot/TensorFlow-Book)
+        - [Android TensorFlow Machine Learning Example](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc)
+            - [GitHub Repo](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
 
 <a name="feed" />
 - Feed Forward Networks
