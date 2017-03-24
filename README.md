@@ -51,6 +51,7 @@
 
 <a name="general" />
 ## Miscellaneous
+
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
@@ -92,30 +93,50 @@
 - [Have Fun With Machine Learning](https://github.com/humphd/have-fun-with-machine-learning)
 
 <a name="interview" />
+
 ## Interview Resources
+
 - [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
+
 - [How can a computer science graduate student prepare himself for data scientist interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
+
 - [How do I learn Machine Learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)
+
 - [FAQs about Data Science Interviews](https://www.quora.com/topic/Data-Science-Interviews/faq)
+
 - [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
 
 <a name="ai" />
 ## Artificial Intelligence
+
 - [Awesome Artificial Intelligence (GitHub Repo)](https://github.com/owainlewis/awesome-artificial-intelligence)
+
 - [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html), [Lecture Videos](http://ai.berkeley.edu/lecture_videos.html), [2](https://www.youtube.com/watch?v=W1S-HSakPTM)
+
 - [MIT 6.034 Artificial Intelligence Lecture Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi), [Complete Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+
 - [edX course | Klein & Abbeel](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info)
+
 - [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+
 - [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
 
 <a name="ga" />
+
 ## Genetic Algorithms
+
 - [Genetic Algorithms Wikipedia Page](https://en.wikipedia.org/wiki/Genetic_algorithm)
+
 - [Simple Implementation of Genetic Algorithms in Python (Part 1)](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/)
+
 - [Genetic Algorithms vs Artificial Neural Networks](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
+
 - [Genetic Algorithms Explained in Plain English](http://www.ai-junkie.com/ga/intro/gat1.html)
+
 - [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
+
     - [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn)
+    
     - [Genetic Alogorithms vs Genetic Programming (Quora)](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
 
 <a name="stat" />
