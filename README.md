@@ -9,7 +9,7 @@
 - [Curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython).
 
 
-## Table of Contents
+## Contents
 - [Miscellaneous](#general)
 - [Interview Resources](#interview)
 - [Artificial Intelligence](#ai)
