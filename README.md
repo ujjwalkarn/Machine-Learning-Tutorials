@@ -478,7 +478,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         - [Logistic Regression using Theano for classifying digits](http://deeplearning.net/tutorial/logreg.html#logreg)
         
         - [MLP using Theano](http://deeplearning.net/tutorial/mlp.html#mlp)
-        
+.        
         - [CNN using Theano](http://deeplearning.net/tutorial/lenet.html#lenet)
         
         - [RNNs using Theano](http://deeplearning.net/tutorial/rnnslu.html#rnnslu)
@@ -498,7 +498,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         - [Torch ML Tutorial](http://code.madbits.com/wiki/doku.php), [Code](https://github.com/torch/tutorials)
         
         - [Intro to Torch](http://ml.informatik.uni-freiburg.de/_media/teaching/ws1415/presentation_dl_lect3.pdf)
-        
+w        
         - [Learning Torch GitHub Repo](https://github.com/chetannaik/learning_torch)
         
         - [Awesome-Torch (Repository on GitHub)](https://github.com/carpedm20/awesome-torch)
@@ -508,7 +508,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         - [Torch Internals Overview](https://apaszke.github.io/torch-internals.html)
         
         - [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet)
-        
+w        
         - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 
     - Caffe
@@ -516,7 +516,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
     - TensorFlow
         - [Website](http://tensorflow.org/)
-        
+
+
         - [TensorFlow Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
         
         - [Stanford Tensorflow for Deep Learning Research Course](https://web.stanford.edu/class/cs20si/syllabus.html)
@@ -526,7 +527,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         - [Simplified Scikit-learn Style Interface to TensorFlow](https://github.com/tensorflow/skflow)
         
         - [Learning TensorFlow GitHub Repo](https://github.com/chetannaik/learning_tensorflow)
-        
+
+
         - [Benchmark TensorFlow GitHub](https://github.com/soumith/convnet-benchmarks/issues/66)
         
         - [Awesome TensorFlow List](https://github.com/jtoy/awesome-tensorflow)
@@ -536,6 +538,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         - [Android TensorFlow Machine Learning Example](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc)
         
             - [GitHub Repo](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
+            
+        - [Python TensorFlow Tutorial - Build a Neural Network](http://www.adventuresinmachinelearning.com/python-tensorflow-tutorial/)
 
 <a name="feed" />
 
@@ -546,7 +550,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
     
     - [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
-    
+
+
     - [Basic ANN Theory](https://takinginitiative.wordpress.com/2008/04/03/basic-neural-network-tutorial-theory/)
     
     - [Role of Bias in Neural Networks](http://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks)
@@ -556,7 +561,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [Backpropagation in Matrix Form](http://sudeepraja.github.io/Neural/)
     
     - [ANN implemented in C++ | AI Junkie](http://www.ai-junkie.com/ann/evolved/nnt6.html)
-    
+
+
     - [Simple Implementation](http://stackoverflow.com/questions/15395835/simple-multi-layer-neural-network-implementation)
     
     - [NN for Beginners](http://www.codeproject.com/Articles/16419/AI-Neural-Network-for-beginners-Part-of)
@@ -567,6 +573,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 <a name="rnn" />
 
+
 - Recurrent and LSTM Networks
     - [awesome-rnn: list of resources (GitHub Repo)](https://github.com/kjw0612/awesome-rnn)
     
@@ -576,7 +583,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [Torch Code](https://github.com/karpathy/char-rnn), [Python Code](https://gist.github.com/karpathy/d4dee566867f8291f086)
     
-    - [Intro to RNN](http://deeplearning4j.org/recurrentnetwork.html), [LSTM](http://deeplearning4j.org/lstm.html)
+
+- [Intro to RNN](http://deeplearning4j.org/recurrentnetwork.html), [LSTM](http://deeplearning4j.org/lstm.html)
     
     - [An application of RNN](http://hackaday.com/2015/10/15/73-computer-scientists-created-a-neural-net-and-you-wont-believe-what-happened-next/)
     
@@ -596,7 +604,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - Long Short Term Memory (LSTM)
     
-        - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
         
         - [LSTM explained](https://apaszke.github.io/lstm-explained.html)
         
@@ -616,7 +625,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         
         - [LSTM dramatically improves Google Voice Search](http://googleresearch.blogspot.ch/2015/09/google-voice-search-faster-and-more.html), [Another Article](http://deeplearning.net/2015/09/30/long-short-term-memory-dramatically-improves-google-voice-etc-now-available-to-a-billion-users/)
         
-        - [Understanding Natural Language with LSTM Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
+
+- [Understanding Natural Language with LSTM Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
         
         - [Torch code for Visual Question Answering using a CNN+LSTM model](https://github.com/abhshkdz/neural-vqa)
         
@@ -626,6 +636,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 
 <a name="rnn2" />
+
 
 - [Recursive Neural Network (not Recurrent)](https://en.wikipedia.org/wiki/Recursive_neural_network)
 
@@ -637,6 +648,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - Restricted Boltzmann Machine
 
+
     - [Beginner's Guide about RBMs](http://deeplearning4j.org/restrictedboltzmannmachine.html)
     
     - [Another Good Tutorial](http://deeplearning.net/tutorial/rbm.html)
@@ -646,7 +658,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [Hinton's Guide to Training RBMs](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
     
     - [RBMs in R](https://github.com/zachmayer/rbm)
-    
+
+
     - [Deep Belief Networks Tutorial](http://deeplearning4j.org/deepbeliefnetwork.html)
     
     - [word2vec, DBN, RNTN for Sentiment Analysis ](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
@@ -656,7 +669,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - Autoencoders: Unsupervised (applies BackProp after setting target = input)
 
     - [Andrew Ng Sparse Autoencoders pdf](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf)
-    
+
+
     - [Deep Autoencoders Tutorial](http://deeplearning4j.org/deepautoencoder.html)
     
     - [Denoising Autoencoders](http://deeplearning.net/tutorial/dA.html), [Theano Code](http://deeplearning.net/tutorial/code/dA.py)
@@ -665,6 +679,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 
 <a name="cnn" />
+
 
 - Convolutional Neural Networks
 
