@@ -207,11 +207,13 @@
 
 - [AI Junkie](http://www.ai-junkie.com/) - a blog about Artificial Intellingence
 
-- [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/)- Making deep learning accessible
+- [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/) - Making deep learning accessible
 
 - [J Alammar's Blog](http://jalammar.github.io/)- Blog posts about Machine Learning and Neural Nets
 
 - [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - Easiest Introduction to machine learning
+
+- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage
 
 <a name="quora" />
 
