@@ -620,6 +620,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         
         - [Torch code for Visual Question Answering using a CNN+LSTM model](https://github.com/abhshkdz/neural-vqa)
         
+        - [LSTM for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/)
+        
     - Gated Recurrent Units (GRU)
     
         - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
