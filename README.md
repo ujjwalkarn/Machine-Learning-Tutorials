@@ -893,6 +893,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [What is Deviance in context of Decision Trees?](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
 
+- [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/) - Grow and plot a decision tree to automatically figure out hidden rules in your data
+
 - Comparison of Different Algorithms
 
     - [CART vs CTREE](http://stats.stackexchange.com/questions/12140/conditional-inference-trees-vs-traditional-decision-trees)
