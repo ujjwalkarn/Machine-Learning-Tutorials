@@ -538,6 +538,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         - [Android TensorFlow Machine Learning Example](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc)
         
             - [GitHub Repo](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
+        - [Creating Custom Model For Android Using TensorFlow](https://blog.mindorks.com/creating-custom-model-for-android-using-tensorflow-3f963d270bfb)
+            - [GitHub Repo](https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample)            
 
 <a name="feed" />
 
