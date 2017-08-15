@@ -93,6 +93,8 @@
 
 - [Have Fun With Machine Learning](https://github.com/humphd/have-fun-with-machine-learning)
 
+- [Twitter's Most Shared #machineLearning Content From The Past 7 Days](http://theherdlocker.com/tweet/popularity/machinelearning)
+
 <a name="interview" />
 
 ## Interview Resources
