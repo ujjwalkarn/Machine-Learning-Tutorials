@@ -347,7 +347,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="cross" />
 
 - [Cross Validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
-    - [How to use cross-validation in predictive modeling](http://stuartlacy.co.uk/04022016-crossvalidation)
+    - [How to use cross-validation in predictive modeling](http://stuartlacy.co.uk/2016/02/04/how-to-correctly-use-cross-validation-in-predictive-modelling/)
     - [Training with Full dataset after CV?](http://stats.stackexchange.com/questions/11602/training-with-the-full-dataset-after-cross-validation)
     
     - [Which CV method is best?](http://stats.stackexchange.com/questions/103459/how-do-i-know-which-method-of-cross-validation-is-best)
