@@ -131,8 +131,6 @@
 
 - [Genetic Algorithms Wikipedia Page](https://en.wikipedia.org/wiki/Genetic_algorithm)
 
-- [Simple Implementation of Genetic Algorithms in Python (Part 1)](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/)
-
 - [Genetic Algorithms vs Artificial Neural Networks](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
 
 - [Genetic Algorithms Explained in Plain English](http://www.ai-junkie.com/ga/intro/gat1.html)
