@@ -707,7 +707,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 
-- [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
+- [tf-idf explained](http://michaelerasm.us/post/tf-idf-in-10-minutes/)
 
 - [Interesting Deep Learning NLP Projects Stanford](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
 
