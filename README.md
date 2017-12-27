@@ -10,7 +10,7 @@
 
 
 ## Contents
-- [Miscellaneous](#general)
+- [Introduction](#general)
 - [Interview Resources](#interview)
 - [Artificial Intelligence](#ai)
 - [Genetic Algorithms](#ga)
@@ -51,7 +51,15 @@
 
 <a name="general" />
 
-## Miscellaneous
+## Introduction
+
+- [Machine Learning Course by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
+
+- [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+
+- [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
 
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
@@ -66,8 +74,6 @@
 - [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
 - [Machine Learning FAQs on Cross Validated](http://stats.stackexchange.com/questions/tagged/machine-learning)
-
-- [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
 
 - [Machine Learning algorithms that you should always have a strong understanding of](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
 
@@ -88,8 +94,6 @@
 - [Statistical Machine Learning Course](http://www.stat.cmu.edu/~larry/=sml/)
 
 - [TheAnalyticsEdge edX Notes and Codes](https://github.com/pedrosan/TheAnalyticsEdge)
-
-- [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 - [Have Fun With Machine Learning](https://github.com/humphd/have-fun-with-machine-learning)
 
@@ -395,6 +399,10 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="deep" />
 
 ## Deep Learning
+
+- [fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/)
+
+- [fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html)
 
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
