@@ -264,6 +264,8 @@
 
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
+- [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/)
+
 <a name="classification" />
 
 ## Classification
