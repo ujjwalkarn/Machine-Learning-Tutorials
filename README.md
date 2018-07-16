@@ -883,7 +883,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [FAQs about Decision Trees](http://stats.stackexchange.com/questions/tagged/cart)
 
-- [Brief Tour of Trees and Forests](http://statistical-research.com/a-brief-tour-of-the-trees-and-forests/)
+- [Brief Tour of Trees and Forests](https://statistical-research.com/index.php/2013/04/29/a-brief-tour-of-the-trees-and-forests/)
 
 - [Tree Based Models in R](http://www.statmethods.net/advstats/cart.html)
 
