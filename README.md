@@ -468,6 +468,13 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](https://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
      - [AWS MAchine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)
+     - [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go)
+     - [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
+     - [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
+     - [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action)
+     - [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning)
+     - [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)
+     - [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)
 
 <a name="frame" />
 
