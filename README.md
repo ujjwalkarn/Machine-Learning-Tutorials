@@ -461,7 +461,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [Deep Learning Tutorials on deeplearning.net](http://deeplearning.net/tutorial/index.html)
 
 - [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/)
-
+- [GANs in Action](https://www.manning.com/books/gans-in-action)
 - Neural Machine Translation
 
     - [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
