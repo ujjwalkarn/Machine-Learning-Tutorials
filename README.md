@@ -143,6 +143,8 @@
 
 - [Genetic Algorithms Explained in Plain English](http://www.ai-junkie.com/ga/intro/gat1.html)
 
+- [Genetic Algorithms in Machine Learning](https://docs.google.com/viewer?a=v&pid=sites&srcid=aWlpdGQuYWMuaW58YWkyMDE4fGd4OmI4NDE3NzZiNDkyMGYxNQ)
+
 - [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
 
     - [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn)
