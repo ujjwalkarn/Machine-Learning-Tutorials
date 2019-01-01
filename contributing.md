@@ -5,6 +5,7 @@ If you want to contribute to this list (please do), send me a pull request. Sinc
 Please ensure your pull request adheres to the following guidelines:
 
 - **Please make an individual pull request for each suggestion.**
+- Please only submit resources that are completly free to access. 
 - The pull request and commit should have a useful title.
 - Please search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure your link has a useful and relevant title.
