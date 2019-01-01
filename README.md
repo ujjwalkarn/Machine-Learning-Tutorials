@@ -723,6 +723,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Interesting Deep Learning NLP Projects Stanford](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
 
+- [The Stanford NLP Group](https://nlp.stanford.edu/)
+
 - [NLP from Scratch | Google Paper](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35671.pdf)
 
 - [Graph Based Semi Supervised Learning for NLP](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
@@ -799,6 +801,12 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
     - [Classification Text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/)
 
+- Named Entity Recognitation 
+    
+     - [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.shtml)
+
+     - [Named Entity Recognition: Applications and Use Cases- Towards Data Science](https://towardsdatascience.com/named-entity-recognition-applications-and-use-cases-acdbf57d595e)
+	
 - [Language learning with NLP and reinforcement learning](http://blog.dennybritz.com/2015/09/11/reimagining-language-learning-with-nlp-and-reinforcement-learning/)
 
 - [Kaggle Tutorial Bag of Words and Word vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words), [Part 2](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors), [Part 3](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors)
