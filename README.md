@@ -414,6 +414,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
+- **[Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md)**
+
 - [Lots of Deep Learning Resources](http://deeplearning4j.org/documentation.html)
 
 - [Interesting Deep Learning and NLP Projects (Stanford)](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
