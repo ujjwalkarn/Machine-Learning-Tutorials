@@ -32,6 +32,7 @@
     - [Restricted Boltzmann Machine, DBNs](#rbm)
     - [Autoencoders](#auto)
     - [Convolutional Neural Nets](#cnn)
+    - [Graph Representation Learning](#nrl)
 - [Natural Language Processing](#nlp)
     - [Topic Modeling, LDA](#topic)
     - [Word2Vec](#word2vec)
@@ -720,6 +721,19 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [Visualising and Understanding CNNs](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
+<a name="nrl" />
+
+- Network Representation Learning
+
+    - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+    
+    - [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)
+    
+    - [Network Representation Learning Papers](https://github.com/thunlp)
+    
+    - [Knowledge Representation Learning Papers](https://github.com/thunlp/KRLPapers)
+    
+    - [Graph Based Deep Learning Literature](https://github.com/naganandy/graph-based-deep-learning-literature)
 
 <a name="nlp" />
 
