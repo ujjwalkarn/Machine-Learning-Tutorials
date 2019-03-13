@@ -479,6 +479,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
     
     - [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](https://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
+- [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course)
 
 <a name="frame" />
 
