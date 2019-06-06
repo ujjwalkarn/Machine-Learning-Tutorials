@@ -233,6 +233,7 @@
 ## Books
 
 - [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise)
+- [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
 
 <a name="quora" />
 
