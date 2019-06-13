@@ -1,3 +1,4 @@
+
 # Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome).
@@ -1068,6 +1069,18 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [adaBag R package](https://cran.r-project.org/web/packages/adabag/adabag.pdf)
     
     - [Tutorial](http://math.mit.edu/~rothvoss/18.304.3PM/Presentations/1-Eric-Boosting304FinalRpdf.pdf)
+
+- CatBoost
+
+    - [CatBoost Documentation](https://catboost.ai/docs/)
+
+    - [Benchmarks](https://catboost.ai/#benchmark)
+
+    - [Tutorial](https://github.com/catboost/tutorials)
+
+    - [GitHub Project](https://github.com/catboost)
+
+    - [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 <a name="ensem" />
 
