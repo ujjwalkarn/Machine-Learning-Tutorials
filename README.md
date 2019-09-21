@@ -1176,7 +1176,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Research Papers 1](http://mlg.eng.cam.ac.uk/zoubin/papers/zglactive.pdf), [2](http://mlg.eng.cam.ac.uk/zoubin/papers/zgl.pdf), [3](http://icml.cc/2012/papers/616.pdf)
 
-
+- [When To Use Machine In The Loo[](https://www.lighttag.io/blog/when-to-use-machine-in-the-loop/) 
 <a name="opt" />
 
 ## Optimization
