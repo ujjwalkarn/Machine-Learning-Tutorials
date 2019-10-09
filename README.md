@@ -666,6 +666,13 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [Recursive Neural Tensor Network (RNTN)](http://deeplearning4j.org/recursiveneuraltensornetwork.html)
     
     - [word2vec, DBN, RNTN for Sentiment Analysis ](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
+    
+    
+<a name="tranfer" />
+
+- Transfer Learning
+	
+	-[Transfer Learning with Keras adnd Deep Learning](https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/)
 
 <a name="rbm" />
 
