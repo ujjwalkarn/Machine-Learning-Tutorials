@@ -292,6 +292,7 @@
 
 - [Simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 
+- [24 Evaluation Metrics for Binary Classification (and When to Use Them)](https://neptune.ml/blog/evaluation-metrics-binary-classification)
 
 <a name="linear" />
 
