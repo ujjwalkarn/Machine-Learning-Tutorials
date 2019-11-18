@@ -274,6 +274,8 @@
 
 - [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/)
 
+- [(24) Binary Classification Metrics Cheat Sheet](https://neptune.ml/blog/evaluation-metrics-binary-classification#26)
+
 <a name="classification" />
 
 ## Classification
