@@ -1197,6 +1197,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)
 
+- [Scikit Optimize: Bayesian Hyperparameter Optimization in Python](https://neptune.ml/blog/scikit-optimize)
 
 <a name="other" />
 
