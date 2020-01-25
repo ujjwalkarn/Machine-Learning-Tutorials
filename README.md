@@ -726,7 +726,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - Network Representation Learning
 
-    - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+    - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-classification)
     
     - [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding)
     
@@ -1161,6 +1161,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="semi" />
 
 ## Semi Supervised Learning
+
+- [Tutorial on Semi Supervised Learning with Karate Club](https://karateclub.readthedocs.io/en/latest/notes/introduction.html)
 
 - [Wikipedia article on Semi Supervised Learning](https://en.wikipedia.org/wiki/Semi-supervised_learning)
 
