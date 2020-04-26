@@ -760,17 +760,19 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
 <a name="topic" />
 
-- [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model)
-    - [Topic Modeling Wiki](https://en.wikipedia.org/wiki/Topic_model) 
+- Topic Modeling
+    - [Topic Modeling Wikipedia](https://en.wikipedia.org/wiki/Topic_model) 
     - [**Probabilistic Topic Models Princeton PDF**](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)
 
-    - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
+    - [LDA Wikipedia](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [LSA Wikipedia](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Probabilistic LSA Wikipedia](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis)
     
     - [What is a good explanation of Latent Dirichlet Allocation (LDA)?](https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation)
     
     - [**Introduction to LDA**](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/), [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
     
     - [The LDA Buffet - Intuitive Explanation](http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)
+    
+    - [Your Guide to Latent Dirichlet Allocation (LDA)](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
     
     - [Difference between LSI and LDA](https://www.quora.com/Whats-the-difference-between-Latent-Semantic-Indexing-LSI-and-Latent-Dirichlet-Allocation-LDA)
     
@@ -793,12 +795,11 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
     - [Multilingual Latent Dirichlet Allocation (LDA)](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA). ([Tutorial here](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA/blob/master/Multilingual-LDA-Pipeline-Tutorial.ipynb))
 
-    - [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
     - [Deep Belief Nets for Topic Modeling](https://github.com/larsmaaloee/deep-belief-nets-for-topic-modeling)
     - [Gaussian LDA for Topic Models with Word Embeddings](http://www.cs.cmu.edu/~rajarshd/papers/acl2015.pdf)
     - Python
         - [Series of lecture notes for probabilistic topic models written in ipython notebook](https://github.com/arongdari/topic-model-lecture-note)
-        - [**Implementation of various topic models in Python**](https://github.com/arongdari/python-topic-model)
+        - [Implementation of various topic models in Python](https://github.com/arongdari/python-topic-model)
            
 <a name="word2vec" />
 
