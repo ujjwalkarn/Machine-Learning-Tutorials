@@ -768,7 +768,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [What is a good explanation of Latent Dirichlet Allocation (LDA)?](https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation)
     
-    - [**Intrduction to LDA**](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/), [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
+    - [**Introduction to LDA**](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/), [Another good explanation](http://confusedlanguagetech.blogspot.in/2012/07/jordan-boyd-graber-and-philip-resnik.html)
     
     - [The LDA Buffet - Intuitive Explanation](http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)
     
