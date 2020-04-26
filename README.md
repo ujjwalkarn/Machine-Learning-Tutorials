@@ -792,6 +792,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - [Topic Modeling of Twitter Followers](http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html)
 
     - [Multilingual Latent Dirichlet Allocation (LDA)](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA). ([Tutorial here](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA/blob/master/Multilingual-LDA-Pipeline-Tutorial.ipynb))
+
+    - [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
     - [Deep Belief Nets for Topic Modeling](https://github.com/larsmaaloee/deep-belief-nets-for-topic-modeling)
     - [Gaussian LDA for Topic Models with Word Embeddings](http://www.cs.cmu.edu/~rajarshd/papers/acl2015.pdf)
     - Python
