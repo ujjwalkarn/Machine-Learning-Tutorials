@@ -1035,6 +1035,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Some Questions for R implementation](http://stackoverflow.com/questions/20537186/getting-predictions-after-rfimpute), [2](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore), [3](http://stackoverflow.com/questions/17059432/random-forest-package-in-r-shows-error-during-prediction-if-there-are-new-fact)
 
+- [Random Forest Model to Predict Customer Retention for Insurance Companies](https://github.com/SimitTomar/car-insurance-retention-prediction-random-forest)
+
 <a name="gbm" />
 
 ## Boosting
