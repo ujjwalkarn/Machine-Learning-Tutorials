@@ -137,6 +137,8 @@
 
 - [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
 
+- [AI Course Intellipaat](https://intellipaat.com/artificial-intelligence-deep-learning-course-with-tensorflow/)
+
 <a name="ga" />
 
 ## Genetic Algorithms
