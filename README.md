@@ -69,6 +69,8 @@
 
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
+- [Advanced NLP with spaCy (free course)](https://course.spacy.io/en/)
+
 - [Machine Learning from Scratch (Book)](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
 - [A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
