@@ -655,8 +655,13 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     - Gated Recurrent Units (GRU)
     
         - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
+	
+	- [GRUs for Fake News Classification](https://github.com/SauravMaheshkar/Fake-News-Classification/blob/master/models/Gated%20Recurrent%20Units.ipynb)
+	
+	- [LSTM for Fake News Classification](https://github.com/SauravMaheshkar/Fake-News-Classification/blob/master/models/BiDirectional%20RNN.ipynb)
     
     - [Time series forecasting with Sequence-to-Sequence (seq2seq) rnn models](https://github.com/guillaume-chevalier/seq2seq-signal-prediction)
+    
 
 
 <a name="rnn2" />
@@ -893,6 +898,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Variable Importance from SVM](http://stats.stackexchange.com/questions/2179/variable-importance-from-svm)
 
+- [SVMs for Fake News Classification](https://github.com/SauravMaheshkar/Fake-News-Classification/blob/master/models/Support%20Vector%20Machine.ipynb)
+
 - Software
 
     - [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
@@ -958,6 +965,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [What is Deviance in context of Decision Trees?](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
 
 - [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/) - Grow and plot a decision tree to automatically figure out hidden rules in your data
+
+- [Decision Trees for Fake News Classification](https://github.com/SauravMaheshkar/Fake-News-Classification/blob/master/models/Decision%20Trees.ipynb)
 
 - Comparison of Different Algorithms
 
@@ -1034,6 +1043,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [Obtaining knowledge from a random forest](http://stats.stackexchange.com/questions/21152/obtaining-knowledge-from-a-random-forest)
 
 - [Some Questions for R implementation](http://stackoverflow.com/questions/20537186/getting-predictions-after-rfimpute), [2](http://stats.stackexchange.com/questions/81609/whether-preprocessing-is-needed-before-prediction-using-finalmodel-of-randomfore), [3](http://stackoverflow.com/questions/17059432/random-forest-package-in-r-shows-error-during-prediction-if-there-are-new-fact)
+
+- [Random Forests for Fake News Classification](https://github.com/SauravMaheshkar/Fake-News-Classification/blob/master/models/Random%20Forest.ipynb)
 
 <a name="gbm" />
 
