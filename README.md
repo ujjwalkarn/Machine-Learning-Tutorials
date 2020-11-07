@@ -538,6 +538,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         - [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet)
         
         - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
+	
+	- [Dive Into Deep Learning (PyTorch Version)](https://github.com/dsgiitr/d2l-pytorch)
 
     - Caffe
         - [Deep Learning for Computer Vision with Caffe and cuDNN](https://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
