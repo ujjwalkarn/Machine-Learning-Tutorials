@@ -57,6 +57,8 @@
 
 - [Machine Learning Course by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
 
+- [AI/ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+
 - [Curated List of Machine Learning Resources](https://hackr.io/tutorials/learn-machine-learning-ml)
 
 - [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
