@@ -105,6 +105,8 @@
 
 - [Twitter's Most Shared #machineLearning Content From The Past 7 Days](http://theherdlocker.com/tweet/popularity/machinelearning)
 
+- [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
+
 <a name="interview" />
 
 ## Interview Resources
