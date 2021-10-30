@@ -105,6 +105,8 @@
 
 - [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
 
+- [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning)
+
 <a name="interview" />
 
 ## Interview Resources
