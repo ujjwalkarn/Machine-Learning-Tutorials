@@ -233,6 +233,8 @@
 
 - [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage
 
+- [Neptune Blog](https://neptune.ai/blog) - A blog about Machine Learning and MLOps
+
 <a name="quora" />
 
 ## Resources on Quora
