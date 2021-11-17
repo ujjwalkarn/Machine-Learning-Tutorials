@@ -107,6 +107,8 @@
 
 - [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning)
 
+- [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp)
+
 <a name="interview" />
 
 ## Interview Resources
