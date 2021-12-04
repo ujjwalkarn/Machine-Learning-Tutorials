@@ -38,6 +38,7 @@
     - [Topic Modeling, LDA](#topic)
     - [Word2Vec](#word2vec)
 - [Computer Vision](#vision)
+- [Signal Processing](#signal)
 - [Support Vector Machine](#svm)
 - [Reinforcement Learning](#rl)
 - [Decision Trees](#dt)
@@ -662,6 +663,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [Time series forecasting with Sequence-to-Sequence (seq2seq) rnn models](https://github.com/guillaume-chevalier/seq2seq-signal-prediction)
 
+    - [Time Series Forecasting with TensorFlow.js](https://github.com/jinglescode/time-series-forecasting-tensorflowjs)
 
 <a name="rnn2" />
 
@@ -839,6 +841,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [Text clustering with Levenshtein distances](http://stackoverflow.com/questions/21511801/text-clustering-with-levenshtein-distances)
 
+    - [Textual Similarity with TensorFlow.js](https://github.com/jinglescode/textual-similarity-universal-sentence-encoder)
+
 - Text Classification
 
     - [Classification Text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/)
@@ -864,6 +868,11 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Awesome deep vision (github)](https://github.com/kjw0612/awesome-deep-vision)
 
+<a name="signal" />
+
+## Signal Processing
+
+- [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
 
 <a name="svm" />
 
