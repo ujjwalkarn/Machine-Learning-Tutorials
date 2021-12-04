@@ -864,6 +864,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Awesome deep vision (github)](https://github.com/kjw0612/awesome-deep-vision)
 
+- [Medical Imaging with Deep Learning Tutorial](https://www.youtube.com/playlist?list=PLheiZMDg_8ufxEx9cNVcOYXsT3BppJP4b)
+
 
 <a name="svm" />
 
