@@ -1212,6 +1212,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)
 
+- [Hyperparameter Optimization of Machine Learning Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms)
 
 <a name="other" />
 
