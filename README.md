@@ -920,6 +920,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [Classifier Classification with Platt's Scaling](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)
 
+- [How to train a Support Vector Machine in R with mlr for classification](https://youtu.be/lirZZIdZFjM) - a video by Hefin I. Rhys
+
 
 <a name="rl" />
 
