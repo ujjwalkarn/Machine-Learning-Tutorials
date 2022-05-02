@@ -113,6 +113,8 @@
 
 - [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
+- [Latest Data Science Interview Questions and Answers](https://www.interviewbit.com/data-science-interview-questions/)
+
 - [How can a computer science graduate student prepare himself for data scientist interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
 
 - [How do I learn Machine Learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)
@@ -122,6 +124,8 @@
 - [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
 
 - [The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
+
+- [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
 
 <a name="ai" />
 
@@ -194,6 +198,8 @@
 ## Useful Blogs
 
 - [Edwin Chen's Blog](http://blog.echen.me/) - A blog about Math, stats, ML, crowdsourcing, data science
+
+- [Interview Preparation](https://www.interviewbit.com/blog/) - Comprehensice Guide for Tech Interview Preparation 
 
 - [The Data School Blog](http://www.dataschool.io/) - Data science for beginners!
 
