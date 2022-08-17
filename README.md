@@ -478,6 +478,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/)
 
+- [Understand what is Deep Learning](https://www.scaler.com/topics/what-is-deep-learning/)
+
 - Neural Machine Translation
 
     - **[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List#machine-translation-reading-list)**
