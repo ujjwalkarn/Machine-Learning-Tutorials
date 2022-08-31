@@ -1176,6 +1176,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Markov Chain Wikipedia Page](https://en.wikipedia.org/wiki/Markov_chain)
 
+- [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) - Book
+
 
 <a name="semi" />
 
