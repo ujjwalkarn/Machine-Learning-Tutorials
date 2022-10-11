@@ -10,7 +10,7 @@
 - [Curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython).
 
 
-## Contents
+## Topics to Learn
 - [Introduction](#general)
 - [Interview Resources](#interview)
 - [Artificial Intelligence](#ai)
@@ -109,7 +109,7 @@
 
 <a name="interview" />
 
-## Interview Resources
+## Resourses helpful interview
 
 - [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
