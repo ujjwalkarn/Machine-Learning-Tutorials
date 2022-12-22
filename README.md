@@ -1178,6 +1178,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) - Book
 
+- [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth) - Book
+
 
 <a name="semi" />
 
