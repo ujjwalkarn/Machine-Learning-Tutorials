@@ -109,6 +109,8 @@
 
 - [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp)
 
+- [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth)
+
 <a name="interview" />
 
 ## Interview Resources
