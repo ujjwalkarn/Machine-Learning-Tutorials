@@ -107,6 +107,12 @@
 
 - [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
 
+- [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning)
+
+- [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp)
+
+- [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth)
+
 <a name="interview" />
 
 ## Interview Resources
@@ -918,6 +924,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [Classifier Classification with Platt's Scaling](http://fastml.com/classifier-calibration-with-platts-scaling-and-isotonic-regression/)
 
+- [How to train a Support Vector Machine in R with mlr for classification](https://youtu.be/lirZZIdZFjM) - a video by Hefin I. Rhys
+
 
 <a name="rl" />
 
@@ -1171,6 +1179,10 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [Kalman & Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 - [Markov Chain Wikipedia Page](https://en.wikipedia.org/wiki/Markov_chain)
+
+- [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) - Book
+
+- [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth) - Book
 
 
 <a name="semi" />
