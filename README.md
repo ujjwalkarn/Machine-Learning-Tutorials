@@ -478,6 +478,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/)
 
+- [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/)
+
 - Neural Machine Translation
 
     - **[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List#machine-translation-reading-list)**
