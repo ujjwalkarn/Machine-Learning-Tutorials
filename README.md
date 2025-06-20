@@ -233,6 +233,8 @@
 
 - [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage
 
+- [Train in Data's Blog](https://www.blog.trainindata.com/) - Articles on feature engineering and selection, hyperparameter tuning, working with imbalanced data, forecasting and more
+
 <a name="quora" />
 
 ## Resources on Quora
