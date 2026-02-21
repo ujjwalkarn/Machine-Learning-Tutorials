@@ -1220,3 +1220,5 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - For a collection of Data Science Tutorials using R, please refer to [this list](https://github.com/ujjwalkarn/DataScienceR).
 
 - For a collection of Data Science Tutorials using Python, please refer to [this list](https://github.com/ujjwalkarn/DataSciencePython).
+
+- For a curated map of LLM and RAG debugging patterns in RAG pipelines,, please refer to [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md).
