@@ -233,6 +233,8 @@
 
 - [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage
 
+- [8bitconcepts](https://8bitconcepts.com/) - AI industry research papers covering topics like AI pricing models, enterprise adoption patterns, and evaluation frameworks
+
 <a name="quora" />
 
 ## Resources on Quora
