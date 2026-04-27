@@ -157,7 +157,7 @@
 
     - [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn)
     
-    - [Genetic Alogorithms vs Genetic Programming (Quora)](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
+    - [Genetic Algorithms vs Genetic Programming (Quora)](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
 
 <a name="stat" />
 
