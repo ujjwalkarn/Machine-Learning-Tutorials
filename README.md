@@ -49,6 +49,7 @@
 - [Bayesian Machine Learning](#bayes)
 - [Semi Supervised Learning](#semi)
 - [Optimizations](#opt)
+- [Interactive Tools](#interactive-tools)
 - [Other Useful Tutorials](#other)
 
 <a name="general" />
@@ -1212,6 +1213,10 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)
 
+<a name="interactive-tools" />
+
+### Interactive Tools
+- [StepByStepML: Interactive Step-by-Step Machine Learning Algorithm Calculators](https://www.stepbystepml.com)
 
 <a name="other" />
 
