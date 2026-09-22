@@ -107,6 +107,8 @@
 
 - [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
 
+- [QuiddityML: Learn Machine Learning Through Short Lessons and Hands-On Exercises](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=Machine-Learning-Tutorials)
+
 <a name="interview" />
 
 ## Interview Resources
