@@ -107,6 +107,8 @@
 
 - [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
 
+- [Tiny ML Lab: NumPy Implementations, Workbooks, and Failure Tests](https://github.com/RishabhPande/tiny-ml-lab)
+
 <a name="interview" />
 
 ## Interview Resources
